@@ -1,0 +1,1671 @@
+[
+  {
+    "qInfo": {
+      "qId": "0cd43bd2-41f1-45cd-b7a5-97237069a3d0",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "N",
+      "qFieldDefs": [
+        "Wall Type"
+      ],
+      "qFieldLabels": [
+        "Wall Type"
+      ],
+      "title": "Wall Type"
+    },
+    "qMetaDef": {
+      "title": "Wall Type",
+      "description": "",
+      "tags": [
+        "Wall Type"
+      ]
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "1c2f8be9-ce40-4bb8-8aa0-a0180bac9b85",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "N",
+      "qFieldDefs": [
+        "Manufacturing Process"
+      ],
+      "qFieldLabels": [
+        "Manufacturing Process"
+      ],
+      "title": "Manufacturing Process"
+    },
+    "qMetaDef": {
+      "title": "Manufacturing Process",
+      "description": "",
+      "tags": [
+        "Manufacturing Process"
+      ]
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "1d03217d-a46d-48e6-9149-615026556c67",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "N",
+      "qFieldDefs": [
+        "Printing Type"
+      ],
+      "qFieldLabels": [
+        "Printing Type"
+      ],
+      "title": "Printing Type"
+    },
+    "qMetaDef": {
+      "title": "Printing Type",
+      "description": "",
+      "tags": [
+        "Printing Type"
+      ]
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "262a7ae7-b131-44f2-b8ae-8e402bbdfd33",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "H",
+      "qFieldDefs": [
+        "Customer Group",
+        "Geographical State",
+        "Style",
+        "Customer"
+      ],
+      "qFieldLabels": [],
+      "title": "Group-St-BB Sales Dashboard"
+    },
+    "qMetaDef": {
+      "title": "Group-St-BB Sales Dashboard",
+      "description": "",
+      "tags": []
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "295a240f-c67d-45b2-a1ed-1a8e976524b0",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "N",
+      "qFieldDefs": [
+        "Charge"
+      ],
+      "qFieldLabels": [
+        "Charge"
+      ],
+      "title": "Charge"
+    },
+    "qMetaDef": {
+      "title": "Charge",
+      "description": "",
+      "tags": [
+        "Charge"
+      ]
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "2cfa101e-d9c7-4662-a623-bd376f4935bb",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "N",
+      "qFieldDefs": [
+        "Manufacturing Joining Process"
+      ],
+      "qFieldLabels": [
+        "Manufacturing Joining Process"
+      ],
+      "title": "Manufacturing Joining Process"
+    },
+    "qMetaDef": {
+      "title": "Manufacturing Joining Process",
+      "description": "",
+      "tags": [
+        "Manufacturing Joining Process"
+      ]
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "30c21c98-a86d-4b44-ad89-b180ef05db68",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "N",
+      "qFieldDefs": [
+        "User"
+      ],
+      "qFieldLabels": [
+        "User"
+      ],
+      "title": "User"
+    },
+    "qMetaDef": {
+      "title": "User",
+      "description": "",
+      "tags": [
+        "User"
+      ]
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "311d76b8-135b-456c-b792-6e9d036dd1e4",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "N",
+      "qFieldDefs": [
+        "Business Type"
+      ],
+      "qFieldLabels": [
+        "Business Type"
+      ],
+      "title": "Business Type"
+    },
+    "qMetaDef": {
+      "title": "Business Type",
+      "description": "",
+      "tags": [
+        "Business Type"
+      ]
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "34883e31-973a-4f02-8549-558792a6d5a7",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "H",
+      "qFieldDefs": [
+        "Geographical Continent",
+        "Geographical Country",
+        "Geographical Area",
+        "Geographical State",
+        "Geographical City"
+      ],
+      "qFieldLabels": [],
+      "title": "Continent"
+    },
+    "qMetaDef": {
+      "title": "Continent",
+      "description": "",
+      "tags": [
+        "Area",
+        "City",
+        "Continent",
+        "Country",
+        "State"
+      ]
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "39a0b339-6342-4c6a-ac1d-7c676fa71c02",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "N",
+      "qFieldDefs": [
+        "Manufacturing Joining Material"
+      ],
+      "qFieldLabels": [
+        "Manufacturing Joining Material"
+      ],
+      "title": "Manufacturing Joining Material"
+    },
+    "qMetaDef": {
+      "title": "Manufacturing Joining Material",
+      "description": "",
+      "tags": [
+        "Manufacturing Joining Material"
+      ]
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "41d1852d-e436-4661-97c3-2f7b463ac847",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "N",
+      "qFieldDefs": [
+        "Style Family"
+      ],
+      "qFieldLabels": [
+        "Process Type"
+      ],
+      "title": "Process Type"
+    },
+    "qMetaDef": {
+      "title": "Process Type",
+      "description": "",
+      "tags": [
+        "Process Type"
+      ]
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "43cdf516-10f0-4da7-a57c-c6c049123ba1",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "N",
+      "qFieldDefs": [
+        "Service Provider"
+      ],
+      "qFieldLabels": [
+        "Service Provider"
+      ],
+      "title": "Service Provider"
+    },
+    "qMetaDef": {
+      "title": "Service Provider",
+      "description": "",
+      "tags": [
+        "Service Provider"
+      ]
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "546b034f-d014-4c00-86e3-731c8aaf798a",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "N",
+      "qFieldDefs": [
+        "Style Sub Category"
+      ],
+      "qFieldLabels": [
+        "Product Forming"
+      ],
+      "title": "Product Forming"
+    },
+    "qMetaDef": {
+      "title": "Product Forming",
+      "description": "",
+      "tags": [
+        "Product Forming"
+      ]
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "566f448f-8585-4de1-8f62-2a9696207817",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "N",
+      "qFieldDefs": [
+        "Manufacturing Joining Style"
+      ],
+      "qFieldLabels": [
+        "Manufacturing Joining Style"
+      ],
+      "title": "Manufacturing Joining Style"
+    },
+    "qMetaDef": {
+      "title": "Manufacturing Joining Style",
+      "description": "",
+      "tags": [
+        "Manufacturing Joining Style"
+      ]
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "5a18dc03-7f89-4244-ab53-a0a65d300f81",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "N",
+      "qFieldDefs": [
+        "Customer"
+      ],
+      "qFieldLabels": [
+        "Customer"
+      ],
+      "title": "Customer"
+    },
+    "qMetaDef": {
+      "title": "Customer",
+      "description": "",
+      "tags": [
+        "Customer"
+      ]
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "5d00b560-6e17-4a06-9e91-1c220dd20d76",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "N",
+      "qFieldDefs": [
+        "Manufacturing Printing"
+      ],
+      "qFieldLabels": [
+        "Manufacturing Printing"
+      ],
+      "title": "Manufacturing Printing"
+    },
+    "qMetaDef": {
+      "title": "Manufacturing Printing",
+      "description": "",
+      "tags": [
+        "Manufacturing Printing"
+      ]
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "6548eac7-86ea-48d8-8238-eafa6136d7e3",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "N",
+      "qFieldDefs": [
+        "User Type"
+      ],
+      "qFieldLabels": [
+        "User Type"
+      ],
+      "title": "User Type"
+    },
+    "qMetaDef": {
+      "title": "User Type",
+      "description": "",
+      "tags": [
+        "User Type"
+      ]
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "6a4b44bd-6370-4989-8c01-da5d8a59e6da",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "N",
+      "qFieldDefs": [
+        "Cost Element"
+      ],
+      "qFieldLabels": [
+        "Cost Element"
+      ],
+      "title": "Cost Element"
+    },
+    "qMetaDef": {
+      "title": "Cost Element",
+      "description": "",
+      "tags": [
+        "Cost Element"
+      ]
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "765246a3-cea9-4037-b304-92366dced3b1",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "H",
+      "qFieldDefs": [
+        "Geographical Territory",
+        "Geographical Continent",
+        "Geographical Country",
+        "Geographical Area",
+        "Geographical State",
+        "Geographical City"
+      ],
+      "qFieldLabels": [],
+      "title": "Territory"
+    },
+    "qMetaDef": {
+      "title": "Territory",
+      "description": "",
+      "tags": [
+        "Area",
+        "City",
+        "Continent",
+        "Country",
+        "State",
+        "Territory"
+      ]
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "828021f3-b388-4714-8db0-d2783ce5c8c8",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "N",
+      "qFieldDefs": [
+        "Style"
+      ],
+      "qFieldLabels": [
+        "Product Style"
+      ],
+      "title": "Product Style"
+    },
+    "qMetaDef": {
+      "title": "Product Style",
+      "description": "",
+      "tags": [
+        "Product Style"
+      ]
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "85b6976b-b68a-4dda-b459-8bfe32f08812",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "N",
+      "qFieldDefs": [
+        "Sales Source"
+      ],
+      "qFieldLabels": [
+        "Sales Source"
+      ],
+      "title": "Sales Source"
+    },
+    "qMetaDef": {
+      "title": "Sales Source",
+      "description": "",
+      "tags": [
+        "Sales Source"
+      ]
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "867a5d84-884b-4343-acad-9098010cc3b8",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "N",
+      "qFieldDefs": [
+        "Flute Type"
+      ],
+      "qFieldLabels": [
+        "Flute Type"
+      ],
+      "title": "Flute Type"
+    },
+    "qMetaDef": {
+      "title": "Flute Type",
+      "description": "",
+      "tags": [
+        "Flute Type"
+      ]
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "8b8085e6-c3bb-4029-87d5-dac42da15318",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "N",
+      "qFieldDefs": [
+        "Product Type Line"
+      ],
+      "qFieldLabels": [
+        "Product Type Line"
+      ],
+      "title": "Product Type Line"
+    },
+    "qMetaDef": {
+      "title": "Product Type Line",
+      "description": "",
+      "tags": [
+        "Product Type Line"
+      ]
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "8f4d5251-632d-4a4c-ac3d-b672e42becc0",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "N",
+      "qFieldDefs": [
+        "Salesman"
+      ],
+      "qFieldLabels": [
+        "Salesman"
+      ],
+      "title": "Salesman"
+    },
+    "qMetaDef": {
+      "title": "Salesman",
+      "description": "",
+      "tags": [
+        "Salesman"
+      ]
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "98e945bd-50de-4ba4-a161-96de2a3502e9",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "N",
+      "qFieldDefs": [
+        "Product Manager"
+      ],
+      "qFieldLabels": [
+        "Product Manager"
+      ],
+      "title": "Product Manager"
+    },
+    "qMetaDef": {
+      "title": "Product Manager",
+      "description": "",
+      "tags": [
+        "Product Manager"
+      ]
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "AWqVgs",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "N",
+      "qFieldDefs": [
+        "Currency"
+      ],
+      "qFieldLabels": [
+        "Currency"
+      ],
+      "title": "Currency"
+    },
+    "qMetaDef": {
+      "title": "Currency",
+      "description": "",
+      "tags": [
+        "Currency"
+      ]
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "AzMzLS",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "H",
+      "qFieldDefs": [
+        "Customer Unit",
+        "Geographical Area",
+        "Geographical Country",
+        "Customer",
+        "Business Unit"
+      ],
+      "qFieldLabels": [],
+      "title": "RU-Country"
+    },
+    "qMetaDef": {
+      "title": "RU-Country",
+      "description": "",
+      "tags": []
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "DuCUBA",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "N",
+      "qFieldDefs": [
+        "Product Item Name"
+      ],
+      "qFieldLabels": [
+        "Product Item"
+      ],
+      "title": "Product Item"
+    },
+    "qMetaDef": {
+      "title": "Product Item",
+      "description": "",
+      "tags": [
+        "Product Item"
+      ]
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "EAfCmsT",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "N",
+      "qFieldDefs": [
+        "Business Unit"
+      ],
+      "qFieldLabels": [
+        "Business Unit"
+      ],
+      "title": "Business Unit"
+    },
+    "qMetaDef": {
+      "title": "Business Unit",
+      "description": "",
+      "tags": [
+        "Business Unit"
+      ]
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "FtKtjcg",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "N",
+      "qFieldDefs": [
+        "Product Business Line"
+      ],
+      "qFieldLabels": [
+        "Product Business Line"
+      ],
+      "title": "Product Business Line"
+    },
+    "qMetaDef": {
+      "title": "Product Business Line",
+      "description": "",
+      "tags": [
+        "Product Business Line"
+      ]
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "LDB",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "H",
+      "qFieldDefs": [
+        "Customer",
+        "Business Unit",
+        "Salesman"
+      ],
+      "qFieldLabels": [],
+      "title": "Sector Based Drilldown Dimension",
+      "coloring": {
+        "changeHash": "0.8437002467237469",
+        "colorMapRef": "LDB"
+      }
+    },
+    "qMetaDef": {
+      "title": "Sector Based Drilldown Dimension",
+      "description": "",
+      "tags": []
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "NFLMjpy",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "H",
+      "qFieldDefs": [
+        "Customer Key Account",
+        "Customer Key Account LV2",
+        "Customer"
+      ],
+      "qFieldLabels": [],
+      "title": "Customer Account Hierarchy"
+    },
+    "qMetaDef": {
+      "title": "Customer Account Hierarchy",
+      "description": "",
+      "tags": []
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "PDvyhn",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "N",
+      "qFieldDefs": [
+        "=//ValueList('Invoiced','Under Execution','Expected Month Closing','Budget','Same Year Last Month','Expected vs Budget','Forecast')\n\n$(v_Pivot_Hear_One)"
+      ],
+      "qFieldLabels": [
+        "Pivot Header One"
+      ],
+      "title": "Pivot Header One"
+    },
+    "qMetaDef": {
+      "title": "Pivot Header One",
+      "description": "",
+      "tags": []
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "RpVS",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "N",
+      "qFieldDefs": [
+        "Geographical Country"
+      ],
+      "qFieldLabels": [
+        "Country"
+      ],
+      "title": "Country"
+    },
+    "qMetaDef": {
+      "title": "Country",
+      "description": "",
+      "tags": [
+        "Country"
+      ]
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "TgsCLfa",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "H",
+      "qFieldDefs": [
+        "Salesman Level1",
+        "Salesman Level2",
+        "Salesman Level3",
+        "Salesman",
+        "Customer"
+      ],
+      "qFieldLabels": [],
+      "title": "Sales Community"
+    },
+    "qMetaDef": {
+      "title": "Sales Community",
+      "description": "",
+      "tags": []
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "UDTVPD",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "H",
+      "qFieldDefs": [
+        "Unmet Budget - Lost Reason Category",
+        "Unmet Budget - Lost Reason",
+        "Business Unit"
+      ],
+      "qFieldLabels": [],
+      "title": "Lost Reason Hierarchy",
+      "coloring": {
+        "changeHash": "0.8208111789069603"
+      }
+    },
+    "qMetaDef": {
+      "title": "Lost Reason Hierarchy",
+      "description": "",
+      "tags": []
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "ULYpGX",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "H",
+      "qFieldDefs": [
+        "Quotation Status",
+        "Geographical Country",
+        "Creator User Key",
+        "Salesman",
+        "Business Unit",
+        "Customer",
+        "Quotation Number"
+      ],
+      "qFieldLabels": [],
+      "title": "Quotation Heirarchy"
+    },
+    "qMetaDef": {
+      "title": "Quotation Heirarchy",
+      "description": "",
+      "tags": []
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "VReDpLd",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "H",
+      "qFieldDefs": [
+        "Customer Unit",
+        "Geographical Area",
+        "Style",
+        "Customer"
+      ],
+      "qFieldLabels": [],
+      "title": "Customer Unit-Stat-BB"
+    },
+    "qMetaDef": {
+      "title": "Customer Unit-Stat-BB",
+      "description": "",
+      "tags": []
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "WYmpgy",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "H",
+      "qFieldDefs": [
+        "Style",
+        "Product Style Line",
+        "Style Family",
+        "Customer"
+      ],
+      "qFieldLabels": [],
+      "title": "3-4-5-Customer"
+    },
+    "qMetaDef": {
+      "title": "3-4-5-Customer",
+      "description": "",
+      "tags": []
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "XAqsPf",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "N",
+      "qFieldDefs": [
+        "=if \r\n (\n     len\n     (\n          Aggr\n          ( \n                If\n                (              \n                    RowNo()<=(Count(Total Distinct {<[Sales Type]={'Net Sales'}, Year = {$(v_Max_Year_LY)}>} [Customer])*0.01)\n                    ,Only({<[Sales Type]={'Net Sales'}>} [Customer])\n                )\n                , ([Customer],(=sum({<[Sales Type]={'Net Sales'},[Currency Sorting Key]={$(=MaxString([Currency Sorting Key]))},  Year = {$(v_Max_Year_LY)} >} [Invoice Amount USD]*[Currency Average Rate]),Desc))\n          )\n     )>0\n    ,'A - PLATINUM',\n    \n\n    if \n (\n     len\n     (\n          Aggr\n          ( \n                If\n                (              \n                    RowNo()<=(Count(Total Distinct {<[Sales Type]={'Net Sales'}, Year = {$(v_Max_Year_LY)}>} [Customer])*0.05)\n                    ,Only({<[Sales Type]={'Net Sales'}>} [Customer])\n                )\n                , ([Customer],(=sum({<[Sales Type]={'Net Sales'},[Currency Sorting Key]={$(=MaxString([Currency Sorting Key]))},  Year = {$(v_Max_Year_LY)} >} [Invoice Amount USD]*[Currency Average Rate]),Desc))\n          )\n     )>0\n    ,'B - GOLD',\n    \n    \n    \n    \n        if \n (\n     len\n     (\n          Aggr\n          ( \n                If\n                (              \n                    RowNo()<=(Count(Total Distinct {<[Sales Type]={'Net Sales'}, Year = {$(v_Max_Year_LY)}>} [Customer])*0.20)\n                    ,Only({<[Sales Type]={'Net Sales'}>} [Customer])\n                )\n                , ([Customer],(=sum({<[Sales Type]={'Net Sales'},[Currency Sorting Key]={$(=MaxString([Currency Sorting Key]))},  Year = {$(v_Max_Year_LY)} >} [Invoice Amount USD]*[Currency Average Rate]),Desc))\n          )\n     )>0\n    ,'C - SILVER',\n    \n    \n    \n    \n    \n        \n        if \n (\n     len\n     (\n          Aggr\n          ( \n                If\n                (              \n                    RowNo()<=(Count(Total Distinct {<[Sales Type]={'Net Sales'}, Year = {$(v_Max_Year_LY)}>} [Customer]))\n                    ,Only({<[Sales Type]={'Net Sales'}>} [Customer])\n                )\n                , ([Customer],(=sum({<[Sales Type]={'Net Sales'},[Currency Sorting Key]={$(=MaxString([Currency Sorting Key]))},  Year = {$(v_Max_Year_LY)} >} [Invoice Amount USD]*[Currency Average Rate]),Desc))\n          )\n     )>0\n    ,'D - BRONZE' ))))"
+      ],
+      "qFieldLabels": [
+        "Tiers"
+      ],
+      "title": "Tiers",
+      "coloring": {
+        "changeHash": "0.4801680935215984"
+      }
+    },
+    "qMetaDef": {
+      "title": "Tiers",
+      "description": "",
+      "tags": []
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "ad8fb7bf-8be9-4b03-afcc-2ccdff2dc08a",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "N",
+      "qFieldDefs": [
+        "Costing Scope"
+      ],
+      "qFieldLabels": [
+        "Costing Scope"
+      ],
+      "title": "Costing Scope"
+    },
+    "qMetaDef": {
+      "title": "Costing Scope",
+      "description": "",
+      "tags": [
+        "Costing Scope"
+      ]
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "agCJJ",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "H",
+      "qFieldDefs": [
+        "Market Group",
+        "Market Sector",
+        "Style",
+        "Product Style Line",
+        "Customer"
+      ],
+      "qFieldLabels": [],
+      "title": "1-2-3-4-Customer"
+    },
+    "qMetaDef": {
+      "title": "1-2-3-4-Customer",
+      "description": "",
+      "tags": []
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "atqsKk",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "H",
+      "qFieldDefs": [
+        "Business Unit Location",
+        "Business Unit Type",
+        "Business Unit",
+        "Style",
+        "Product Style Line",
+        "Style Family",
+        "Customer"
+      ],
+      "qFieldLabels": [],
+      "title": "Loc-Type-BU-Customer"
+    },
+    "qMetaDef": {
+      "title": "Loc-Type-BU-Customer",
+      "description": "",
+      "tags": []
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "bJQCEGb",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "H",
+      "qFieldDefs": [
+        "Market Group",
+        "Geographical Country",
+        "Customer",
+        "Business Unit"
+      ],
+      "qFieldLabels": [],
+      "title": "Sector Sales Dashboard"
+    },
+    "qMetaDef": {
+      "title": "Sector Sales Dashboard",
+      "description": "",
+      "tags": []
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "ba93f17b-fc0e-441d-90c6-bbc635adccba",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "H",
+      "qFieldDefs": [
+        "Market Group",
+        "Market Sector"
+      ],
+      "qFieldLabels": [],
+      "title": "Market Sector"
+    },
+    "qMetaDef": {
+      "title": "Market Sector",
+      "description": "",
+      "tags": [
+        "Market Group",
+        "Market Sector"
+      ]
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "bc172f98-69e1-4f24-b3ca-0842be7f48e6",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "N",
+      "qFieldDefs": [
+        "Product Variation"
+      ],
+      "qFieldLabels": [
+        "Product Variation"
+      ],
+      "title": "Product Variation"
+    },
+    "qMetaDef": {
+      "title": "Product Variation",
+      "description": "",
+      "tags": [
+        "Product Variation"
+      ]
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "c0978700-9eb4-4eca-b689-8d98246d4c86",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "N",
+      "qFieldDefs": [
+        "Style Category"
+      ],
+      "qFieldLabels": [
+        "Product Feature"
+      ],
+      "title": "Product Feature"
+    },
+    "qMetaDef": {
+      "title": "Product Feature",
+      "description": "",
+      "tags": [
+        "Product Feature"
+      ]
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "c553c382-5171-4ba0-bdfe-02622e889261",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "N",
+      "qFieldDefs": [
+        "Product MFG Name"
+      ],
+      "qFieldLabels": [
+        "Product MFG"
+      ],
+      "title": "Product MFG"
+    },
+    "qMetaDef": {
+      "title": "Product MFG",
+      "description": "",
+      "tags": [
+        "Product MFG"
+      ]
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "cfb6eb10-9d9d-4bae-b44b-c281bbdbbfcb",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "N",
+      "qFieldDefs": [
+        "Product Style Line"
+      ],
+      "qFieldLabels": [
+        "Product Line"
+      ],
+      "title": "Product Line"
+    },
+    "qMetaDef": {
+      "title": "Product Line",
+      "description": "",
+      "tags": [
+        "Product Line"
+      ]
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "d580061f-83ee-4183-97be-1c6707fc87a4",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "N",
+      "qFieldDefs": [
+        "Product Type"
+      ],
+      "qFieldLabels": [
+        "Product Type"
+      ],
+      "title": "Product Type"
+    },
+    "qMetaDef": {
+      "title": "Product Type",
+      "description": "",
+      "tags": [
+        "Product Type"
+      ]
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "d78abfbc-2c6b-46dc-92c0-29776e2dd2b4",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "N",
+      "qFieldDefs": [
+        "Manufacturing Labeling"
+      ],
+      "qFieldLabels": [
+        "Manufacturing Labeling"
+      ],
+      "title": "Manufacturing Labeling"
+    },
+    "qMetaDef": {
+      "title": "Manufacturing Labeling",
+      "description": "",
+      "tags": [
+        "Manufacturing Labeling"
+      ]
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "e27e61d4-04fb-458c-8b73-d07dbe0ca382",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "N",
+      "qFieldDefs": [
+        "Manufacturing Coating"
+      ],
+      "qFieldLabels": [
+        "Manufacturing Coating"
+      ],
+      "title": "Manufacturing Coating"
+    },
+    "qMetaDef": {
+      "title": "Manufacturing Coating",
+      "description": "",
+      "tags": [
+        "Manufacturing Coating"
+      ]
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "eJAV",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "N",
+      "qFieldDefs": [
+        "=aggr(if(rank(sum({<[Sales Type]={'Net Sales'},[Currency Sorting Key]={$(=MaxString([Currency Sorting Key]))},  Year = {$(v_Max_Year_LY)} >} [Invoice Amount USD]*[Currency Average Rate]))<=10\r\nor \n\nrank(-sum({<[Sales Type]={'Net Sales'},[Currency Sorting Key]={$(=MaxString([Currency Sorting Key]))},  Year = {$(v_Max_Year_LY)} >} [Invoice Amount USD]*[Currency Average Rate]))<=10,Customer),Customer)"
+      ],
+      "qFieldLabels": [
+        "Customers Scoring"
+      ],
+      "title": "Customers Scoring",
+      "coloring": {
+        "changeHash": "0.4878130166574004"
+      }
+    },
+    "qMetaDef": {
+      "title": "Customers Scoring",
+      "description": "",
+      "tags": []
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "eakmY",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "H",
+      "qFieldDefs": [
+        "Business Unit",
+        "Style",
+        "Customer Unit",
+        "Geographical Country",
+        "Customer"
+      ],
+      "qFieldLabels": [],
+      "title": "BU Sales Dashboard"
+    },
+    "qMetaDef": {
+      "title": "BU Sales Dashboard",
+      "description": "",
+      "tags": []
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "ecbe1a1a-475e-4199-93f9-239ce0a92862",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "N",
+      "qFieldDefs": [
+        "Style Type"
+      ],
+      "qFieldLabels": [
+        "Product Style Type"
+      ],
+      "title": "Product Style Type"
+    },
+    "qMetaDef": {
+      "title": "Product Style Type",
+      "description": "",
+      "tags": [
+        "Product Style Type"
+      ]
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "eed01899-d81c-4e2c-b24a-fb20b7914bef",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "H",
+      "qFieldDefs": [
+        "Customer Unit",
+        "Geographical Area",
+        "Business Unit",
+        "Style",
+        "Customer"
+      ],
+      "qFieldLabels": [],
+      "title": "RU-BU-BB-Cust"
+    },
+    "qMetaDef": {
+      "title": "RU-BU-BB-Cust",
+      "description": "",
+      "tags": []
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "f2ba1cd0-c209-4270-976f-5778795cd7d6",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "H",
+      "qFieldDefs": [
+        "Business Unit",
+        "Customer Unit",
+        "Geographical Area",
+        "Style",
+        "Customer"
+      ],
+      "qFieldLabels": [],
+      "title": "BU-RU-BB"
+    },
+    "qMetaDef": {
+      "title": "BU-RU-BB",
+      "description": "",
+      "tags": []
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "hKsmv",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "H",
+      "qFieldDefs": [
+        "General Manager",
+        "Marketing Manager",
+        "Product Manager",
+        "Style"
+      ],
+      "qFieldLabels": [],
+      "title": "Marketing Community"
+    },
+    "qMetaDef": {
+      "title": "Marketing Community",
+      "description": "",
+      "tags": []
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "hQppcky",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "N",
+      "qFieldDefs": [
+        "Board Code"
+      ],
+      "qFieldLabels": [
+        "Board Code"
+      ],
+      "title": "Board Code"
+    },
+    "qMetaDef": {
+      "title": "Board Code",
+      "description": "",
+      "tags": [
+        "Board Code"
+      ]
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "jjFCv",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "H",
+      "qFieldDefs": [
+        "Actual Division",
+        "Business Unit",
+        "Customer Unit",
+        "Customer Area",
+        "Customer Country",
+        "Salesman",
+        "Customer"
+      ],
+      "qFieldLabels": [],
+      "title": "Div-BU-Unit-Area-Country-SLS-Customer",
+      "coloring": {
+        "changeHash": "0.6592865795744087"
+      }
+    },
+    "qMetaDef": {
+      "title": "Div-BU-Unit-Area-Country-SLS-Customer",
+      "description": "",
+      "tags": []
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "jpkLpn",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "N",
+      "qFieldDefs": [
+        "=$(=$(v_Dim_BU))"
+      ],
+      "qFieldLabels": [
+        "BU Dash"
+      ],
+      "title": "BU Dash"
+    },
+    "qMetaDef": {
+      "title": "BU Dash",
+      "description": "",
+      "tags": []
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "kZYfD",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "N",
+      "qFieldDefs": [
+        "=if([Invoice Amount USD] < 50, 'A. Below 50',\nif([Invoice Amount USD] >=50 and [Invoice Amount USD]<100,'B. 50 - 100',\nif([Invoice Amount USD] > 100 and [Invoice Amount USD]<=200,'C. 101 - 200'\nif([Invoice Amount USD] > 200 and [Invoice Amount USD]<=250 , 'D. 201 - 250'\nif([Invoice Amount USD] > 250 and [Invoice Amount USD]<=300 , 'E. 251 - 300'\nif([Invoice Amount USD] > 300 and [Invoice Amount USD]<=400 , 'F. 301 - 400', 'G. Above 400'))))))"
+      ],
+      "qFieldLabels": [
+        "Contr/MT Bracket"
+      ],
+      "title": "Contr/MT Bracket"
+    },
+    "qMetaDef": {
+      "title": "Contr/MT Bracket",
+      "description": "",
+      "tags": []
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "mJZqYNj",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "H",
+      "qFieldDefs": [
+        "Business Unit Location",
+        "Business Unit",
+        "Style",
+        "Product Style Line"
+      ],
+      "qFieldLabels": [],
+      "title": "Loc-BU-BB-Style"
+    },
+    "qMetaDef": {
+      "title": "Loc-BU-BB-Style",
+      "description": "",
+      "tags": []
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "mKt",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "H",
+      "qFieldDefs": [
+        "Business Unit",
+        "Style",
+        "Customer Unit",
+        "Geographical Area",
+        "Customer"
+      ],
+      "qFieldLabels": [],
+      "title": "BU-BB-RU"
+    },
+    "qMetaDef": {
+      "title": "BU-BB-RU",
+      "description": "",
+      "tags": []
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "pWMdd",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "N",
+      "qFieldDefs": [
+        "=if([Invoice Amount USD] < 600, 'A. Below 600',\nif([Invoice Amount USD] >= 600 and [Invoice Amount USD]<700 , 'B. 600 - 700',\nif([Invoice Amount USD] > 700 and [Invoice Amount USD]<=800 , 'C. 701 - 800',\nif([Invoice Amount USD] > 800 and [Invoice Amount USD]<=900 , 'D. 801 - 900',\nif([Invoice Amount USD] > 900 and [Invoice Amount USD]<=1000 , 'E. 901 - 1000',\nif([Invoice Amount USD] > 1000 and [Invoice Amount USD]<=1200 , 'F. 1001 - 1200', 'G. Above 1200'))))))"
+      ],
+      "qFieldLabels": [
+        "Price/MT Bracket"
+      ],
+      "title": "Price/MT Bracket"
+    },
+    "qMetaDef": {
+      "title": "Price/MT Bracket",
+      "description": "",
+      "tags": []
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "qGXZBg",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "N",
+      "qFieldDefs": [
+        "=if([Business Unit Country]=[Geographical Country],'Local','Export')"
+      ],
+      "qFieldLabels": [
+        "Market Type"
+      ],
+      "title": "Market Type"
+    },
+    "qMetaDef": {
+      "title": "Market Type",
+      "description": "",
+      "tags": []
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "usVFjn",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "N",
+      "qFieldDefs": [
+        "Forming"
+      ],
+      "qFieldLabels": [
+        "Forming"
+      ],
+      "title": "Forming"
+    },
+    "qMetaDef": {
+      "title": "Forming",
+      "description": "",
+      "tags": [
+        "Forming"
+      ]
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "vqCKqyq",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "H",
+      "qFieldDefs": [
+        "Style",
+        "Product Style Line",
+        "Geographical Country",
+        "Customer"
+      ],
+      "qFieldLabels": [],
+      "title": "BB Sales Dashabord"
+    },
+    "qMetaDef": {
+      "title": "BB Sales Dashabord",
+      "description": "",
+      "tags": []
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "wNpTPX",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "H",
+      "qFieldDefs": [
+        "Business Unit Type",
+        "Business Unit Location",
+        "Business Unit",
+        "Customer Unit",
+        "Geographical Area",
+        "Customer Account",
+        "Customer"
+      ],
+      "qFieldLabels": [],
+      "title": "BU-BB-RB"
+    },
+    "qMetaDef": {
+      "title": "BU-BB-RB",
+      "description": "",
+      "tags": []
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "xJPBDB",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "H",
+      "qFieldDefs": [
+        "Month",
+        "Business Unit",
+        "RMA Return Reason Description"
+      ],
+      "qFieldLabels": [],
+      "title": "Month-BU-ReturnReason",
+      "coloring": {
+        "changeHash": "0.38339749609643525"
+      }
+    },
+    "qMetaDef": {
+      "title": "Month-BU-ReturnReason",
+      "description": "",
+      "tags": []
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "xPPcGCb",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "N",
+      "qFieldDefs": [
+        "=//if ([Sales Type] = 'Net Sales','Invoiced',if ([Sales Type] = 'Order','Order',null))\n\nif ([Sales Type] = 'Net Sales','1-Invoiced'\n,if ([Sales Type] = 'Backlog','2-Under Execution'\n,if ([Sales Type] = 'EMC','3-Expected Month Closing'\n,if ([Sales Type] = 'Budget','4-Budget'\n,if ([Sales Type] = 'EMC-BUD','5-Expected vs Budget'\n,if ([Sales Type] = 'Forecast','6-Forecast'\n,null))))))"
+      ],
+      "qFieldLabels": [
+        "Sales Header"
+      ],
+      "title": "Sales Header"
+    },
+    "qMetaDef": {
+      "title": "Sales Header",
+      "description": "",
+      "tags": []
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "zYLGPR",
+      "qType": "dimension"
+    },
+    "qDim": {
+      "qGrouping": "N",
+      "qFieldDefs": [
+        "=$(v_Selected_Dimension_One)"
+      ],
+      "qFieldLabels": [
+        "Master Dimensions"
+      ],
+      "title": "Master Dimensions",
+      "coloring": {
+        "changeHash": "0.556236970594763"
+      }
+    },
+    "qMetaDef": {
+      "title": "Master Dimensions",
+      "description": "",
+      "tags": [
+        "Master Dimensions"
+      ]
+    }
+  }
+]

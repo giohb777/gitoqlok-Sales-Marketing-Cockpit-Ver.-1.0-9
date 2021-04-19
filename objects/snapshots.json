@@ -1,0 +1,5499 @@
+[
+  {
+    "qInfo": {
+      "qId": "3a13131a-bbde-4da9-a83f-7a607dd68fb3",
+      "qType": "snapshot"
+    },
+    "qMetaDef": {
+      "title": "",
+      "description": "",
+      "annotation": ""
+    },
+    "creationDate": "2020-09-23T06:42:43.443Z",
+    "qMeta": {
+      "privileges": [
+        "read",
+        "update",
+        "delete",
+        "exportdata"
+      ]
+    },
+    "qSelectionInfo": {},
+    "qHyperCube": {
+      "qSize": {
+        "qcx": 0,
+        "qcy": 0
+      },
+      "qDimensionInfo": [],
+      "qMeasureInfo": [],
+      "qEffectiveInterColumnSortOrder": [],
+      "qGrandTotalRow": [],
+      "qDataPages": [],
+      "qPivotDataPages": [],
+      "qStackedDataPages": [],
+      "qMode": "S",
+      "qNoOfLeftDims": -1,
+      "qTreeNodesOnDim": [],
+      "qColumnOrder": []
+    },
+    "showTitles": false,
+    "title": "",
+    "subtitle": "",
+    "footnote": "",
+    "showDetails": false,
+    "responsive": "all",
+    "markdown": "",
+    "images": [],
+    "background": {
+      "isUsed": true,
+      "size": "fill",
+      "position": "topLeft",
+      "url": {
+        "qStaticContentUrlDef": {
+          "qUrl": "/appcontent/53366c30-d52b-439a-9ac5-965e8cedea3b/Hairline - vertical.png"
+        }
+      }
+    },
+    "visualization": "text-image",
+    "snapshotData": {
+      "object": {
+        "size": {
+          "w": 33,
+          "h": 777
+        }
+      },
+      "rtl": false,
+      "scrollTopPercent": 0,
+      "verticalScrollWidth": -0.14059999999999917,
+      "parent": {
+        "h": 843,
+        "w": 1553
+      }
+    },
+    "visualizationType": "text-image",
+    "sourceObjectId": "AvXPjx",
+    "sheetId": "3426fea1-fe8c-47da-aea4-ef9cdb569c76",
+    "timestamp": 1600843363436,
+    "isClone": false,
+    "supportExport": "/appcontent/6b533c9a-88eb-4c95-b975-767ac9d274b5/Hairline%20-%20vertical.png"
+  },
+  {
+    "qInfo": {
+      "qId": "4c838caf-7dcd-4eae-8c50-924015c8ecb9",
+      "qType": "snapshot"
+    },
+    "qMetaDef": {
+      "title": "",
+      "description": "",
+      "annotation": ""
+    },
+    "creationDate": "2019-01-03T13:32:26.190Z",
+    "qSelectionInfo": {},
+    "qHyperCube": {
+      "qSize": {
+        "qcx": 6,
+        "qcy": 2
+      },
+      "qDimensionInfo": [
+        {
+          "qFallbackTitle": "Dimension",
+          "qApprMaxGlyphCount": 15,
+          "qCardinal": 2,
+          "qSortIndicator": "A",
+          "qGroupFallbackTitles": [
+            "Dimension"
+          ],
+          "qGroupPos": 0,
+          "qStateCounts": {
+            "qLocked": 0,
+            "qSelected": 0,
+            "qOption": 2,
+            "qDeselected": 0,
+            "qAlternative": 0,
+            "qExcluded": 0,
+            "qSelectedExcluded": 0,
+            "qLockedExcluded": 0
+          },
+          "qTags": [
+            "$ascii",
+            "$text"
+          ],
+          "qDimensionType": "D",
+          "qGrouping": "N",
+          "qNumFormat": {
+            "qType": "U",
+            "qnDec": 0,
+            "qUseThou": 0
+          },
+          "qIsAutoFormat": true,
+          "qGroupFieldDefs": [
+            "Business Unit Location"
+          ],
+          "qMin": "NaN",
+          "qMax": "NaN",
+          "qAttrExprInfo": [],
+          "qAttrDimInfo": [],
+          "qCardinalities": {
+            "qCardinal": 0,
+            "qHypercubeCardinal": 0,
+            "qAllValuesCardinal": -1
+          },
+          "autoSort": false,
+          "cId": "aDmrALk",
+          "othersLabel": "Others"
+        }
+      ],
+      "qMeasureInfo": [
+        {
+          "qFallbackTitle": "This Period",
+          "qApprMaxGlyphCount": 7,
+          "qCardinal": 0,
+          "qSortIndicator": "D",
+          "qNumFormat": {
+            "qType": "F",
+            "qnDec": 2,
+            "qUseThou": 0,
+            "qFmt": "#,##0",
+            "qDec": ".",
+            "qThou": ","
+          },
+          "qMin": 54046.01518200011,
+          "qMax": 236584.80118600032,
+          "qAttrExprInfo": [],
+          "qAttrDimInfo": [],
+          "qTrendLines": [],
+          "autoSort": true,
+          "cId": "NFEDqT",
+          "numFormatFromTemplate": true,
+          "series": {
+            "type": "bar",
+            "axis": 0,
+            "marker": "circle",
+            "markerFill": true
+          }
+        },
+        {
+          "qFallbackTitle": "Budget",
+          "qApprMaxGlyphCount": 7,
+          "qCardinal": 0,
+          "qSortIndicator": "D",
+          "qNumFormat": {
+            "qType": "F",
+            "qnDec": 2,
+            "qUseThou": 0,
+            "qFmt": "#,##0",
+            "qDec": ".",
+            "qThou": ","
+          },
+          "qMin": 56411.18516399707,
+          "qMax": 228701.04181899776,
+          "qAttrExprInfo": [],
+          "qAttrDimInfo": [],
+          "qTrendLines": [],
+          "autoSort": true,
+          "cId": "pmEYjT",
+          "numFormatFromTemplate": true,
+          "series": {
+            "type": "marker",
+            "axis": 0,
+            "marker": "line",
+            "markerFill": true
+          }
+        },
+        {
+          "qFallbackTitle": "Forecast",
+          "qApprMaxGlyphCount": 7,
+          "qCardinal": 0,
+          "qSortIndicator": "D",
+          "qNumFormat": {
+            "qType": "F",
+            "qnDec": 2,
+            "qUseThou": 0,
+            "qFmt": "#,##0",
+            "qDec": ".",
+            "qThou": ","
+          },
+          "qMin": 53706.37933299773,
+          "qMax": 209879.6073979988,
+          "qAttrExprInfo": [],
+          "qAttrDimInfo": [],
+          "qTrendLines": [],
+          "autoSort": true,
+          "cId": "sPbdZ",
+          "numFormatFromTemplate": true,
+          "series": {
+            "type": "marker",
+            "axis": 0,
+            "marker": "rect",
+            "markerFill": true
+          }
+        },
+        {
+          "qFallbackTitle": "Previous Year",
+          "qApprMaxGlyphCount": 7,
+          "qCardinal": 0,
+          "qSortIndicator": "D",
+          "qNumFormat": {
+            "qType": "F",
+            "qnDec": 2,
+            "qUseThou": 0,
+            "qFmt": "#,##0",
+            "qDec": ".",
+            "qThou": ","
+          },
+          "qMin": 49252.98214300009,
+          "qMax": 222321.40247899835,
+          "qAttrExprInfo": [],
+          "qAttrDimInfo": [],
+          "qTrendLines": [],
+          "autoSort": true,
+          "cId": "pvwsXXd",
+          "numFormatFromTemplate": true,
+          "series": {
+            "type": "marker",
+            "axis": 0,
+            "marker": "circle",
+            "markerFill": true
+          }
+        },
+        {
+          "qFallbackTitle": "Previous Month",
+          "qApprMaxGlyphCount": 7,
+          "qCardinal": 0,
+          "qSortIndicator": "D",
+          "qNumFormat": {
+            "qType": "F",
+            "qnDec": 2,
+            "qUseThou": 0,
+            "qFmt": "#,##0",
+            "qDec": ".",
+            "qThou": ","
+          },
+          "qMin": 50601.64457399969,
+          "qMax": 219512.49084200233,
+          "qAttrExprInfo": [],
+          "qAttrDimInfo": [],
+          "qTrendLines": [],
+          "autoSort": true,
+          "cId": "PYzvju",
+          "numFormatFromTemplate": true,
+          "series": {
+            "type": "marker",
+            "axis": 0,
+            "marker": "diamond",
+            "markerFill": true
+          }
+        }
+      ],
+      "qEffectiveInterColumnSortOrder": [
+        1,
+        0,
+        2,
+        3,
+        4,
+        5
+      ],
+      "qGrandTotalRow": [
+        {
+          "qText": "290,631",
+          "qNum": 290630.8163679966,
+          "qElemNumber": -1,
+          "qState": "X",
+          "qIsTotalCell": true
+        },
+        {
+          "qText": "285,112",
+          "qNum": 285112.22698305076,
+          "qElemNumber": -1,
+          "qState": "X",
+          "qIsTotalCell": true
+        },
+        {
+          "qText": "263,586",
+          "qNum": 263585.98673099506,
+          "qElemNumber": -1,
+          "qState": "X",
+          "qIsTotalCell": true
+        },
+        {
+          "qText": "271,574",
+          "qNum": 271574.38462199725,
+          "qElemNumber": -1,
+          "qState": "X",
+          "qIsTotalCell": true
+        },
+        {
+          "qText": "270,114",
+          "qNum": 270114.135415995,
+          "qElemNumber": -1,
+          "qState": "X",
+          "qIsTotalCell": true
+        }
+      ],
+      "qDataPages": [
+        {
+          "qMatrix": [
+            [
+              {
+                "qText": "Saudi Arabia",
+                "qNum": "NaN",
+                "qElemNumber": 1,
+                "qState": "O"
+              },
+              {
+                "qText": "236,585",
+                "qNum": 236584.80118600032,
+                "qElemNumber": 0,
+                "qState": "L"
+              },
+              {
+                "qText": "228,701",
+                "qNum": 228701.04181899776,
+                "qElemNumber": 0,
+                "qState": "L"
+              },
+              {
+                "qText": "209,880",
+                "qNum": 209879.6073979988,
+                "qElemNumber": 0,
+                "qState": "L"
+              },
+              {
+                "qText": "222,321",
+                "qNum": 222321.40247899835,
+                "qElemNumber": 0,
+                "qState": "L"
+              },
+              {
+                "qText": "219,512",
+                "qNum": 219512.49084200233,
+                "qElemNumber": 0,
+                "qState": "L"
+              }
+            ],
+            [
+              {
+                "qText": "Lebanon & Egypt",
+                "qNum": "NaN",
+                "qElemNumber": 0,
+                "qState": "O"
+              },
+              {
+                "qText": "54,046",
+                "qNum": 54046.01518200011,
+                "qElemNumber": 0,
+                "qState": "L"
+              },
+              {
+                "qText": "56,411",
+                "qNum": 56411.18516399707,
+                "qElemNumber": 0,
+                "qState": "L"
+              },
+              {
+                "qText": "53,706",
+                "qNum": 53706.37933299773,
+                "qElemNumber": 0,
+                "qState": "L"
+              },
+              {
+                "qText": "49,253",
+                "qNum": 49252.98214300009,
+                "qElemNumber": 0,
+                "qState": "L"
+              },
+              {
+                "qText": "50,602",
+                "qNum": 50601.64457399969,
+                "qElemNumber": 0,
+                "qState": "L"
+              }
+            ]
+          ],
+          "qTails": [
+            {
+              "qUp": 0,
+              "qDown": 0
+            }
+          ],
+          "qArea": {
+            "qLeft": 0,
+            "qTop": 0,
+            "qWidth": 6,
+            "qHeight": 2
+          }
+        }
+      ],
+      "qPivotDataPages": [],
+      "qStackedDataPages": [],
+      "qMode": "S",
+      "qNoOfLeftDims": -1,
+      "qTreeNodesOnDim": [],
+      "qColumnOrder": [],
+      "customErrorMessage": {
+        "calcCond": ""
+      }
+    },
+    "showTitles": false,
+    "title": "",
+    "subtitle": "",
+    "footnote": "",
+    "showDetails": false,
+    "barGrouping": {
+      "grouping": "grouped"
+    },
+    "orientation": "vertical",
+    "scrollStartPos": 0,
+    "nullMode": "gap",
+    "dataPoint": {
+      "show": false
+    },
+    "color": {
+      "auto": true,
+      "mode": "byMeasure",
+      "useBaseColors": "off",
+      "singleColor": 3,
+      "paletteColor": {
+        "index": 6
+      },
+      "persistent": false,
+      "expressionIsColor": true,
+      "expressionLabel": "",
+      "measureScheme": "dc",
+      "reverseScheme": false,
+      "dimensionScheme": "12",
+      "autoMinMax": true,
+      "measureMin": 0,
+      "measureMax": 10,
+      "byMeasureDef": {
+        "label": "This Period",
+        "key": "Pick\n(\n\t$(v_Switch_Option_CM_YTD)\n    ,\n    Pick\n    (\n        $(v_Selected_Measure_One)\n        ,//MT\n        Sum({$<[Sales Type] = {'Net Sales'}, [Month ID] = {$(v_Max_Month_ID)}, Year = , Quarter=, Month=, [Month Year]=>} [Invoice MT])\n        ,//Amount\n        Sum({$<[Sales Type] = {'Net Sales'}, [Currency Sorting Key]={$(=MaxString([Currency Sorting Key]))},[Month ID] = {$(v_Max_Month_ID)}, Year = , Quarter=, Month=, [Month Year]=>} [Invoice Amount USD]*[Currency Average Rate])\n        /1000\n        ,//COP\n        (\n            (\n              Sum({$<[Sales Type] = {'Net Sales'}, [Currency Sorting Key]={$(=MaxString([Currency Sorting Key]))},[Month ID] = {$(v_Max_Month_ID)}, Year = , Quarter=, Month=, [Month Year]=>} [Invoice Amount USD]*[Currency Average Rate])\n              -Sum({$<[Sales Type] = {'Net Sales'}, [Currency Sorting Key]={$(=MaxString([Currency Sorting Key]))},[Month ID] = {$(v_Max_Month_ID)}, Year = , Quarter=, Month=, [Month Year]=>} [Invoice Cost USD]*[Currency Average Rate])\n            )\n        )/1000\n    )\n    ,\n    Pick\n    (\n        $(v_Selected_Measure_One)\n        ,//MT\n        Sum({$<[Sales Type] = {'Net Sales'}, [Month ID] = {\"<=$(v_Max_Month_ID)\"}, Year = {$(v_Max_Year)} , Quarter=, Month=, [Month Year]=>} [Invoice MT])\n        ,//Amount\n        Sum({$<[Sales Type] = {'Net Sales'}, [Currency Sorting Key]={$(=MaxString([Currency Sorting Key]))},[Month ID] = {\"<=$(v_Max_Month_ID)\"}, Year = {$(v_Max_Year)} , Quarter=, Month=, [Month Year]=>} [Invoice Amount USD]*[Currency Average Rate])\n        /1000\n        ,//COP\n        $(v_Sales_Contribution_Amount_YTD)\n        /1000\n    )\n)",
+        "type": "expression"
+      },
+      "altLabel": "This Period"
+    },
+    "legend": {
+      "show": true,
+      "dock": "top",
+      "showTitle": false
+    },
+    "dimensionAxis": {
+      "continuousAuto": true,
+      "show": "labels",
+      "label": "auto",
+      "dock": "near"
+    },
+    "preferContinuousAxis": true,
+    "measureAxes": [
+      {
+        "show": "labels",
+        "dock": "near",
+        "spacing": 1,
+        "autoMinMax": true,
+        "minMax": "min",
+        "min": 0,
+        "max": 10
+      },
+      {
+        "show": "all",
+        "dock": "far",
+        "spacing": 1,
+        "autoMinMax": true,
+        "minMax": "min",
+        "min": 0,
+        "max": 10
+      }
+    ],
+    "visualization": "combochart",
+    "snapshotData": {
+      "object": {
+        "size": {
+          "w": 308,
+          "h": 184
+        }
+      },
+      "rtl": false,
+      "content": {
+        "chartData": {
+          "legendScrollOffset": 0,
+          "scrollOffset": 0,
+          "discreteSpacing": 46,
+          "axisInnerOffset": 0,
+          "hasMiniChart": false,
+          "viewRange": 2
+        },
+        "size": {
+          "w": 309,
+          "h": 184
+        },
+        "components": {
+          "grid": {
+            "visible": true,
+            "dock": "center",
+            "size": {
+              "w": 238,
+              "h": 125
+            }
+          },
+          "colorLegend": {
+            "visible": false,
+            "dock": "top",
+            "size": {
+              "w": 238,
+              "h": 0
+            }
+          },
+          "miniChart": {
+            "visible": false,
+            "dock": "bottom",
+            "size": {
+              "w": 238,
+              "h": 0
+            }
+          },
+          "timeAxis": {
+            "visible": false,
+            "dock": "bottom",
+            "size": {
+              "w": 238,
+              "h": 0
+            }
+          },
+          "continuousAxis": {
+            "visible": false,
+            "dock": "bottom",
+            "size": {
+              "w": 238,
+              "h": 0
+            }
+          },
+          "refLineLabels": {
+            "visible": false,
+            "dock": "right",
+            "size": {
+              "w": 0,
+              "h": 125
+            }
+          },
+          "axis": {
+            "visible": false,
+            "dock": "right",
+            "size": {
+              "w": 0,
+              "h": 125
+            }
+          },
+          "secondaryMeasureAxisTitle": {
+            "visible": false,
+            "dock": "right",
+            "size": {
+              "w": 0,
+              "h": 125
+            }
+          },
+          "scrollArea": {
+            "visible": false,
+            "dock": "bottom",
+            "size": {
+              "w": 238,
+              "h": 0
+            }
+          },
+          "refLines": {
+            "visible": false,
+            "dock": "center",
+            "size": {
+              "w": 238,
+              "h": 125
+            }
+          },
+          "dataArea": {
+            "visible": true,
+            "dock": "center",
+            "size": {
+              "w": 238,
+              "h": 125
+            }
+          },
+          "measureAxis": {
+            "visible": true,
+            "dock": "left",
+            "size": {
+              "w": 67,
+              "h": 125
+            }
+          },
+          "dimensionAxis": {
+            "visible": true,
+            "dock": "bottom",
+            "size": {
+              "w": 238,
+              "h": 55
+            }
+          },
+          "dimensionAxisTitle": {
+            "visible": false,
+            "dock": "bottom",
+            "size": {
+              "w": 238,
+              "h": 0
+            }
+          },
+          "measureAxisTitle": {
+            "visible": false,
+            "dock": "left",
+            "size": {
+              "w": 0,
+              "h": 125
+            }
+          }
+        },
+        "v": 0.96
+      },
+      "parent": {
+        "h": 1212,
+        "w": 2560
+      }
+    },
+    "visualizationType": "combochart",
+    "sourceObjectId": "f8bf86b8-c5c8-4180-ba34-9858491be99b",
+    "sheetId": "ffc72bb8-ccec-4426-aff4-76629850dd63",
+    "timestamp": 1546522346186,
+    "isClone": false,
+    "supportExport": true
+  },
+  {
+    "qInfo": {
+      "qId": "7c7efe7c-5a9f-48b6-b0f1-052be50a6ee7",
+      "qType": "snapshot"
+    },
+    "qMetaDef": {
+      "title": "Cost of Goods Sold",
+      "description": "",
+      "annotation": ""
+    },
+    "creationDate": "2019-03-22T14:10:46.588Z",
+    "qSelectionInfo": {},
+    "qHyperCube": {
+      "qSize": {
+        "qcx": 4,
+        "qcy": 12
+      },
+      "qDimensionInfo": [
+        {
+          "qFallbackTitle": "Month",
+          "qApprMaxGlyphCount": 3,
+          "qCardinal": 12,
+          "qSortIndicator": "A",
+          "qGroupFallbackTitles": [
+            "Month"
+          ],
+          "qGroupPos": 0,
+          "qStateCounts": {
+            "qLocked": 0,
+            "qSelected": 1,
+            "qOption": 0,
+            "qDeselected": 0,
+            "qAlternative": 11,
+            "qExcluded": 0,
+            "qSelectedExcluded": 0,
+            "qLockedExcluded": 0
+          },
+          "qTags": [
+            "$numeric",
+            "$integer"
+          ],
+          "qDimensionType": "N",
+          "qGrouping": "N",
+          "qNumFormat": {
+            "qType": "U",
+            "qnDec": 0,
+            "qUseThou": 0
+          },
+          "qIsAutoFormat": true,
+          "qGroupFieldDefs": [
+            "=Month"
+          ],
+          "qMin": 1,
+          "qMax": 12,
+          "qContinuousAxes": true,
+          "qAttrExprInfo": [],
+          "qAttrDimInfo": [],
+          "qCardinalities": {
+            "qCardinal": 0,
+            "qHypercubeCardinal": 0,
+            "qAllValuesCardinal": -1
+          },
+          "autoSort": true,
+          "cId": "hpGVzP",
+          "othersLabel": "Others"
+        }
+      ],
+      "qMeasureInfo": [
+        {
+          "qFallbackTitle": "Actual",
+          "qApprMaxGlyphCount": 4,
+          "qCardinal": 0,
+          "qSortIndicator": "D",
+          "qNumFormat": {
+            "qType": "F",
+            "qnDec": 2,
+            "qUseThou": 0,
+            "qFmt": "#,##0.00",
+            "qDec": ".",
+            "qThou": ","
+          },
+          "qMin": 1.3732446270994303,
+          "qMax": 1.6334020023831044,
+          "qAttrExprInfo": [],
+          "qAttrDimInfo": [],
+          "qTrendLines": [],
+          "autoSort": true,
+          "cId": "eEjasPq",
+          "numFormatFromTemplate": true,
+          "isCustomFormatted": false
+        },
+        {
+          "qFallbackTitle": "L. Year",
+          "qApprMaxGlyphCount": 4,
+          "qCardinal": 0,
+          "qSortIndicator": "D",
+          "qNumFormat": {
+            "qType": "F",
+            "qnDec": 2,
+            "qUseThou": 0,
+            "qFmt": "#,##0.00",
+            "qDec": ".",
+            "qThou": ","
+          },
+          "qMin": 1.3565199157754892,
+          "qMax": 1.678385242391298,
+          "qAttrExprInfo": [],
+          "qAttrDimInfo": [],
+          "qTrendLines": [],
+          "autoSort": true,
+          "cId": "pPfGUy",
+          "numFormatFromTemplate": true,
+          "isCustomFormatted": false
+        },
+        {
+          "qFallbackTitle": "Budget",
+          "qApprMaxGlyphCount": 4,
+          "qCardinal": 0,
+          "qSortIndicator": "D",
+          "qNumFormat": {
+            "qType": "F",
+            "qnDec": 2,
+            "qUseThou": 0,
+            "qFmt": "#,##0.00",
+            "qDec": ".",
+            "qThou": ","
+          },
+          "qMin": 1.573079934648729,
+          "qMax": 1.5743200573959935,
+          "qAttrExprInfo": [],
+          "qAttrDimInfo": [],
+          "qTrendLines": [],
+          "autoSort": true,
+          "cId": "LDZLNHu",
+          "numFormatFromTemplate": true,
+          "isCustomFormatted": false
+        }
+      ],
+      "qEffectiveInterColumnSortOrder": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "qGrandTotalRow": [
+        {
+          "qText": "1.46",
+          "qNum": 1.4633461054331411,
+          "qElemNumber": -1,
+          "qState": "X",
+          "qIsTotalCell": true
+        },
+        {
+          "qText": "1.51",
+          "qNum": 1.5069907158057825,
+          "qElemNumber": -1,
+          "qState": "X",
+          "qIsTotalCell": true
+        },
+        {
+          "qText": "1.57",
+          "qNum": 1.574213802001795,
+          "qElemNumber": -1,
+          "qState": "X",
+          "qIsTotalCell": true
+        }
+      ],
+      "qDataPages": [
+        {
+          "qMatrix": [
+            [
+              {
+                "qText": "Jan",
+                "qNum": 1,
+                "qElemNumber": 0,
+                "qState": "S"
+              },
+              {
+                "qText": "1.37",
+                "qNum": 1.3732446270994303,
+                "qElemNumber": 0,
+                "qState": "L"
+              },
+              {
+                "qText": "1.59",
+                "qNum": 1.5912729993382153,
+                "qElemNumber": 0,
+                "qState": "L"
+              },
+              {
+                "qText": "1.57",
+                "qNum": 1.5743200573959935,
+                "qElemNumber": 0,
+                "qState": "L"
+              }
+            ],
+            [
+              {
+                "qText": "Feb",
+                "qNum": 2,
+                "qElemNumber": 1,
+                "qState": "X"
+              },
+              {
+                "qText": "1.48",
+                "qNum": 1.483687317419674,
+                "qElemNumber": 0,
+                "qState": "L"
+              },
+              {
+                "qText": "-",
+                "qNum": "NaN",
+                "qElemNumber": 0,
+                "qState": "L",
+                "qIsNull": true
+              },
+              {
+                "qText": "1.57",
+                "qNum": 1.5743200573959935,
+                "qElemNumber": 0,
+                "qState": "L"
+              }
+            ],
+            [
+              {
+                "qText": "Mar",
+                "qNum": 3,
+                "qElemNumber": 2,
+                "qState": "X"
+              },
+              {
+                "qText": "1.63",
+                "qNum": 1.6334020023831044,
+                "qElemNumber": 0,
+                "qState": "L"
+              },
+              {
+                "qText": "1.53",
+                "qNum": 1.5296575923752573,
+                "qElemNumber": 0,
+                "qState": "L"
+              },
+              {
+                "qText": "1.57",
+                "qNum": 1.573079934648729,
+                "qElemNumber": 0,
+                "qState": "L"
+              }
+            ],
+            [
+              {
+                "qText": "Apr",
+                "qNum": 4,
+                "qElemNumber": 3,
+                "qState": "X"
+              },
+              {
+                "qText": "-",
+                "qNum": "NaN",
+                "qElemNumber": 0,
+                "qState": "L",
+                "qIsNull": true
+              },
+              {
+                "qText": "1.36",
+                "qNum": 1.362722379649175,
+                "qElemNumber": 0,
+                "qState": "L"
+              },
+              {
+                "qText": "1.57",
+                "qNum": 1.5743200573959935,
+                "qElemNumber": 0,
+                "qState": "L"
+              }
+            ],
+            [
+              {
+                "qText": "May",
+                "qNum": 5,
+                "qElemNumber": 4,
+                "qState": "X"
+              },
+              {
+                "qText": "-",
+                "qNum": "NaN",
+                "qElemNumber": 0,
+                "qState": "L",
+                "qIsNull": true
+              },
+              {
+                "qText": "1.68",
+                "qNum": 1.678385242391298,
+                "qElemNumber": 0,
+                "qState": "L"
+              },
+              {
+                "qText": "1.57",
+                "qNum": 1.5743200573959935,
+                "qElemNumber": 0,
+                "qState": "L"
+              }
+            ],
+            [
+              {
+                "qText": "Jun",
+                "qNum": 6,
+                "qElemNumber": 5,
+                "qState": "X"
+              },
+              {
+                "qText": "-",
+                "qNum": "NaN",
+                "qElemNumber": 0,
+                "qState": "L",
+                "qIsNull": true
+              },
+              {
+                "qText": "1.40",
+                "qNum": 1.4045345534395177,
+                "qElemNumber": 0,
+                "qState": "L"
+              },
+              {
+                "qText": "1.57",
+                "qNum": 1.5743200573959935,
+                "qElemNumber": 0,
+                "qState": "L"
+              }
+            ],
+            [
+              {
+                "qText": "Jul",
+                "qNum": 7,
+                "qElemNumber": 6,
+                "qState": "X"
+              },
+              {
+                "qText": "-",
+                "qNum": "NaN",
+                "qElemNumber": 0,
+                "qState": "L",
+                "qIsNull": true
+              },
+              {
+                "qText": "1.54",
+                "qNum": 1.5376639118777518,
+                "qElemNumber": 0,
+                "qState": "L"
+              },
+              {
+                "qText": "1.57",
+                "qNum": 1.5743200573959935,
+                "qElemNumber": 0,
+                "qState": "L"
+              }
+            ],
+            [
+              {
+                "qText": "Aug",
+                "qNum": 8,
+                "qElemNumber": 7,
+                "qState": "X"
+              },
+              {
+                "qText": "-",
+                "qNum": "NaN",
+                "qElemNumber": 0,
+                "qState": "L",
+                "qIsNull": true
+              },
+              {
+                "qText": "1.48",
+                "qNum": 1.4779749303250784,
+                "qElemNumber": 0,
+                "qState": "L"
+              },
+              {
+                "qText": "1.57",
+                "qNum": 1.5743200573959935,
+                "qElemNumber": 0,
+                "qState": "L"
+              }
+            ],
+            [
+              {
+                "qText": "Sep",
+                "qNum": 9,
+                "qElemNumber": 8,
+                "qState": "X"
+              },
+              {
+                "qText": "-",
+                "qNum": "NaN",
+                "qElemNumber": 0,
+                "qState": "L",
+                "qIsNull": true
+              },
+              {
+                "qText": "1.53",
+                "qNum": 1.5294299233791488,
+                "qElemNumber": 0,
+                "qState": "L"
+              },
+              {
+                "qText": "1.57",
+                "qNum": 1.5743200573959935,
+                "qElemNumber": 0,
+                "qState": "L"
+              }
+            ],
+            [
+              {
+                "qText": "Oct",
+                "qNum": 10,
+                "qElemNumber": 9,
+                "qState": "X"
+              },
+              {
+                "qText": "-",
+                "qNum": "NaN",
+                "qElemNumber": 0,
+                "qState": "L",
+                "qIsNull": true
+              },
+              {
+                "qText": "1.62",
+                "qNum": 1.6207102835487688,
+                "qElemNumber": 0,
+                "qState": "L"
+              },
+              {
+                "qText": "1.57",
+                "qNum": 1.5743200573959935,
+                "qElemNumber": 0,
+                "qState": "L"
+              }
+            ],
+            [
+              {
+                "qText": "Nov",
+                "qNum": 11,
+                "qElemNumber": 10,
+                "qState": "X"
+              },
+              {
+                "qText": "-",
+                "qNum": "NaN",
+                "qElemNumber": 0,
+                "qState": "L",
+                "qIsNull": true
+              },
+              {
+                "qText": "1.36",
+                "qNum": 1.3565199157754892,
+                "qElemNumber": 0,
+                "qState": "L"
+              },
+              {
+                "qText": "1.57",
+                "qNum": 1.5743200573959935,
+                "qElemNumber": 0,
+                "qState": "L"
+              }
+            ],
+            [
+              {
+                "qText": "Dec",
+                "qNum": 12,
+                "qElemNumber": 11,
+                "qState": "X"
+              },
+              {
+                "qText": "-",
+                "qNum": "NaN",
+                "qElemNumber": 0,
+                "qState": "L",
+                "qIsNull": true
+              },
+              {
+                "qText": "1.54",
+                "qNum": 1.5429428685614395,
+                "qElemNumber": 0,
+                "qState": "L"
+              },
+              {
+                "qText": "1.57",
+                "qNum": 1.5743200573959935,
+                "qElemNumber": 0,
+                "qState": "L"
+              }
+            ]
+          ],
+          "qTails": [
+            {
+              "qUp": 0,
+              "qDown": 0
+            }
+          ],
+          "qArea": {
+            "qLeft": 0,
+            "qTop": 0,
+            "qWidth": 4,
+            "qHeight": 12
+          }
+        }
+      ],
+      "qPivotDataPages": [],
+      "qStackedDataPages": [],
+      "qMode": "S",
+      "qNoOfLeftDims": -1,
+      "qTreeNodesOnDim": [],
+      "qColumnOrder": []
+    },
+    "refLine": {
+      "refLines": []
+    },
+    "showTitles": true,
+    "title": "Cost of Goods Sold",
+    "subtitle": "",
+    "footnote": "",
+    "showDetails": false,
+    "lineType": "line",
+    "stackedArea": false,
+    "separateStacking": true,
+    "scrollStartPos": 0,
+    "nullMode": "gap",
+    "dataPoint": {
+      "show": true,
+      "showLabels": true
+    },
+    "gridLine": {
+      "auto": false,
+      "spacing": 3
+    },
+    "color": {
+      "auto": true,
+      "mode": "primary",
+      "useBaseColors": "off",
+      "paletteColor": {
+        "index": 6
+      },
+      "useDimColVal": true,
+      "persistent": false,
+      "expressionIsColor": true,
+      "expressionLabel": "",
+      "measureScheme": "sg",
+      "reverseScheme": false,
+      "dimensionScheme": "12",
+      "autoMinMax": true,
+      "measureMin": 0,
+      "measureMax": 10
+    },
+    "legend": {
+      "show": false,
+      "dock": "top",
+      "showTitle": true
+    },
+    "dimensionAxis": {
+      "continuousAuto": true,
+      "show": "all",
+      "label": "auto",
+      "dock": "near"
+    },
+    "preferContinuousAxis": true,
+    "measureAxis": {
+      "show": "labels",
+      "dock": "near",
+      "spacing": 0.5,
+      "autoMinMax": true,
+      "minMax": "min",
+      "min": 0,
+      "max": 10,
+      "logarithmic": false
+    },
+    "visualization": "linechart",
+    "snapshotData": {
+      "object": {
+        "size": {
+          "w": 415,
+          "h": 135
+        }
+      },
+      "rtl": false,
+      "content": {
+        "chartData": {
+          "legendScrollOffset": 0,
+          "scrollOffset": 0,
+          "discreteSpacing": 30.583333333333332,
+          "axisInnerOffset": 0,
+          "hasMiniChart": false,
+          "viewRange": 12
+        },
+        "size": {
+          "w": 415,
+          "h": 107
+        },
+        "components": {
+          "grid": {
+            "visible": true,
+            "dock": "center",
+            "size": {
+              "w": 367,
+              "h": 102
+            }
+          },
+          "colorLegend": {
+            "visible": false,
+            "dock": "top",
+            "size": {
+              "w": 367,
+              "h": 0
+            }
+          },
+          "miniChart": {
+            "visible": false,
+            "dock": "bottom",
+            "size": {
+              "w": 367,
+              "h": 0
+            }
+          },
+          "timeAxis": {
+            "visible": false,
+            "dock": "bottom",
+            "size": {
+              "w": 367,
+              "h": 0
+            }
+          },
+          "continuousAxis": {
+            "visible": false,
+            "dock": "bottom",
+            "size": {
+              "w": 367,
+              "h": 0
+            }
+          },
+          "refLineLabels": {
+            "visible": false,
+            "dock": "right",
+            "size": {
+              "w": 0,
+              "h": 102
+            }
+          },
+          "scrollArea": {
+            "visible": false,
+            "dock": "bottom",
+            "size": {
+              "w": 367,
+              "h": 0
+            }
+          },
+          "refLines": {
+            "visible": true,
+            "dock": "center",
+            "size": {
+              "w": 367,
+              "h": 102
+            }
+          },
+          "dataArea": {
+            "visible": true,
+            "dock": "center",
+            "size": {
+              "w": 367,
+              "h": 102
+            }
+          },
+          "measureAxis": {
+            "visible": true,
+            "dock": "left",
+            "size": {
+              "w": 44,
+              "h": 102
+            }
+          },
+          "dimensionAxis": {
+            "visible": false,
+            "dock": "bottom",
+            "size": {
+              "w": 367,
+              "h": 0
+            }
+          },
+          "dimensionAxisTitle": {
+            "visible": false,
+            "dock": "bottom",
+            "size": {
+              "w": 367,
+              "h": 0
+            }
+          },
+          "measureAxisTitle": {
+            "visible": false,
+            "dock": "left",
+            "size": {
+              "w": 0,
+              "h": 102
+            }
+          }
+        },
+        "v": 0.96
+      },
+      "parent": {
+        "h": 925.867,
+        "w": 2048
+      }
+    },
+    "visualizationType": "linechart",
+    "sourceObjectId": "GcRPWK",
+    "sheetId": "c2c79d03-7a8c-460c-ac2c-d6d22a17e5c8",
+    "timestamp": 1553263846583,
+    "isClone": false,
+    "supportExport": true
+  },
+  {
+    "qInfo": {
+      "qId": "8c849782-2740-447d-9324-d5394893dcca",
+      "qType": "snapshot"
+    },
+    "qMetaDef": {
+      "title": "Waste MT",
+      "description": "",
+      "annotation": ""
+    },
+    "creationDate": "2018-07-07T08:13:53.224Z",
+    "qSelectionInfo": {},
+    "qLibraryId": "",
+    "qDef": {
+      "autoSort": true,
+      "cId": "",
+      "othersLabel": "Others"
+    },
+    "qNullSuppression": false,
+    "qOtherTotalSpec": {
+      "qOtherMode": "OTHER_OFF",
+      "qOtherSortMode": "OTHER_SORT_DESCENDING",
+      "qOtherCounted": {
+        "qv": "10"
+      },
+      "qOtherLimitMode": "OTHER_GE_LIMIT",
+      "qOtherLimit": {
+        "qv": "0"
+      },
+      "qSuppressOther": false
+    },
+    "qOtherLabel": "Others",
+    "qHyperCube": {
+      "qSize": {
+        "qcx": 1,
+        "qcy": 1
+      },
+      "qDimensionInfo": [],
+      "qMeasureInfo": [
+        {
+          "qFallbackTitle": "Expansion Ratio",
+          "qApprMaxGlyphCount": 1,
+          "qCardinal": 0,
+          "qSortIndicator": "D",
+          "qNumFormat": {
+            "qType": "F",
+            "qnDec": 2,
+            "qUseThou": 0,
+            "qFmt": "#,##0",
+            "qDec": ".",
+            "qThou": ","
+          },
+          "qMin": 0,
+          "qMax": 0,
+          "qAttrExprInfo": [
+            {
+              "qMin": "NaN",
+              "qMax": "NaN",
+              "qNumFormat": {
+                "qType": "U",
+                "qnDec": 10,
+                "qUseThou": 0
+              }
+            }
+          ],
+          "qAttrDimInfo": [],
+          "qTrendLines": [],
+          "autoSort": true,
+          "cId": "PuPwDA",
+          "numFormatFromTemplate": true,
+          "autoFormatTemplate": "0A",
+          "labelColor": "#FFFFFF",
+          "valueColor": "#FFFFFF",
+          "useLink": false,
+          "kpiLink": "",
+          "hideLabel": false,
+          "hideValue": true,
+          "groupByDimension": false,
+          "groupByDimensionValue": "",
+          "ovParams": false,
+          "size": " ",
+          "labelOrientation": "",
+          "labelOrder": "first",
+          "fontStyles": "bold",
+          "textAlignment": "center",
+          "valueIcon": "",
+          "iconPosition": "label",
+          "iconOrder": "first",
+          "iconSize": "",
+          "infographic": false,
+          "embeddedItem": ""
+        }
+      ],
+      "qEffectiveInterColumnSortOrder": [
+        0
+      ],
+      "qGrandTotalRow": [
+        {
+          "qText": "0",
+          "qNum": 0,
+          "qElemNumber": -1,
+          "qState": "X",
+          "qIsTotalCell": true
+        }
+      ],
+      "qDataPages": [
+        {
+          "qMatrix": [
+            [
+              {
+                "qText": "0",
+                "qNum": 0,
+                "qElemNumber": 0,
+                "qState": "L",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              }
+            ]
+          ],
+          "qTails": [],
+          "qArea": {
+            "qLeft": 0,
+            "qTop": 0,
+            "qWidth": 1,
+            "qHeight": 1
+          }
+        }
+      ],
+      "qPivotDataPages": [],
+      "qStackedDataPages": [],
+      "qMode": "S",
+      "qNoOfLeftDims": -1,
+      "qTreeNodesOnDim": [],
+      "qColumnOrder": [],
+      "customErrorMessage": {
+        "calcCond": ""
+      }
+    },
+    "showTitles": false,
+    "title": "Waste MT",
+    "subtitle": "",
+    "footnote": "",
+    "showDetails": false,
+    "options": {
+      "dimShowAs": "segment",
+      "dimDivideBy": "auto",
+      "dimensionsOrientation": "horizontal",
+      "dimLabelOrientation": "top attached",
+      "dimLabelSize": "huge",
+      "dimHideLabels": false,
+      "dimCenteredLabels": false,
+      "dimHideBorders": false,
+      "dimHideInternalBorders": false,
+      "labelOrientation": "",
+      "labelOrder": "first",
+      "size": "small",
+      "autoSize": true,
+      "divideBy": "auto",
+      "backgroundColor": "#4477AA",
+      "verticalAlign": "stretched-items",
+      "styles": ""
+    },
+    "visualization": "qsSimpleKPI",
+    "version": 1.1,
+    "extensionMeta": {
+      "translationKey": "",
+      "icon": "kpi",
+      "iconChar": "g",
+      "isLibraryItem": true,
+      "visible": true,
+      "name": "Simple KPI",
+      "description": "Simple KPI",
+      "template": "qsSimpleKPI",
+      "isThirdParty": true,
+      "preview": "preview.png",
+      "type": "visualization",
+      "version": "1.1.2",
+      "author": "Alexander Nerush",
+      "previewIconURL": "../extensions/qsSimpleKPI/preview.png"
+    },
+    "snapshotData": {
+      "object": {
+        "size": {
+          "w": 96,
+          "h": 37
+        }
+      },
+      "rtl": false,
+      "parent": {
+        "h": 894,
+        "w": 1920
+      }
+    },
+    "visualizationType": "qsSimpleKPI",
+    "sourceObjectId": "NDuUYq",
+    "sheetId": "7f92d88f-5261-4926-bc19-9663e03e369e",
+    "timestamp": 1530951233221,
+    "isClone": false,
+    "supportExport": true
+  },
+  {
+    "qInfo": {
+      "qId": "9977c2e8-506c-4c3a-ab09-49c8f59b7053",
+      "qType": "snapshot"
+    },
+    "qMetaDef": {
+      "title": "",
+      "description": "",
+      "annotation": ""
+    },
+    "creationDate": "2020-04-21T10:40:11.967Z",
+    "qMeta": {
+      "privileges": [
+        "read",
+        "update",
+        "delete",
+        "exportdata"
+      ]
+    },
+    "qSelectionInfo": {},
+    "qHyperCube": {
+      "qSize": {
+        "qcx": 0,
+        "qcy": 0
+      },
+      "qDimensionInfo": [],
+      "qMeasureInfo": [],
+      "qEffectiveInterColumnSortOrder": [],
+      "qGrandTotalRow": [],
+      "qDataPages": [],
+      "qPivotDataPages": [],
+      "qStackedDataPages": [],
+      "qMode": "S",
+      "qNoOfLeftDims": -1,
+      "qTreeNodesOnDim": [],
+      "qColumnOrder": []
+    },
+    "showTitles": false,
+    "title": "",
+    "subtitle": "",
+    "footnote": "",
+    "showDetails": false,
+    "responsive": "all",
+    "markdown": "^[#[%[Customer Risk Management ](4)](10)](center)",
+    "images": [],
+    "background": {
+      "isUsed": true,
+      "size": "fitWidth",
+      "position": "centerCenter",
+      "url": {
+        "qStaticContentUrlDef": {
+          "qUrl": "/appcontent/53366c30-d52b-439a-9ac5-965e8cedea3b/Grey.jpg"
+        }
+      }
+    },
+    "visualization": "text-image",
+    "snapshotData": {
+      "object": {
+        "size": {
+          "w": 1794,
+          "h": 37
+        }
+      },
+      "rtl": false,
+      "scrollTopPercent": 0,
+      "verticalScrollWidth": -0.11999999999989086,
+      "parent": {
+        "h": 886,
+        "w": 1920
+      }
+    },
+    "visualizationType": "text-image",
+    "sourceObjectId": "DZgJpFn",
+    "sheetId": "1f56234b-4be2-40d1-98f4-fb9bc2e7032d",
+    "timestamp": 1587465611821,
+    "isClone": false,
+    "supportExport": true
+  },
+  {
+    "qInfo": {
+      "qId": "ZbrwaST",
+      "qType": "snapshot"
+    },
+    "qMetaDef": {
+      "title": "",
+      "description": "",
+      "annotation": "Nothing"
+    },
+    "sheetId": "fc1d1888-76f3-4841-a261-b099063abe57",
+    "creationDate": "2017-03-21T14:35:20.804Z",
+    "qSelectionInfo": {},
+    "qHyperCube": {
+      "qSize": {
+        "qcx": 36,
+        "qcy": 12
+      },
+      "qDimensionInfo": [
+        {
+          "qFallbackTitle": "Salesman Level1",
+          "qApprMaxGlyphCount": 17,
+          "qCardinal": 10,
+          "qSortIndicator": "A",
+          "qGroupFallbackTitles": [
+            "Salesman Level1",
+            "Salesman Level2",
+            "Salesman Level3",
+            "Salesman",
+            "Customer"
+          ],
+          "qGroupPos": 0,
+          "qStateCounts": {
+            "qLocked": 0,
+            "qSelected": 0,
+            "qOption": 10,
+            "qDeselected": 0,
+            "qAlternative": 0,
+            "qExcluded": 0,
+            "qSelectedExcluded": 0,
+            "qLockedExcluded": 0
+          },
+          "qTags": [
+            "$ascii",
+            "$text"
+          ],
+          "qDimensionType": "D",
+          "qGrouping": "H",
+          "qNumFormat": {
+            "qType": "U",
+            "qnDec": 0,
+            "qUseThou": 0
+          },
+          "qIsAutoFormat": true,
+          "qGroupFieldDefs": [
+            "Salesman Level1",
+            "Salesman Level2",
+            "Salesman Level3",
+            "Salesman",
+            "Customer"
+          ],
+          "qMin": "NaN",
+          "qMax": "NaN",
+          "qAttrExprInfo": [],
+          "qAttrDimInfo": [],
+          "qCardinalities": {
+            "qCardinal": 0,
+            "qHypercubeCardinal": 0,
+            "qAllValuesCardinal": -1
+          },
+          "title": "Salesman-Customer Hierarchy",
+          "autoSort": true,
+          "cId": "JeS",
+          "othersLabel": "Others"
+        },
+        {
+          "qFallbackTitle": "Sales Header",
+          "qApprMaxGlyphCount": 24,
+          "qCardinal": 6,
+          "qSortIndicator": "A",
+          "qGroupFallbackTitles": [
+            "Sales Header"
+          ],
+          "qGroupPos": 0,
+          "qStateCounts": {
+            "qLocked": 0,
+            "qSelected": 0,
+            "qOption": 6,
+            "qDeselected": 0,
+            "qAlternative": 0,
+            "qExcluded": 0,
+            "qSelectedExcluded": 0,
+            "qLockedExcluded": 0
+          },
+          "qTags": [
+            "$ascii",
+            "$text"
+          ],
+          "qDimensionType": "D",
+          "qGrouping": "N",
+          "qNumFormat": {
+            "qType": "U",
+            "qnDec": 0,
+            "qUseThou": 0
+          },
+          "qIsAutoFormat": true,
+          "qGroupFieldDefs": [
+            "=//if ([Sales Type] = 'Net Sales','Invoiced',if ([Sales Type] = 'Order','Order',null))\n\nif ([Sales Type] = 'Net Sales','1-Invoiced'\n,if ([Sales Type] = 'Backlog','2-Under Execution'\n,if ([Sales Type] = 'EMC','3-Expected Month Closing'\n,if ([Sales Type] = 'Budget','4-Budget'\n,if ([Sales Type] = 'EMC-BUD','5-Expected vs Budget'\n,if ([Sales Type] = 'Forecast','6-Forecast'\n,null))))))"
+          ],
+          "qMin": "NaN",
+          "qMax": "NaN",
+          "qAttrExprInfo": [],
+          "qAttrDimInfo": [],
+          "qCardinalities": {
+            "qCardinal": 0,
+            "qHypercubeCardinal": 0,
+            "qAllValuesCardinal": -1
+          },
+          "title": "Sales Header",
+          "autoSort": false,
+          "cId": "ZcXcFC",
+          "othersLabel": "Others"
+        }
+      ],
+      "qMeasureInfo": [
+        {
+          "qFallbackTitle": "MT",
+          "qApprMaxGlyphCount": 9,
+          "qCardinal": 0,
+          "qSortIndicator": "D",
+          "qNumFormat": {
+            "qType": "F",
+            "qnDec": 2,
+            "qUseThou": 0,
+            "qFmt": "#,##0",
+            "qDec": ".",
+            "qThou": ","
+          },
+          "qMin": -409542.1495959733,
+          "qMax": 1516183.3225169987,
+          "qAttrExprInfo": [
+            {
+              "qMin": "NaN",
+              "qMax": "NaN",
+              "qNumFormat": {
+                "qType": "U",
+                "qnDec": 10,
+                "qUseThou": 0
+              }
+            },
+            {
+              "qMin": "NaN",
+              "qMax": "NaN",
+              "qNumFormat": {
+                "qType": "U",
+                "qnDec": 10,
+                "qUseThou": 0
+              }
+            }
+          ],
+          "qAttrDimInfo": [],
+          "qTrendLines": [],
+          "autoSort": true,
+          "cId": "zsjXvDW",
+          "numFormatFromTemplate": true
+        },
+        {
+          "qFallbackTitle": "ASP",
+          "qApprMaxGlyphCount": 12,
+          "qCardinal": 0,
+          "qSortIndicator": "D",
+          "qNumFormat": {
+            "qType": "F",
+            "qnDec": 2,
+            "qUseThou": 0,
+            "qFmt": "#,##0",
+            "qDec": ".",
+            "qThou": ","
+          },
+          "qMin": -533793259.23341435,
+          "qMax": 540214905.2353648,
+          "qAttrExprInfo": [
+            {
+              "qMin": "NaN",
+              "qMax": "NaN",
+              "qNumFormat": {
+                "qType": "U",
+                "qnDec": 10,
+                "qUseThou": 0
+              }
+            },
+            {
+              "qMin": "NaN",
+              "qMax": "NaN",
+              "qNumFormat": {
+                "qType": "U",
+                "qnDec": 10,
+                "qUseThou": 0
+              }
+            }
+          ],
+          "qAttrDimInfo": [],
+          "qTrendLines": [],
+          "autoSort": true,
+          "cId": "JDJdPnJ",
+          "numFormatFromTemplate": true
+        },
+        {
+          "qFallbackTitle": "ASP/MT",
+          "qApprMaxGlyphCount": 10,
+          "qCardinal": 0,
+          "qSortIndicator": "D",
+          "qNumFormat": {
+            "qType": "F",
+            "qnDec": 2,
+            "qUseThou": 0,
+            "qFmt": "#,##0",
+            "qDec": ".",
+            "qThou": ","
+          },
+          "qMin": 1394.59256977468,
+          "qMax": 10845529.49643361,
+          "qAttrExprInfo": [
+            {
+              "qMin": "NaN",
+              "qMax": "NaN",
+              "qNumFormat": {
+                "qType": "U",
+                "qnDec": 10,
+                "qUseThou": 0
+              }
+            },
+            {
+              "qMin": "NaN",
+              "qMax": "NaN",
+              "qNumFormat": {
+                "qType": "U",
+                "qnDec": 10,
+                "qUseThou": 0
+              }
+            }
+          ],
+          "qAttrDimInfo": [],
+          "qTrendLines": [],
+          "autoSort": true,
+          "cId": "geNzBDB",
+          "numFormatFromTemplate": true
+        },
+        {
+          "qFallbackTitle": "Cost/MT",
+          "qApprMaxGlyphCount": 11,
+          "qCardinal": 0,
+          "qSortIndicator": "D",
+          "qNumFormat": {
+            "qType": "F",
+            "qnDec": 2,
+            "qUseThou": 0,
+            "qFmt": "#,##0",
+            "qDec": ".",
+            "qThou": ","
+          },
+          "qMin": -21422518.34676004,
+          "qMax": 30741168.090827934,
+          "qAttrExprInfo": [
+            {
+              "qMin": "NaN",
+              "qMax": "NaN",
+              "qNumFormat": {
+                "qType": "U",
+                "qnDec": 10,
+                "qUseThou": 0
+              }
+            },
+            {
+              "qMin": "NaN",
+              "qMax": "NaN",
+              "qNumFormat": {
+                "qType": "U",
+                "qnDec": 10,
+                "qUseThou": 0
+              }
+            }
+          ],
+          "qAttrDimInfo": [],
+          "qTrendLines": [],
+          "autoSort": true,
+          "cId": "FCXfqe",
+          "numFormatFromTemplate": true
+        },
+        {
+          "qFallbackTitle": "COP/MT",
+          "qApprMaxGlyphCount": 11,
+          "qCardinal": 0,
+          "qSortIndicator": "D",
+          "qNumFormat": {
+            "qType": "F",
+            "qnDec": 2,
+            "qUseThou": 0,
+            "qFmt": "#,##0",
+            "qDec": ".",
+            "qThou": ","
+          },
+          "qMin": -30737817.75397481,
+          "qMax": 32268043.08952552,
+          "qAttrExprInfo": [
+            {
+              "qMin": "NaN",
+              "qMax": "NaN",
+              "qNumFormat": {
+                "qType": "U",
+                "qnDec": 10,
+                "qUseThou": 0
+              }
+            },
+            {
+              "qMin": "NaN",
+              "qMax": "NaN",
+              "qNumFormat": {
+                "qType": "U",
+                "qnDec": 10,
+                "qUseThou": 0
+              }
+            }
+          ],
+          "qAttrDimInfo": [],
+          "qTrendLines": [],
+          "autoSort": true,
+          "cId": "EtBqXH",
+          "numFormatFromTemplate": true
+        },
+        {
+          "qFallbackTitle": "COP",
+          "qApprMaxGlyphCount": 14,
+          "qCardinal": 0,
+          "qSortIndicator": "D",
+          "qNumFormat": {
+            "qType": "F",
+            "qnDec": 2,
+            "qUseThou": 0,
+            "qFmt": "#,##0",
+            "qDec": ".",
+            "qThou": ","
+          },
+          "qMin": -1778564277.4728966,
+          "qMax": 98628631.59667602,
+          "qAttrExprInfo": [
+            {
+              "qMin": "NaN",
+              "qMax": "NaN",
+              "qNumFormat": {
+                "qType": "U",
+                "qnDec": 10,
+                "qUseThou": 0
+              }
+            },
+            {
+              "qMin": "NaN",
+              "qMax": "NaN",
+              "qNumFormat": {
+                "qType": "U",
+                "qnDec": 10,
+                "qUseThou": 0
+              }
+            }
+          ],
+          "qAttrDimInfo": [],
+          "qTrendLines": [],
+          "autoSort": true,
+          "cId": "APmNpA",
+          "numFormatFromTemplate": true
+        }
+      ],
+      "qEffectiveInterColumnSortOrder": [
+        0,
+        1,
+        -1
+      ],
+      "qGrandTotalRow": [],
+      "qDataPages": [],
+      "qPivotDataPages": [
+        {
+          "qLeft": [
+            {
+              "qText": "Totals",
+              "qElemNo": -1,
+              "qValue": "NaN",
+              "qType": "T",
+              "qUp": 0,
+              "qDown": 0,
+              "qSubNodes": []
+            },
+            {
+              "qText": "-",
+              "qElemNo": -2,
+              "qValue": "NaN",
+              "qType": "U",
+              "qUp": 0,
+              "qDown": 0,
+              "qSubNodes": []
+            },
+            {
+              "qText": "Elie Joseph Karam",
+              "qElemNo": 0,
+              "qValue": "NaN",
+              "qType": "N",
+              "qUp": 0,
+              "qDown": 0,
+              "qSubNodes": []
+            },
+            {
+              "qText": "Fady Frem",
+              "qElemNo": 6,
+              "qValue": "NaN",
+              "qType": "N",
+              "qUp": 0,
+              "qDown": 0,
+              "qSubNodes": []
+            },
+            {
+              "qText": "Issam Chaaya",
+              "qElemNo": 7,
+              "qValue": "NaN",
+              "qType": "N",
+              "qUp": 0,
+              "qDown": 0,
+              "qSubNodes": []
+            },
+            {
+              "qText": "Jihad Frem",
+              "qElemNo": 4,
+              "qValue": "NaN",
+              "qType": "N",
+              "qUp": 0,
+              "qDown": 0,
+              "qSubNodes": []
+            },
+            {
+              "qText": "Maher Dabbous",
+              "qElemNo": 3,
+              "qValue": "NaN",
+              "qType": "N",
+              "qUp": 0,
+              "qDown": 0,
+              "qSubNodes": []
+            },
+            {
+              "qText": "Marwan Frem",
+              "qElemNo": 2,
+              "qValue": "NaN",
+              "qType": "N",
+              "qUp": 0,
+              "qDown": 0,
+              "qSubNodes": []
+            },
+            {
+              "qText": "Not Defined",
+              "qElemNo": 1,
+              "qValue": "NaN",
+              "qType": "N",
+              "qUp": 0,
+              "qDown": 0,
+              "qSubNodes": []
+            },
+            {
+              "qText": "Sales Services",
+              "qElemNo": 9,
+              "qValue": "NaN",
+              "qType": "N",
+              "qUp": 0,
+              "qDown": 0,
+              "qSubNodes": []
+            },
+            {
+              "qText": "Wassim Henoud",
+              "qElemNo": 5,
+              "qValue": "NaN",
+              "qType": "N",
+              "qUp": 0,
+              "qDown": 0,
+              "qSubNodes": []
+            },
+            {
+              "qText": "Ziad Tayah",
+              "qElemNo": 8,
+              "qValue": "NaN",
+              "qType": "N",
+              "qUp": 0,
+              "qDown": 0,
+              "qSubNodes": []
+            }
+          ],
+          "qTop": [
+            {
+              "qText": "1-Invoiced",
+              "qElemNo": 0,
+              "qValue": "NaN",
+              "qType": "N",
+              "qUp": 0,
+              "qDown": 0,
+              "qSubNodes": [
+                {
+                  "qText": "MT",
+                  "qElemNo": 0,
+                  "qValue": "NaN",
+                  "qType": "P",
+                  "qUp": 0,
+                  "qDown": 0,
+                  "qSubNodes": []
+                },
+                {
+                  "qText": "ASP",
+                  "qElemNo": 1,
+                  "qValue": "NaN",
+                  "qType": "P",
+                  "qUp": 0,
+                  "qDown": 0,
+                  "qSubNodes": []
+                },
+                {
+                  "qText": "ASP/MT",
+                  "qElemNo": 2,
+                  "qValue": "NaN",
+                  "qType": "P",
+                  "qUp": 0,
+                  "qDown": 0,
+                  "qSubNodes": []
+                },
+                {
+                  "qText": "Cost/MT",
+                  "qElemNo": 3,
+                  "qValue": "NaN",
+                  "qType": "P",
+                  "qUp": 0,
+                  "qDown": 0,
+                  "qSubNodes": []
+                },
+                {
+                  "qText": "COP/MT",
+                  "qElemNo": 4,
+                  "qValue": "NaN",
+                  "qType": "P",
+                  "qUp": 0,
+                  "qDown": 0,
+                  "qSubNodes": []
+                },
+                {
+                  "qText": "COP",
+                  "qElemNo": 5,
+                  "qValue": "NaN",
+                  "qType": "P",
+                  "qUp": 0,
+                  "qDown": 0,
+                  "qSubNodes": []
+                }
+              ]
+            },
+            {
+              "qText": "2-Under Execution",
+              "qElemNo": 3,
+              "qValue": "NaN",
+              "qType": "N",
+              "qUp": 0,
+              "qDown": 4,
+              "qSubNodes": [
+                {
+                  "qText": "MT",
+                  "qElemNo": 0,
+                  "qValue": "NaN",
+                  "qType": "P",
+                  "qUp": 0,
+                  "qDown": 0,
+                  "qSubNodes": []
+                },
+                {
+                  "qText": "ASP",
+                  "qElemNo": 1,
+                  "qValue": "NaN",
+                  "qType": "P",
+                  "qUp": 0,
+                  "qDown": 0,
+                  "qSubNodes": []
+                },
+                {
+                  "qText": "ASP/MT",
+                  "qElemNo": 2,
+                  "qValue": "NaN",
+                  "qType": "P",
+                  "qUp": 0,
+                  "qDown": 0,
+                  "qSubNodes": []
+                },
+                {
+                  "qText": "Cost/MT",
+                  "qElemNo": 3,
+                  "qValue": "NaN",
+                  "qType": "P",
+                  "qUp": 0,
+                  "qDown": 0,
+                  "qSubNodes": []
+                },
+                {
+                  "qText": "COP/MT",
+                  "qElemNo": 4,
+                  "qValue": "NaN",
+                  "qType": "P",
+                  "qUp": 0,
+                  "qDown": 0,
+                  "qSubNodes": []
+                },
+                {
+                  "qText": "COP",
+                  "qElemNo": 5,
+                  "qValue": "NaN",
+                  "qType": "P",
+                  "qUp": 0,
+                  "qDown": 0,
+                  "qSubNodes": []
+                }
+              ]
+            }
+          ],
+          "qData": [
+            [
+              {
+                "qText": "1,087,605",
+                "qNum": 1087604.508513006,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "6,189,502",
+                "qNum": 6189502.370796831,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "5,691",
+                "qNum": 5690.949533906622,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "1,507,572",
+                "qNum": 1507572.0334655363,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "-1,501,881",
+                "qNum": -1501881.0839316298,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "-1,633,452,638",
+                "qNum": -1633452638.1344407,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "19,037",
+                "qNum": 19036.66440800006,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "232,144",
+                "qNum": 232143.63115763263,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "12,195",
+                "qNum": 12194.553950327321,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "2,716,496",
+                "qNum": 2716496.416214921,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "-2,704,302",
+                "qNum": -2704301.862264594,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "-51,480,887",
+                "qNum": -51480887.00986067,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              }
+            ],
+            [
+              {
+                "qText": "29,667",
+                "qNum": 29666.906225999915,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "128,681",
+                "qNum": 128680.82660582986,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "4,338",
+                "qNum": 4337.520927377816,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "1,944,487",
+                "qNum": 1944487.0352616238,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "-1,940,150",
+                "qNum": -1940149.514334246,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "-57,558,234",
+                "qNum": -57558233.70617335,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "-",
+                "qNum": "NaN",
+                "qType": "U"
+              },
+              {
+                "qText": "-",
+                "qNum": "NaN",
+                "qType": "U"
+              },
+              {
+                "qText": "-",
+                "qNum": "NaN",
+                "qType": "U"
+              },
+              {
+                "qText": "-",
+                "qNum": "NaN",
+                "qType": "U"
+              },
+              {
+                "qText": "-",
+                "qNum": "NaN",
+                "qType": "U"
+              },
+              {
+                "qText": "-",
+                "qNum": "NaN",
+                "qType": "U"
+              }
+            ],
+            [
+              {
+                "qText": "2,151",
+                "qNum": 2150.8481000000247,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "7,206",
+                "qNum": 7206.065654910002,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "3,350",
+                "qNum": 3350.336853127805,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "30,741,168",
+                "qNum": 30741168.090827934,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "-30,737,818",
+                "qNum": -30737817.75397481,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "-66,112,377",
+                "qNum": -66112376.914283745,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "169",
+                "qNum": 169.10799999999995,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "749",
+                "qNum": 749.2482939889994,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "4,431",
+                "qNum": 4430.590474661161,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "4,600,913",
+                "qNum": 4600912.631307575,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "-4,596,482",
+                "qNum": -4596482.040832914,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "-777,302",
+                "qNum": -777301.8849611722,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              }
+            ],
+            [
+              {
+                "qText": "10,894",
+                "qNum": 10893.718664999997,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "27,035",
+                "qNum": 27035.202795819987,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "2,482",
+                "qNum": 2481.7239757329453,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "12,471,437",
+                "qNum": 12471437.264579056,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "-12,468,956",
+                "qNum": -12468955.540603323,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "-135,833,294",
+                "qNum": -135833293.70572555,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "35",
+                "qNum": 34.825920999999994,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "81",
+                "qNum": 81.21384,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "2,332",
+                "qNum": 2331.994033984055,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "3,003,952",
+                "qNum": 3003952.4609609614,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "-3,001,620",
+                "qNum": -3001620.4669269775,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "-104,534",
+                "qNum": -104534.197253182,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              }
+            ],
+            [
+              {
+                "qText": "183,401",
+                "qNum": 183400.76182200015,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "1,182,761",
+                "qNum": 1182760.8049895691,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "6,449",
+                "qNum": 6449.050664999414,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "7,833",
+                "qNum": 7833.097413324148,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "-1,384",
+                "qNum": -1384.046748324734,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "-253,835",
+                "qNum": -253835.22804001832,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "1,282",
+                "qNum": 1281.910130999999,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "113,150",
+                "qNum": 113149.74830372041,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "88,267",
+                "qNum": 88266.52162851226,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "81,909",
+                "qNum": 81909.32542063143,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "6,357",
+                "qNum": 6357.196207880839,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "8,149",
+                "qNum": 8149.354223637223,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              }
+            ],
+            [
+              {
+                "qText": "182,803",
+                "qNum": 182802.61023699996,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "1,317,967",
+                "qNum": 1317967.0827803689,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "7,210",
+                "qNum": 7209.782623298708,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "1,274,049",
+                "qNum": 1274048.8528607644,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "-1,266,839",
+                "qNum": -1266839.0702374657,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "-231,581,489",
+                "qNum": -231581488.78962284,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "2,056",
+                "qNum": 2055.774787000001,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "13,199",
+                "qNum": 13198.931956427,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "6,420",
+                "qNum": 6420.417275225096,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "22,996,291",
+                "qNum": 22996290.866561767,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "-22,989,870",
+                "qNum": -22989870.44928654,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "-47,261,996",
+                "qNum": -47261996.02603966,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              }
+            ],
+            [
+              {
+                "qText": "177,596",
+                "qNum": 177596.06486600006,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "558,849",
+                "qNum": 558848.9181904893,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "3,147",
+                "qNum": 3146.7415599109836,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "2,346,448",
+                "qNum": 2346447.9189661695,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "-2,343,301",
+                "qNum": -2343301.1774062584,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "-416,161,068",
+                "qNum": -416161067.9032162,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "3,831",
+                "qNum": 3831.1746170000024,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "17,026",
+                "qNum": 17026.20731662936,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "4,444",
+                "qNum": 4444.121977912276,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "72,901",
+                "qNum": 72901.42774950551,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "-68,457",
+                "qNum": -68457.30577159324,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "-262,272",
+                "qNum": -262271.8922203358,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              }
+            ],
+            [
+              {
+                "qText": "81,285",
+                "qNum": 81285.25145099973,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "938,204",
+                "qNum": 938203.8776013257,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "11,542",
+                "qNum": 11542.116938235624,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "9,596",
+                "qNum": 9595.98609304442,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "1,946",
+                "qNum": 1946.1308451912037,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "158,192",
+                "qNum": 158191.7351079136,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "1,949",
+                "qNum": 1948.5498359999988,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "36,488",
+                "qNum": 36488.326832212624,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "18,726",
+                "qNum": 18725.888431530293,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "12,147",
+                "qNum": 12147.210840708622,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "6,579",
+                "qNum": 6578.677590821671,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "12,819",
+                "qNum": 12818.881140692436,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              }
+            ],
+            [
+              {
+                "qText": "45",
+                "qNum": 45.160931,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "528",
+                "qNum": 528.3675000000001,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "11,700",
+                "qNum": 11699.65915893098,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "32,471",
+                "qNum": 32470.530247881736,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "-20,771",
+                "qNum": -20770.871088950757,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "-938",
+                "qNum": -938.031876058,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "3",
+                "qNum": 2.81724,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "39",
+                "qNum": 38.825999985,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "13,782",
+                "qNum": 13781.573449546366,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "4,697",
+                "qNum": 4697.420790206017,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "9,084",
+                "qNum": 9084.152659340349,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "26",
+                "qNum": 25.592238238000004,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              }
+            ],
+            [
+              {
+                "qText": "108,381",
+                "qNum": 108380.65420599999,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "431,729",
+                "qNum": 431729.46918742947,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "3,983",
+                "qNum": 3983.4550949179334,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "2,750,446",
+                "qNum": 2750446.4125308124,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "-2,746,463",
+                "qNum": -2746462.9574358943,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "-297,663,452",
+                "qNum": -297663452.07944775,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "1,092",
+                "qNum": 1092.369960999999,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "7,807",
+                "qNum": 7807.399853716994,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "7,147",
+                "qNum": 7147.212146487248,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "1,096,321",
+                "qNum": 1096320.7615031227,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "-1,089,174",
+                "qNum": -1089173.5493566354,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "-1,189,780",
+                "qNum": -1189780.4676329384,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              }
+            ],
+            [
+              {
+                "qText": "166,385",
+                "qNum": 166385.48978899978,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "232,040",
+                "qNum": 232039.96777806,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "1,395",
+                "qNum": 1394.59256977468,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "1,233,268",
+                "qNum": 1233268.2633387283,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "-1,231,874",
+                "qNum": -1231873.6707689536,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "-204,965,904",
+                "qNum": -204965904.06906542,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "7,479",
+                "qNum": 7478.905000999961,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "30,560",
+                "qNum": 30559.836270112803,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "4,086",
+                "qNum": 4086.137778996634,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "99,547",
+                "qNum": 99547.42010242905,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "-95,461",
+                "qNum": -95461.28232343242,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "-713,946",
+                "qNum": -713945.861770588,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              }
+            ],
+            [
+              {
+                "qText": "144,997",
+                "qNum": 144997.04222000137,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "1,364,502",
+                "qNum": 1364501.7877130006,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "9,411",
+                "qNum": 9410.549117565219,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "1,550,685",
+                "qNum": 1550685.019413443,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "-1,541,274",
+                "qNum": -1541274.4702958777,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "-223,480,239",
+                "qNum": -223480239.44210163,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "1,141",
+                "qNum": 1141.2289140000005,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "13,044",
+                "qNum": 13043.892490888016,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "11,430",
+                "qNum": 11429.689811458817,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "1,055,962",
+                "qNum": 1055962.0294358726,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "-1,044,532",
+                "qNum": -1044532.3396244136,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              },
+              {
+                "qText": "-1,192,051",
+                "qNum": -1192050.5075874494,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              }
+            ]
+          ],
+          "qArea": {
+            "qLeft": 0,
+            "qTop": 0,
+            "qWidth": 12,
+            "qHeight": 12
+          }
+        }
+      ],
+      "qStackedDataPages": [],
+      "qMode": "P",
+      "qNoOfLeftDims": 1,
+      "qIndentMode": true,
+      "qTreeNodesOnDim": [],
+      "qColumnOrder": [],
+      "customErrorMessage": {
+        "calcCond": ""
+      }
+    },
+    "showTitles": false,
+    "title": "",
+    "subtitle": "",
+    "footnote": "",
+    "visualization": "pivot-table",
+    "snapshotData": {
+      "object": {
+        "size": {
+          "w": 1884,
+          "h": 732
+        }
+      },
+      "rtl": false,
+      "parent": {
+        "h": 860,
+        "w": 1910
+      }
+    },
+    "visualizationType": "pivot-table",
+    "sourceObjectId": "b86296e9-dd8d-4ea2-84b8-b112d86cc634",
+    "timestamp": 1490106915975,
+    "isClone": false
+  },
+  {
+    "qInfo": {
+      "qId": "d1950af3-f427-4c3b-8450-7d2dd9e31a70",
+      "qType": "snapshot"
+    },
+    "qMetaDef": {
+      "title": "",
+      "description": "",
+      "annotation": ""
+    },
+    "creationDate": "2019-11-20T08:21:54.393Z",
+    "qMeta": {
+      "privileges": [
+        "read",
+        "update",
+        "delete",
+        "exportdata"
+      ]
+    },
+    "qSelectionInfo": {},
+    "showTitles": false,
+    "title": "",
+    "subtitle": "",
+    "footnote": "",
+    "showDetails": false,
+    "props": {
+      "loadByTag": true,
+      "btnLabel": "Filters",
+      "groups": {
+        "group1": {
+          "tag": "Filter Set One",
+          "label": ""
+        },
+        "group2": {
+          "tag": "",
+          "label": ""
+        },
+        "group3": {
+          "tag": "",
+          "label": ""
+        },
+        "group4": {
+          "tag": "",
+          "label": ""
+        }
+      }
+    },
+    "visualization": "qssidemenu",
+    "qHyperCube": {
+      "qSize": {
+        "qcx": 0,
+        "qcy": 0
+      },
+      "qDimensionInfo": [],
+      "qMeasureInfo": [],
+      "qEffectiveInterColumnSortOrder": [],
+      "qGrandTotalRow": [],
+      "qDataPages": [
+        {
+          "qMatrix": [],
+          "qTails": [],
+          "qArea": {
+            "qLeft": 0,
+            "qTop": 0,
+            "qWidth": 0,
+            "qHeight": 0
+          }
+        }
+      ],
+      "qPivotDataPages": [],
+      "qStackedDataPages": [],
+      "qMode": "S",
+      "qNoOfLeftDims": -1,
+      "qTreeNodesOnDim": [],
+      "qColumnOrder": []
+    },
+    "version": "@@version",
+    "extensionMeta": {
+      "translationKey": "",
+      "icon": "puzzle",
+      "iconChar": "g",
+      "isLibraryItem": true,
+      "visible": true,
+      "name": "QS Side Menu",
+      "description": "a filters menu",
+      "template": "qssidemenu",
+      "isThirdParty": true,
+      "type": "visualization",
+      "version": "@@version",
+      "preview": "qssidemenu.png",
+      "author": "Loris Lombardo",
+      "previewIconURL": "../extensions/qssidemenu/qssidemenu.png"
+    },
+    "masterVersion": 0.96,
+    "metadata": {},
+    "snapshotData": {
+      "object": {
+        "size": {
+          "w": 189,
+          "h": 78
+        }
+      },
+      "rtl": false,
+      "parent": {
+        "h": 1091.25,
+        "w": 2400
+      }
+    },
+    "visualizationType": "qssidemenu",
+    "sourceObjectId": "0b18751b-574b-4c49-bb8c-0a9549b8db19",
+    "sheetId": "4efc08b8-e9c6-49fd-be81-644edc284536",
+    "timestamp": 1574238114390,
+    "isClone": false,
+    "supportExport": false
+  },
+  {
+    "qInfo": {
+      "qId": "f1318f55-554d-4a4f-8930-27e8d7eb8f95",
+      "qType": "snapshot"
+    },
+    "qMetaDef": {
+      "title": "",
+      "description": "",
+      "annotation": ""
+    },
+    "creationDate": "2019-05-31T04:47:34.188Z",
+    "qSelectionInfo": {
+      "qInSelections": false,
+      "qMadeSelections": false
+    },
+    "qHyperCube": {
+      "qSize": {
+        "qcx": 1,
+        "qcy": 9
+      },
+      "qDimensionInfo": [
+        {
+          "qFallbackTitle": "Business Unit",
+          "qApprMaxGlyphCount": 31,
+          "qCardinal": 22,
+          "qSortIndicator": "A",
+          "qGroupFallbackTitles": [
+            "Business Unit"
+          ],
+          "qGroupPos": 0,
+          "qStateCounts": {
+            "qLocked": 0,
+            "qSelected": 0,
+            "qOption": 22,
+            "qDeselected": 0,
+            "qAlternative": 0,
+            "qExcluded": 0,
+            "qSelectedExcluded": 0,
+            "qLockedExcluded": 0
+          },
+          "qTags": [
+            "$ascii",
+            "$text"
+          ],
+          "qDimensionType": "D",
+          "qGrouping": "N",
+          "qNumFormat": {
+            "qType": "U",
+            "qnDec": 0,
+            "qUseThou": 0
+          },
+          "qIsAutoFormat": true,
+          "qGroupFieldDefs": [
+            "Business Unit"
+          ],
+          "qMin": "NaN",
+          "qMax": "NaN",
+          "qAttrExprInfo": [],
+          "qAttrDimInfo": [],
+          "qCardinalities": {
+            "qCardinal": 0,
+            "qHypercubeCardinal": 0,
+            "qAllValuesCardinal": -1
+          },
+          "title": "Business Unit",
+          "autoSort": true,
+          "cId": "ftBm",
+          "othersLabel": "Others",
+          "textAlign": {
+            "auto": true,
+            "align": "left"
+          },
+          "representation": {
+            "type": "text",
+            "urlLabel": ""
+          }
+        },
+        {
+          "qFallbackTitle": "Customer Unit",
+          "qApprMaxGlyphCount": 17,
+          "qCardinal": 9,
+          "qSortIndicator": "A",
+          "qGroupFallbackTitles": [
+            "Customer Unit"
+          ],
+          "qGroupPos": 0,
+          "qStateCounts": {
+            "qLocked": 0,
+            "qSelected": 0,
+            "qOption": 9,
+            "qDeselected": 0,
+            "qAlternative": 0,
+            "qExcluded": 0,
+            "qSelectedExcluded": 0,
+            "qLockedExcluded": 0
+          },
+          "qTags": [
+            "$ascii",
+            "$text"
+          ],
+          "qDimensionType": "D",
+          "qGrouping": "N",
+          "qNumFormat": {
+            "qType": "U",
+            "qnDec": 0,
+            "qUseThou": 0
+          },
+          "qIsAutoFormat": true,
+          "qGroupFieldDefs": [
+            "Customer Unit"
+          ],
+          "qMin": "NaN",
+          "qMax": "NaN",
+          "qAttrExprInfo": [],
+          "qAttrDimInfo": [],
+          "qCardinalities": {
+            "qCardinal": 0,
+            "qHypercubeCardinal": 0,
+            "qAllValuesCardinal": -1
+          },
+          "autoSort": true,
+          "cId": "AHZh",
+          "othersLabel": "Others",
+          "textAlign": {
+            "auto": true,
+            "align": "left"
+          },
+          "representation": {
+            "type": "text",
+            "urlLabel": ""
+          }
+        },
+        {
+          "qFallbackTitle": "Customer Area",
+          "qApprMaxGlyphCount": 20,
+          "qCardinal": 13,
+          "qSortIndicator": "A",
+          "qGroupFallbackTitles": [
+            "Customer Area"
+          ],
+          "qGroupPos": 0,
+          "qStateCounts": {
+            "qLocked": 0,
+            "qSelected": 0,
+            "qOption": 13,
+            "qDeselected": 0,
+            "qAlternative": 0,
+            "qExcluded": 0,
+            "qSelectedExcluded": 0,
+            "qLockedExcluded": 0
+          },
+          "qTags": [
+            "$ascii",
+            "$text"
+          ],
+          "qDimensionType": "D",
+          "qGrouping": "N",
+          "qNumFormat": {
+            "qType": "U",
+            "qnDec": 0,
+            "qUseThou": 0
+          },
+          "qIsAutoFormat": true,
+          "qGroupFieldDefs": [
+            "Customer Area"
+          ],
+          "qMin": "NaN",
+          "qMax": "NaN",
+          "qAttrExprInfo": [],
+          "qAttrDimInfo": [],
+          "qCardinalities": {
+            "qCardinal": 0,
+            "qHypercubeCardinal": 0,
+            "qAllValuesCardinal": -1
+          },
+          "autoSort": true,
+          "cId": "FAEspE",
+          "othersLabel": "Others",
+          "textAlign": {
+            "auto": true,
+            "align": "left"
+          },
+          "representation": {
+            "type": "text",
+            "urlLabel": ""
+          }
+        },
+        {
+          "qFallbackTitle": "Customer",
+          "qApprMaxGlyphCount": 96,
+          "qCardinal": 12495,
+          "qSortIndicator": "A",
+          "qGroupFallbackTitles": [
+            "Customer"
+          ],
+          "qGroupPos": 0,
+          "qStateCounts": {
+            "qLocked": 0,
+            "qSelected": 0,
+            "qOption": 12495,
+            "qDeselected": 0,
+            "qAlternative": 0,
+            "qExcluded": 0,
+            "qSelectedExcluded": 0,
+            "qLockedExcluded": 0
+          },
+          "qTags": [
+            "$text"
+          ],
+          "qDimensionType": "D",
+          "qGrouping": "N",
+          "qNumFormat": {
+            "qType": "U",
+            "qnDec": 0,
+            "qUseThou": 0
+          },
+          "qIsAutoFormat": true,
+          "qGroupFieldDefs": [
+            "Customer"
+          ],
+          "qMin": "NaN",
+          "qMax": "NaN",
+          "qAttrExprInfo": [],
+          "qAttrDimInfo": [],
+          "qCardinalities": {
+            "qCardinal": 0,
+            "qHypercubeCardinal": 0,
+            "qAllValuesCardinal": -1
+          },
+          "title": "Customer",
+          "autoSort": true,
+          "cId": "PCyYJH",
+          "othersLabel": "Others",
+          "textAlign": {
+            "auto": true,
+            "align": "left"
+          },
+          "representation": {
+            "type": "text",
+            "urlLabel": ""
+          }
+        }
+      ],
+      "qMeasureInfo": [
+        {
+          "qFallbackTitle": "Platinum to Gold",
+          "qApprMaxGlyphCount": 1,
+          "qCardinal": 0,
+          "qSortIndicator": "D",
+          "qNumFormat": {
+            "qType": "I",
+            "qnDec": 0,
+            "qUseThou": 1,
+            "qFmt": "###0",
+            "qDec": "."
+          },
+          "qMin": 1,
+          "qMax": 2,
+          "qIsAutoFormat": true,
+          "qAttrExprInfo": [
+            {
+              "qMin": "NaN",
+              "qMax": "NaN",
+              "qNumFormat": {
+                "qType": "U",
+                "qnDec": 10,
+                "qUseThou": 0
+              }
+            },
+            {
+              "qMin": "NaN",
+              "qMax": "NaN",
+              "qNumFormat": {
+                "qType": "U",
+                "qnDec": 10,
+                "qUseThou": 0
+              }
+            }
+          ],
+          "qAttrDimInfo": [],
+          "qTrendLines": [],
+          "autoSort": true,
+          "cId": "CksmLK",
+          "numFormatFromTemplate": true,
+          "textAlign": {
+            "auto": true,
+            "align": "left"
+          }
+        }
+      ],
+      "qEffectiveInterColumnSortOrder": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "qGrandTotalRow": [],
+      "qDataPages": [],
+      "qPivotDataPages": [
+        {
+          "qLeft": [
+            {
+              "qText": "Compact",
+              "qElemNo": 12,
+              "qValue": "NaN",
+              "qCanExpand": true,
+              "qType": "N",
+              "qUp": 0,
+              "qDown": 0,
+              "qSubNodes": [
+                {
+                  "qElemNo": -4,
+                  "qValue": "NaN",
+                  "qType": "E",
+                  "qUp": 0,
+                  "qDown": 0,
+                  "qSubNodes": [
+                    {
+                      "qElemNo": -4,
+                      "qValue": "NaN",
+                      "qType": "E",
+                      "qUp": 0,
+                      "qDown": 1,
+                      "qSubNodes": [
+                        {
+                          "qElemNo": -4,
+                          "qValue": "NaN",
+                          "qType": "E",
+                          "qUp": 0,
+                          "qDown": 0,
+                          "qSubNodes": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "qText": "Modern Sack",
+              "qElemNo": 9,
+              "qValue": "NaN",
+              "qCanCollapse": true,
+              "qType": "N",
+              "qUp": 0,
+              "qDown": 0,
+              "qSubNodes": [
+                {
+                  "qElemNo": -1,
+                  "qValue": "NaN",
+                  "qType": "T",
+                  "qUp": 0,
+                  "qDown": 0,
+                  "qSubNodes": [
+                    {
+                      "qElemNo": -4,
+                      "qValue": "NaN",
+                      "qType": "E",
+                      "qUp": 1,
+                      "qDown": 0,
+                      "qSubNodes": [
+                        {
+                          "qElemNo": -4,
+                          "qValue": "NaN",
+                          "qType": "E",
+                          "qUp": 0,
+                          "qDown": 0,
+                          "qSubNodes": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "qText": "Petrochemical",
+                  "qElemNo": 8,
+                  "qValue": "NaN",
+                  "qCanCollapse": true,
+                  "qType": "N",
+                  "qUp": 0,
+                  "qDown": 0,
+                  "qSubNodes": [
+                    {
+                      "qElemNo": -1,
+                      "qValue": "NaN",
+                      "qType": "T",
+                      "qUp": 0,
+                      "qDown": 0,
+                      "qSubNodes": [
+                        {
+                          "qElemNo": -4,
+                          "qValue": "NaN",
+                          "qType": "E",
+                          "qUp": 0,
+                          "qDown": 0,
+                          "qSubNodes": []
+                        }
+                      ]
+                    },
+                    {
+                      "qText": "Petrochemical",
+                      "qElemNo": 12,
+                      "qValue": "NaN",
+                      "qCanCollapse": true,
+                      "qType": "N",
+                      "qUp": 0,
+                      "qDown": 0,
+                      "qSubNodes": [
+                        {
+                          "qElemNo": -1,
+                          "qValue": "NaN",
+                          "qType": "T",
+                          "qUp": 0,
+                          "qDown": 0,
+                          "qSubNodes": []
+                        },
+                        {
+                          "qText": "Al-WAHA PETROCHEMICALS CO (SAHARA) شركة الواحة للبتروكيماويات",
+                          "qElemNo": 2348,
+                          "qValue": "NaN",
+                          "qType": "N",
+                          "qUp": 0,
+                          "qDown": 0,
+                          "qSubNodes": []
+                        },
+                        {
+                          "qText": "KEMYA  شركة الجبيل للبتروكيماويات",
+                          "qElemNo": 2197,
+                          "qValue": "NaN",
+                          "qType": "N",
+                          "qUp": 0,
+                          "qDown": 0,
+                          "qSubNodes": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "qText": "NPPC",
+              "qElemNo": 10,
+              "qValue": "NaN",
+              "qCanExpand": true,
+              "qType": "N",
+              "qUp": 0,
+              "qDown": 0,
+              "qSubNodes": [
+                {
+                  "qElemNo": -4,
+                  "qValue": "NaN",
+                  "qType": "E",
+                  "qUp": 0,
+                  "qDown": 2,
+                  "qSubNodes": [
+                    {
+                      "qElemNo": -4,
+                      "qValue": "NaN",
+                      "qType": "E",
+                      "qUp": 0,
+                      "qDown": 2,
+                      "qSubNodes": [
+                        {
+                          "qElemNo": -4,
+                          "qValue": "NaN",
+                          "qType": "E",
+                          "qUp": 0,
+                          "qDown": 0,
+                          "qSubNodes": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "qText": "Repro",
+              "qElemNo": 13,
+              "qValue": "NaN",
+              "qCanExpand": true,
+              "qType": "N",
+              "qUp": 0,
+              "qDown": 0,
+              "qSubNodes": [
+                {
+                  "qElemNo": -4,
+                  "qValue": "NaN",
+                  "qType": "E",
+                  "qUp": 1,
+                  "qDown": 1,
+                  "qSubNodes": [
+                    {
+                      "qElemNo": -4,
+                      "qValue": "NaN",
+                      "qType": "E",
+                      "qUp": 1,
+                      "qDown": 1,
+                      "qSubNodes": [
+                        {
+                          "qElemNo": -4,
+                          "qValue": "NaN",
+                          "qType": "E",
+                          "qUp": 0,
+                          "qDown": 0,
+                          "qSubNodes": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "qText": "UPPC Tech",
+              "qElemNo": 15,
+              "qValue": "NaN",
+              "qCanExpand": true,
+              "qType": "N",
+              "qUp": 0,
+              "qDown": 0,
+              "qSubNodes": [
+                {
+                  "qElemNo": -4,
+                  "qValue": "NaN",
+                  "qType": "E",
+                  "qUp": 2,
+                  "qDown": 0,
+                  "qSubNodes": [
+                    {
+                      "qElemNo": -4,
+                      "qValue": "NaN",
+                      "qType": "E",
+                      "qUp": 2,
+                      "qDown": 0,
+                      "qSubNodes": [
+                        {
+                          "qElemNo": -4,
+                          "qValue": "NaN",
+                          "qType": "E",
+                          "qUp": 0,
+                          "qDown": 0,
+                          "qSubNodes": []
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "qTop": [
+            {
+              "qText": "Platinum to Gold",
+              "qElemNo": 0,
+              "qValue": "NaN",
+              "qType": "P",
+              "qUp": 0,
+              "qDown": 0,
+              "qSubNodes": []
+            }
+          ],
+          "qData": [
+            [
+              {
+                "qText": "2",
+                "qNum": 2,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              }
+            ],
+            [
+              {
+                "qText": "2",
+                "qNum": 2,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              }
+            ],
+            [
+              {
+                "qText": "2",
+                "qNum": 2,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              }
+            ],
+            [
+              {
+                "qText": "2",
+                "qNum": 2,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              }
+            ],
+            [
+              {
+                "qText": "1",
+                "qNum": 1,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              }
+            ],
+            [
+              {
+                "qText": "1",
+                "qNum": 1,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              }
+            ],
+            [
+              {
+                "qText": "1",
+                "qNum": 1,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              }
+            ],
+            [
+              {
+                "qText": "1",
+                "qNum": 1,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              }
+            ],
+            [
+              {
+                "qText": "1",
+                "qNum": 1,
+                "qType": "V",
+                "qAttrExps": {
+                  "qValues": [
+                    {
+                      "qNum": "NaN"
+                    },
+                    {
+                      "qNum": "NaN"
+                    }
+                  ]
+                }
+              }
+            ]
+          ],
+          "qArea": {
+            "qLeft": 0,
+            "qTop": 0,
+            "qWidth": 1,
+            "qHeight": 9
+          }
+        }
+      ],
+      "qStackedDataPages": [],
+      "qMode": "P",
+      "qNoOfLeftDims": 4,
+      "qIndentMode": true,
+      "qTreeNodesOnDim": [],
+      "qColumnOrder": [
+        0,
+        1,
+        2,
+        4,
+        3
+      ],
+      "columnOrder": [
+        0,
+        1,
+        2,
+        4,
+        3
+      ],
+      "columnWidths": []
+    },
+    "showTitles": true,
+    "title": "",
+    "subtitle": "",
+    "footnote": "",
+    "showDetails": false,
+    "visualization": "pivot-table",
+    "snapshotData": {
+      "object": {
+        "size": {
+          "w": 1582,
+          "h": 367
+        }
+      },
+      "rtl": false,
+      "capturedOnDesktop": true,
+      "parent": {
+        "h": 957.778,
+        "w": 2133.33
+      }
+    },
+    "visualizationType": "pivot-table",
+    "sourceObjectId": "kHrjKQx",
+    "sheetId": "dc8106ad-2966-4fbb-a491-7da0589a5445",
+    "timestamp": 1559278054174,
+    "isClone": false,
+    "supportExport": true
+  },
+  {
+    "qInfo": {
+      "qId": "fff61315-c7d2-45d0-a125-2aab7a936760",
+      "qType": "snapshot"
+    },
+    "qMetaDef": {
+      "title": "",
+      "description": "",
+      "annotation": ""
+    },
+    "creationDate": "2019-06-04T08:19:21.847Z",
+    "qSelectionInfo": {},
+    "qHyperCube": {
+      "qSize": {
+        "qcx": 1,
+        "qcy": 1
+      },
+      "qDimensionInfo": [],
+      "qMeasureInfo": [
+        {
+          "qFallbackTitle": "Forecast MT",
+          "qApprMaxGlyphCount": 14,
+          "qCardinal": 0,
+          "qSortIndicator": "D",
+          "qNumFormat": {
+            "qType": "R",
+            "qnDec": 0,
+            "qUseThou": 0,
+            "qFmt": "##############",
+            "qDec": ".",
+            "qThou": ","
+          },
+          "qMin": 93.95761512762975,
+          "qMax": 93.95761512762975,
+          "qIsAutoFormat": true,
+          "qAttrExprInfo": [],
+          "qAttrDimInfo": [],
+          "qTrendLines": [],
+          "autoSort": true,
+          "cId": "EBb",
+          "numFormatFromTemplate": true
+        }
+      ],
+      "qEffectiveInterColumnSortOrder": [
+        0
+      ],
+      "qGrandTotalRow": [
+        {
+          "qText": "93.95761512763",
+          "qNum": 93.95761512762975,
+          "qElemNumber": -1,
+          "qState": "X",
+          "qIsTotalCell": true
+        }
+      ],
+      "qDataPages": [
+        {
+          "qMatrix": [
+            [
+              {
+                "qText": "93.95761512763",
+                "qNum": 93.95761512762975,
+                "qElemNumber": 0,
+                "qState": "L"
+              }
+            ]
+          ],
+          "qTails": [],
+          "qArea": {
+            "qLeft": 0,
+            "qTop": 0,
+            "qWidth": 1,
+            "qHeight": 1
+          }
+        }
+      ],
+      "qPivotDataPages": [],
+      "qStackedDataPages": [],
+      "qMode": "S",
+      "qNoOfLeftDims": -1,
+      "qTreeNodesOnDim": [],
+      "qColumnOrder": []
+    },
+    "showTitles": false,
+    "title": "",
+    "subtitle": "",
+    "footnote": "",
+    "showDetails": false,
+    "minValue": 0,
+    "maxValue": 100,
+    "circleFillGap": 0.05,
+    "waveHeight": 0.25,
+    "waveCount": 1,
+    "waveRiseTime": 1000,
+    "waveAnimateTime": 3000,
+    "circleThickness": 0.15,
+    "waveHeightScaling": true,
+    "textVertPosition": 0.5,
+    "textSize": 1,
+    "waveRise": true,
+    "waveAnimate": true,
+    "waveColor": 3,
+    "waveTextColor": 5,
+    "valueCountUp": true,
+    "displayPercent": true,
+    "circleColor": 3,
+    "textColor": 3,
+    "props": {
+      "colorsSwitch": true,
+      "Color1": 7,
+      "Color2": 7,
+      "inferiorLimit1": 100,
+      "Color3": 6,
+      "inferiorLimit2": 66.66
+    },
+    "visualization": "D3LiquidFillGauge",
+    "version": 1,
+    "fontSize": {
+      "min": 8,
+      "max": 24
+    },
+    "extensionMeta": {
+      "translationKey": "",
+      "icon": "text-image",
+      "iconChar": "g",
+      "isLibraryItem": true,
+      "visible": true,
+      "name": "D3LiquidFillGauge",
+      "description": "D3 Liquid Fill Gauge",
+      "template": "D3LiquidFillGauge",
+      "isThirdParty": true,
+      "type": "visualization",
+      "version": "1.0",
+      "preview": "fillgauge.png",
+      "author": "Ismail Baygin - Qlik Turkey",
+      "previewIconURL": "../extensions/D3LiquidFillGauge/fillgauge.png"
+    },
+    "snapshotData": {
+      "object": {
+        "size": {
+          "w": 60,
+          "h": 53
+        }
+      },
+      "rtl": false,
+      "parent": {
+        "h": 791.25,
+        "w": 1707.5
+      }
+    },
+    "visualizationType": "D3LiquidFillGauge",
+    "sourceObjectId": "WyXza",
+    "sheetId": "ffc72bb8-ccec-4426-aff4-76629850dd63",
+    "timestamp": 1559636361841,
+    "isClone": false,
+    "supportExport": false
+  }
+]

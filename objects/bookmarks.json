@@ -1,0 +1,826 @@
+[
+  {
+    "qInfo": {
+      "qId": "282b98a3-056d-4168-bfb6-3b335d9c2b33",
+      "qType": "bookmark"
+    },
+    "qMetaDef": {
+      "title": "Leads",
+      "description": ""
+    },
+    "creationDate": "2019-12-12T16:08:38.264Z",
+    "sheetId": "0b45d5b8-1c34-4bb7-9f9d-b24bb832e939",
+    "selectionFields": "Dimensions_L, Measures_L",
+    "qData": {
+      "qBookMark": {
+        "qStateData": [
+          {
+            "qStateName": "$",
+            "qFieldItems": [
+              {
+                "qDef": {
+                  "qName": "Dimensions_L",
+                  "qType": "PRESENT"
+                },
+                "qSelectInfo": {
+                  "qRangeLo": "NaN",
+                  "qRangeHi": "NaN",
+                  "qNumberFormat": {
+                    "qType": "U",
+                    "qnDec": 10,
+                    "qUseThou": 0
+                  },
+                  "qRangeInfo": [],
+                  "qContinuousRangeInfo": []
+                },
+                "qValues": [],
+                "qExcludedValues": []
+              },
+              {
+                "qDef": {
+                  "qName": "Measures_L",
+                  "qType": "PRESENT"
+                },
+                "qSelectInfo": {
+                  "qRangeLo": "NaN",
+                  "qRangeHi": "NaN",
+                  "qNumberFormat": {
+                    "qType": "U",
+                    "qnDec": 10,
+                    "qUseThou": 0
+                  },
+                  "qRangeInfo": [],
+                  "qContinuousRangeInfo": []
+                },
+                "qValues": [],
+                "qExcludedValues": []
+              }
+            ]
+          }
+        ],
+        "qUtcModifyTime": 43811.75599537037,
+        "qVariableItems": [
+          {
+            "qName": "ClimberCustomReporteDuDzm",
+            "qValue": {
+              "qText": "{\"options\":{\"fieldsAndSortbarVisible\":true,\"activeReportId\":\"68141c16-3528-4048-ab62-73a2ad943cbe\",\"cacheId\":1574070709010},\"states\":{\"68141c16-3528-4048-ab62-73a2ad943cbe\":{\"qId\":\"68141c16-3528-4048-ab62-73a2ad943cbe\",\"title\":\"Activity\",\"cIds\":[\"CAmsv\",\"NtmfLUH\",\"mfKym\",\"SPSWK\",\"pwQRnve\",\"TmCJKH\",\"kUjQkbu\",\"NmtCPp\",\"RFpnhV\",\"kNjTbJ\"],\"visualizationType\":\"table\",\"visualizationState\":{\"table\":{\"qInterColumnSortOrder\":[{\"cId\":\"CAmsv\",\"type\":\"dimension\",\"qReverseSort\":true},{\"cId\":\"NtmfLUH\",\"type\":\"dimension\"},{\"cId\":\"mfKym\",\"type\":\"dimension\"},{\"cId\":\"SPSWK\",\"type\":\"dimension\"},{\"cId\":\"pwQRnve\",\"type\":\"dimension\"},{\"cId\":\"TmCJKH\",\"type\":\"dimension\"},{\"cId\":\"kUjQkbu\",\"type\":\"dimension\"},{\"cId\":\"NmtCPp\",\"type\":\"dimension\"},{\"cId\":\"RFpnhV\",\"type\":\"dimension\"},{\"cId\":\"kNjTbJ\",\"type\":\"measure\",\"qSortBy\":{\"qSortByNumeric\":-1,\"qSortByLoadOrder\":1,\"qExpression\":{}}}],\"columnWidths\":[],\"qSuppressZero\":false,\"totals\":[],\"qColumnOrder\":[{\"cId\":\"CAmsv\",\"type\":\"dimension\"},{\"cId\":\"NtmfLUH\",\"type\":\"dimension\"},{\"cId\":\"mfKym\",\"type\":\"dimension\"},{\"cId\":\"SPSWK\",\"type\":\"dimension\"},{\"cId\":\"pwQRnve\",\"type\":\"dimension\"},{\"cId\":\"TmCJKH\",\"type\":\"dimension\"},{\"cId\":\"kUjQkbu\",\"type\":\"dimension\"},{\"cId\":\"NmtCPp\",\"type\":\"dimension\"},{\"cId\":\"RFpnhV\",\"type\":\"dimension\"},{\"cId\":\"kNjTbJ\",\"type\":\"measure\"}]}}}}}",
+              "qNumber": "NaN"
+            }
+          },
+          {
+            "qName": "ClimberCustomReport6f5c3f9e6e44409c81d540e6fd080bb2",
+            "qValue": {
+              "qNumber": "NaN"
+            }
+          },
+          {
+            "qName": "ClimberCustomReportbhPsrrw",
+            "qValue": {
+              "qText": "{\"options\":{\"fieldsAndSortbarVisible\":true,\"activeReportId\":\"c0d2034b-f00e-47c5-aedd-e62474b20675\",\"cacheId\":1574069751417},\"states\":{\"c0d2034b-f00e-47c5-aedd-e62474b20675\":{\"qId\":\"c0d2034b-f00e-47c5-aedd-e62474b20675\",\"title\":\"Leads\",\"cIds\":[\"qrcBK\",\"dBczzEm\",\"DmpHJ\",\"xGgFvLm\",\"FHjtJ\",\"fpqUpU\",\"zFEsy\",\"pXVaFBu\",\"jmbwpv\",\"RXbQUX\",\"mySKLH\",\"jmSza\",\"ZcAsUt\",\"Xxf\",\"qmsPc\",\"cpphpCP\",\"LVWg\",\"QNJjB\"],\"visualizationType\":\"table\",\"visualizationState\":{\"table\":{\"qInterColumnSortOrder\":[{\"cId\":\"qrcBK\",\"type\":\"dimension\"},{\"cId\":\"fpqUpU\",\"type\":\"dimension\"},{\"cId\":\"zFEsy\",\"type\":\"dimension\"},{\"cId\":\"pXVaFBu\",\"type\":\"dimension\"},{\"cId\":\"mySKLH\",\"type\":\"dimension\"},{\"cId\":\"jmSza\",\"type\":\"dimension\"},{\"cId\":\"ZcAsUt\",\"type\":\"dimension\"},{\"cId\":\"Xxf\",\"type\":\"measure\",\"qSortBy\":{\"qSortByNumeric\":-1,\"qSortByLoadOrder\":1,\"qExpression\":{}}},{\"cId\":\"qmsPc\",\"type\":\"measure\",\"qSortBy\":{\"qSortByNumeric\":-1,\"qSortByLoadOrder\":1,\"qExpression\":{}}},{\"cId\":\"cpphpCP\",\"type\":\"measure\",\"qSortBy\":{\"qSortByNumeric\":-1,\"qSortByLoadOrder\":1,\"qExpression\":{}}},{\"cId\":\"LVWg\",\"type\":\"measure\",\"qSortBy\":{\"qSortByNumeric\":-1,\"qSortByLoadOrder\":1,\"qExpression\":{}}},{\"cId\":\"QNJjB\",\"type\":\"measure\",\"qSortBy\":{\"qSortByNumeric\":-1,\"qSortByLoadOrder\":1,\"qExpression\":{}}},{\"cId\":\"jmbwpv\",\"type\":\"dimension\"},{\"cId\":\"RXbQUX\",\"type\":\"dimension\"},{\"cId\":\"DmpHJ\",\"type\":\"dimension\"},{\"cId\":\"dBczzEm\",\"type\":\"dimension\"},{\"cId\":\"FHjtJ\",\"type\":\"dimension\"},{\"cId\":\"xGgFvLm\",\"type\":\"dimension\"}],\"columnWidths\":{\"qrcBK\":-1,\"dBczzEm\":-1,\"DmpHJ\":-1,\"xGgFvLm\":-1,\"FHjtJ\":-1,\"fpqUpU\":-1,\"zFEsy\":-1,\"pXVaFBu\":-1,\"jmbwpv\":-1,\"RXbQUX\":-1,\"mySKLH\":-1,\"jmSza\":-1,\"ZcAsUt\":-1,\"Xxf\":-1,\"qmsPc\":-1,\"cpphpCP\":-1,\"LVWg\":-1,\"QNJjB\":-1},\"qSuppressZero\":false,\"totals\":[],\"qColumnOrder\":[{\"cId\":\"qrcBK\",\"type\":\"dimension\"},{\"cId\":\"dBczzEm\",\"type\":\"dimension\"},{\"cId\":\"DmpHJ\",\"type\":\"dimension\"},{\"cId\":\"xGgFvLm\",\"type\":\"dimension\"},{\"cId\":\"FHjtJ\",\"type\":\"dimension\"},{\"cId\":\"fpqUpU\",\"type\":\"dimension\"},{\"cId\":\"zFEsy\",\"type\":\"dimension\"},{\"cId\":\"pXVaFBu\",\"type\":\"dimension\"},{\"cId\":\"jmbwpv\",\"type\":\"dimension\"},{\"cId\":\"RXbQUX\",\"type\":\"dimension\"},{\"cId\":\"mySKLH\",\"type\":\"dimension\"},{\"cId\":\"jmSza\",\"type\":\"dimension\"},{\"cId\":\"ZcAsUt\",\"type\":\"dimension\"},{\"cId\":\"Xxf\",\"type\":\"measure\"},{\"cId\":\"qmsPc\",\"type\":\"measure\"},{\"cId\":\"cpphpCP\",\"type\":\"measure\"},{\"cId\":\"LVWg\",\"type\":\"measure\"},{\"cId\":\"QNJjB\",\"type\":\"measure\"}]}}}}}",
+              "qNumber": "NaN"
+            }
+          },
+          {
+            "qName": "ClimberCustomReportFcvrjF",
+            "qValue": {
+              "qText": "{\"options\":{\"fieldsAndSortbarVisible\":true,\"activeReportId\":\"0fd6901d-7555-4a1c-9321-d9f5b382ed71\",\"cacheId\":1574070224421},\"states\":{\"0fd6901d-7555-4a1c-9321-d9f5b382ed71\":{\"qId\":\"0fd6901d-7555-4a1c-9321-d9f5b382ed71\",\"title\":\"Prospects\",\"cIds\":[\"CAmsv\",\"Yxqpzm\",\"apDPc\",\"BfGLky\",\"ASdrX\",\"GXZJaTB\",\"rMfGA\",\"sGzvw\",\"kUjQkbu\",\"UsRmwY\",\"BPqBtd\",\"CNAPp\",\"SzSwxa\",\"gRAsry\",\"JReEpx\",\"VbUGAxN\"],\"visualizationType\":\"table\",\"visualizationState\":{\"table\":{\"qInterColumnSortOrder\":[{\"cId\":\"CAmsv\",\"type\":\"dimension\"},{\"cId\":\"GXZJaTB\",\"type\":\"dimension\"},{\"cId\":\"ASdrX\",\"type\":\"dimension\"},{\"cId\":\"BfGLky\",\"type\":\"dimension\"},{\"cId\":\"sGzvw\",\"type\":\"dimension\"},{\"cId\":\"kUjQkbu\",\"type\":\"dimension\"},{\"cId\":\"UsRmwY\",\"type\":\"dimension\"},{\"cId\":\"BPqBtd\",\"type\":\"dimension\"},{\"cId\":\"apDPc\",\"type\":\"dimension\"},{\"cId\":\"Yxqpzm\",\"type\":\"dimension\"},{\"cId\":\"rMfGA\",\"type\":\"dimension\"},{\"cId\":\"CNAPp\",\"type\":\"dimension\"},{\"cId\":\"SzSwxa\",\"type\":\"measure\",\"qSortBy\":{\"qSortByNumeric\":-1,\"qSortByLoadOrder\":1,\"qExpression\":{}}},{\"cId\":\"gRAsry\",\"type\":\"measure\",\"qSortBy\":{\"qSortByNumeric\":-1,\"qSortByLoadOrder\":1,\"qExpression\":{}}},{\"cId\":\"JReEpx\",\"type\":\"measure\",\"qSortBy\":{\"qSortByNumeric\":-1,\"qSortByLoadOrder\":1,\"qExpression\":{}}},{\"cId\":\"VbUGAxN\",\"type\":\"measure\",\"qSortBy\":{\"qSortByNumeric\":-1,\"qSortByLoadOrder\":1,\"qExpression\":{}}}],\"columnWidths\":[],\"qSuppressZero\":true,\"totals\":[],\"qColumnOrder\":[{\"cId\":\"CAmsv\",\"type\":\"dimension\"},{\"cId\":\"Yxqpzm\",\"type\":\"dimension\"},{\"cId\":\"apDPc\",\"type\":\"dimension\"},{\"cId\":\"BfGLky\",\"type\":\"dimension\"},{\"cId\":\"ASdrX\",\"type\":\"dimension\"},{\"cId\":\"GXZJaTB\",\"type\":\"dimension\"},{\"cId\":\"rMfGA\",\"type\":\"dimension\"},{\"cId\":\"sGzvw\",\"type\":\"dimension\"},{\"cId\":\"kUjQkbu\",\"type\":\"dimension\"},{\"cId\":\"UsRmwY\",\"type\":\"dimension\"},{\"cId\":\"BPqBtd\",\"type\":\"dimension\"},{\"cId\":\"CNAPp\",\"type\":\"dimension\"},{\"cId\":\"SzSwxa\",\"type\":\"measure\"},{\"cId\":\"gRAsry\",\"type\":\"measure\"},{\"cId\":\"JReEpx\",\"type\":\"measure\"},{\"cId\":\"VbUGAxN\",\"type\":\"measure\"}]}}}}}",
+              "qNumber": "NaN"
+            }
+          },
+          {
+            "qName": "ClimberCustomReportAsnveh",
+            "qValue": {
+              "qNumber": "NaN"
+            }
+          }
+        ],
+        "qPatches": []
+      }
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "96517803-6de0-484c-b458-daaba66a1eed",
+      "qType": "bookmark"
+    },
+    "qMetaDef": {
+      "title": "Prospects",
+      "description": ""
+    },
+    "creationDate": "2019-11-27T06:58:22.043Z",
+    "sheetId": "b89f7046-cc26-49f4-b1bc-93385ef538f8",
+    "selectionFields": "Dimensions_P, Measures_P",
+    "qData": {
+      "qBookMark": {
+        "qStateData": [
+          {
+            "qStateName": "$",
+            "qFieldItems": [
+              {
+                "qDef": {
+                  "qName": "Dimensions_P",
+                  "qType": "PRESENT"
+                },
+                "qSelectInfo": {
+                  "qRangeLo": "NaN",
+                  "qRangeHi": "NaN",
+                  "qNumberFormat": {
+                    "qType": "U",
+                    "qnDec": 10,
+                    "qUseThou": 0
+                  },
+                  "qRangeInfo": [],
+                  "qContinuousRangeInfo": []
+                },
+                "qValues": [],
+                "qExcludedValues": []
+              },
+              {
+                "qDef": {
+                  "qName": "Measures_P",
+                  "qType": "PRESENT"
+                },
+                "qSelectInfo": {
+                  "qRangeLo": "NaN",
+                  "qRangeHi": "NaN",
+                  "qNumberFormat": {
+                    "qType": "U",
+                    "qnDec": 10,
+                    "qUseThou": 0
+                  },
+                  "qRangeInfo": [],
+                  "qContinuousRangeInfo": []
+                },
+                "qValues": [],
+                "qExcludedValues": []
+              }
+            ]
+          }
+        ],
+        "qUtcModifyTime": 43796.37386574074,
+        "qVariableItems": [
+          {
+            "qName": "ClimberCustomReporteDuDzm",
+            "qValue": {
+              "qText": "{\"options\":{\"fieldsAndSortbarVisible\":true,\"activeReportId\":\"68141c16-3528-4048-ab62-73a2ad943cbe\",\"cacheId\":1574070709010},\"states\":{\"68141c16-3528-4048-ab62-73a2ad943cbe\":{\"qId\":\"68141c16-3528-4048-ab62-73a2ad943cbe\",\"title\":\"Activity\",\"cIds\":[\"CAmsv\",\"NtmfLUH\",\"mfKym\",\"SPSWK\",\"pwQRnve\",\"TmCJKH\",\"kUjQkbu\",\"NmtCPp\",\"RFpnhV\",\"kNjTbJ\"],\"visualizationType\":\"table\",\"visualizationState\":{\"table\":{\"qInterColumnSortOrder\":[{\"cId\":\"CAmsv\",\"type\":\"dimension\",\"qReverseSort\":true},{\"cId\":\"NtmfLUH\",\"type\":\"dimension\"},{\"cId\":\"mfKym\",\"type\":\"dimension\"},{\"cId\":\"SPSWK\",\"type\":\"dimension\"},{\"cId\":\"pwQRnve\",\"type\":\"dimension\"},{\"cId\":\"TmCJKH\",\"type\":\"dimension\"},{\"cId\":\"kUjQkbu\",\"type\":\"dimension\"},{\"cId\":\"NmtCPp\",\"type\":\"dimension\"},{\"cId\":\"RFpnhV\",\"type\":\"dimension\"},{\"cId\":\"kNjTbJ\",\"type\":\"measure\",\"qSortBy\":{\"qSortByNumeric\":-1,\"qSortByLoadOrder\":1,\"qExpression\":{}}}],\"columnWidths\":[],\"qSuppressZero\":false,\"totals\":[],\"qColumnOrder\":[{\"cId\":\"CAmsv\",\"type\":\"dimension\"},{\"cId\":\"NtmfLUH\",\"type\":\"dimension\"},{\"cId\":\"mfKym\",\"type\":\"dimension\"},{\"cId\":\"SPSWK\",\"type\":\"dimension\"},{\"cId\":\"pwQRnve\",\"type\":\"dimension\"},{\"cId\":\"TmCJKH\",\"type\":\"dimension\"},{\"cId\":\"kUjQkbu\",\"type\":\"dimension\"},{\"cId\":\"NmtCPp\",\"type\":\"dimension\"},{\"cId\":\"RFpnhV\",\"type\":\"dimension\"},{\"cId\":\"kNjTbJ\",\"type\":\"measure\"}]}}}}}",
+              "qNumber": "NaN"
+            }
+          },
+          {
+            "qName": "ClimberCustomReport6f5c3f9e6e44409c81d540e6fd080bb2",
+            "qValue": {
+              "qNumber": "NaN"
+            }
+          },
+          {
+            "qName": "ClimberCustomReportbhPsrrw",
+            "qValue": {
+              "qText": "{\"options\":{\"fieldsAndSortbarVisible\":true,\"activeReportId\":\"c0d2034b-f00e-47c5-aedd-e62474b20675\",\"cacheId\":1574069751417},\"states\":{\"c0d2034b-f00e-47c5-aedd-e62474b20675\":{\"qId\":\"c0d2034b-f00e-47c5-aedd-e62474b20675\",\"title\":\"Leads\",\"cIds\":[\"qrcBK\",\"dBczzEm\",\"DmpHJ\",\"xGgFvLm\",\"FHjtJ\",\"fpqUpU\",\"zFEsy\",\"pXVaFBu\",\"jmbwpv\",\"RXbQUX\",\"mySKLH\",\"jmSza\",\"ZcAsUt\",\"Xxf\",\"qmsPc\",\"cpphpCP\",\"LVWg\",\"QNJjB\"],\"visualizationType\":\"table\",\"visualizationState\":{\"table\":{\"qInterColumnSortOrder\":[{\"cId\":\"qrcBK\",\"type\":\"dimension\"},{\"cId\":\"fpqUpU\",\"type\":\"dimension\"},{\"cId\":\"zFEsy\",\"type\":\"dimension\"},{\"cId\":\"pXVaFBu\",\"type\":\"dimension\"},{\"cId\":\"mySKLH\",\"type\":\"dimension\"},{\"cId\":\"jmSza\",\"type\":\"dimension\"},{\"cId\":\"ZcAsUt\",\"type\":\"dimension\"},{\"cId\":\"Xxf\",\"type\":\"measure\",\"qSortBy\":{\"qSortByNumeric\":-1,\"qSortByLoadOrder\":1,\"qExpression\":{}}},{\"cId\":\"qmsPc\",\"type\":\"measure\",\"qSortBy\":{\"qSortByNumeric\":-1,\"qSortByLoadOrder\":1,\"qExpression\":{}}},{\"cId\":\"cpphpCP\",\"type\":\"measure\",\"qSortBy\":{\"qSortByNumeric\":-1,\"qSortByLoadOrder\":1,\"qExpression\":{}}},{\"cId\":\"LVWg\",\"type\":\"measure\",\"qSortBy\":{\"qSortByNumeric\":-1,\"qSortByLoadOrder\":1,\"qExpression\":{}}},{\"cId\":\"QNJjB\",\"type\":\"measure\",\"qSortBy\":{\"qSortByNumeric\":-1,\"qSortByLoadOrder\":1,\"qExpression\":{}}},{\"cId\":\"jmbwpv\",\"type\":\"dimension\"},{\"cId\":\"RXbQUX\",\"type\":\"dimension\"},{\"cId\":\"DmpHJ\",\"type\":\"dimension\"},{\"cId\":\"dBczzEm\",\"type\":\"dimension\"},{\"cId\":\"FHjtJ\",\"type\":\"dimension\"},{\"cId\":\"xGgFvLm\",\"type\":\"dimension\"}],\"columnWidths\":{\"qrcBK\":-1,\"dBczzEm\":-1,\"DmpHJ\":-1,\"xGgFvLm\":-1,\"FHjtJ\":-1,\"fpqUpU\":-1,\"zFEsy\":-1,\"pXVaFBu\":-1,\"jmbwpv\":-1,\"RXbQUX\":-1,\"mySKLH\":-1,\"jmSza\":-1,\"ZcAsUt\":-1,\"Xxf\":-1,\"qmsPc\":-1,\"cpphpCP\":-1,\"LVWg\":-1,\"QNJjB\":-1},\"qSuppressZero\":false,\"totals\":[],\"qColumnOrder\":[{\"cId\":\"qrcBK\",\"type\":\"dimension\"},{\"cId\":\"dBczzEm\",\"type\":\"dimension\"},{\"cId\":\"DmpHJ\",\"type\":\"dimension\"},{\"cId\":\"xGgFvLm\",\"type\":\"dimension\"},{\"cId\":\"FHjtJ\",\"type\":\"dimension\"},{\"cId\":\"fpqUpU\",\"type\":\"dimension\"},{\"cId\":\"zFEsy\",\"type\":\"dimension\"},{\"cId\":\"pXVaFBu\",\"type\":\"dimension\"},{\"cId\":\"jmbwpv\",\"type\":\"dimension\"},{\"cId\":\"RXbQUX\",\"type\":\"dimension\"},{\"cId\":\"mySKLH\",\"type\":\"dimension\"},{\"cId\":\"jmSza\",\"type\":\"dimension\"},{\"cId\":\"ZcAsUt\",\"type\":\"dimension\"},{\"cId\":\"Xxf\",\"type\":\"measure\"},{\"cId\":\"qmsPc\",\"type\":\"measure\"},{\"cId\":\"cpphpCP\",\"type\":\"measure\"},{\"cId\":\"LVWg\",\"type\":\"measure\"},{\"cId\":\"QNJjB\",\"type\":\"measure\"}]}}}}}",
+              "qNumber": "NaN"
+            }
+          },
+          {
+            "qName": "ClimberCustomReportFcvrjF",
+            "qValue": {
+              "qText": "{\"options\":{\"fieldsAndSortbarVisible\":true,\"activeReportId\":\"0fd6901d-7555-4a1c-9321-d9f5b382ed71\",\"cacheId\":1574070224421},\"states\":{\"0fd6901d-7555-4a1c-9321-d9f5b382ed71\":{\"qId\":\"0fd6901d-7555-4a1c-9321-d9f5b382ed71\",\"title\":\"Prospects\",\"cIds\":[\"CAmsv\",\"Yxqpzm\",\"apDPc\",\"BfGLky\",\"ASdrX\",\"GXZJaTB\",\"rMfGA\",\"sGzvw\",\"kUjQkbu\",\"UsRmwY\",\"BPqBtd\",\"CNAPp\",\"SzSwxa\",\"gRAsry\",\"JReEpx\",\"VbUGAxN\"],\"visualizationType\":\"table\",\"visualizationState\":{\"table\":{\"qInterColumnSortOrder\":[{\"cId\":\"CAmsv\",\"type\":\"dimension\"},{\"cId\":\"GXZJaTB\",\"type\":\"dimension\"},{\"cId\":\"ASdrX\",\"type\":\"dimension\"},{\"cId\":\"BfGLky\",\"type\":\"dimension\"},{\"cId\":\"sGzvw\",\"type\":\"dimension\"},{\"cId\":\"kUjQkbu\",\"type\":\"dimension\"},{\"cId\":\"UsRmwY\",\"type\":\"dimension\"},{\"cId\":\"BPqBtd\",\"type\":\"dimension\"},{\"cId\":\"apDPc\",\"type\":\"dimension\"},{\"cId\":\"Yxqpzm\",\"type\":\"dimension\"},{\"cId\":\"rMfGA\",\"type\":\"dimension\"},{\"cId\":\"CNAPp\",\"type\":\"dimension\"},{\"cId\":\"SzSwxa\",\"type\":\"measure\",\"qSortBy\":{\"qSortByNumeric\":-1,\"qSortByLoadOrder\":1,\"qExpression\":{}}},{\"cId\":\"gRAsry\",\"type\":\"measure\",\"qSortBy\":{\"qSortByNumeric\":-1,\"qSortByLoadOrder\":1,\"qExpression\":{}}},{\"cId\":\"JReEpx\",\"type\":\"measure\",\"qSortBy\":{\"qSortByNumeric\":-1,\"qSortByLoadOrder\":1,\"qExpression\":{}}},{\"cId\":\"VbUGAxN\",\"type\":\"measure\",\"qSortBy\":{\"qSortByNumeric\":-1,\"qSortByLoadOrder\":1,\"qExpression\":{}}}],\"columnWidths\":[],\"qSuppressZero\":true,\"totals\":[],\"qColumnOrder\":[{\"cId\":\"CAmsv\",\"type\":\"dimension\"},{\"cId\":\"Yxqpzm\",\"type\":\"dimension\"},{\"cId\":\"apDPc\",\"type\":\"dimension\"},{\"cId\":\"BfGLky\",\"type\":\"dimension\"},{\"cId\":\"ASdrX\",\"type\":\"dimension\"},{\"cId\":\"GXZJaTB\",\"type\":\"dimension\"},{\"cId\":\"rMfGA\",\"type\":\"dimension\"},{\"cId\":\"sGzvw\",\"type\":\"dimension\"},{\"cId\":\"kUjQkbu\",\"type\":\"dimension\"},{\"cId\":\"UsRmwY\",\"type\":\"dimension\"},{\"cId\":\"BPqBtd\",\"type\":\"dimension\"},{\"cId\":\"CNAPp\",\"type\":\"dimension\"},{\"cId\":\"SzSwxa\",\"type\":\"measure\"},{\"cId\":\"gRAsry\",\"type\":\"measure\"},{\"cId\":\"JReEpx\",\"type\":\"measure\"},{\"cId\":\"VbUGAxN\",\"type\":\"measure\"}]}}}}}",
+              "qNumber": "NaN"
+            }
+          },
+          {
+            "qName": "ClimberCustomReportAsnveh",
+            "qValue": {
+              "qNumber": "NaN"
+            }
+          }
+        ],
+        "qPatches": []
+      }
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "TPptDTq",
+      "qType": "bookmark"
+    },
+    "qMetaDef": {
+      "title": "EMC (Main Business Units)",
+      "description": ""
+    },
+    "sheetId": "535aeef3-312d-4725-a7a1-c203e692fb85",
+    "selectionFields": "Business Unit",
+    "creationDate": "2017-04-21T12:35:55.776Z",
+    "qData": {
+      "qBookMark": {
+        "qStateData": [
+          {
+            "qStateName": "$",
+            "qFieldItems": [
+              {
+                "qDef": {
+                  "qName": "Business Unit",
+                  "qType": "PRESENT"
+                },
+                "qSelectInfo": {
+                  "qRangeLo": "NaN",
+                  "qRangeHi": "NaN",
+                  "qNumberFormat": {
+                    "qType": "U",
+                    "qnDec": 10,
+                    "qUseThou": 0
+                  },
+                  "qRangeInfo": [],
+                  "qContinuousRangeInfo": []
+                },
+                "qValues": [],
+                "qExcludedValues": []
+              }
+            ]
+          }
+        ],
+        "qUtcModifyTime": 42846.64994212963,
+        "qVariableItems": [],
+        "qPatches": []
+      }
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "a6950ab4-2568-48e6-8281-a65d10f84da6",
+      "qType": "bookmark"
+    },
+    "qMetaDef": {
+      "title": "Activities",
+      "description": ""
+    },
+    "creationDate": "2020-05-08T13:37:12.316Z",
+    "sheetId": "fc5df52b-0c15-4691-9d01-ee1cf497aaac",
+    "selectionFields": "Dimensions_A, Measures_A",
+    "qData": {
+      "qBookMark": {
+        "qStateData": [
+          {
+            "qStateName": "$",
+            "qFieldItems": [
+              {
+                "qDef": {
+                  "qName": "Dimensions_A",
+                  "qType": "PRESENT"
+                },
+                "qSelectInfo": {
+                  "qRangeLo": "NaN",
+                  "qRangeHi": "NaN",
+                  "qNumberFormat": {
+                    "qType": "U",
+                    "qnDec": 10,
+                    "qUseThou": 0
+                  },
+                  "qRangeInfo": [],
+                  "qContinuousRangeInfo": []
+                },
+                "qValues": [],
+                "qExcludedValues": []
+              },
+              {
+                "qDef": {
+                  "qName": "Measures_A",
+                  "qType": "PRESENT"
+                },
+                "qSelectInfo": {
+                  "qRangeLo": "NaN",
+                  "qRangeHi": "NaN",
+                  "qNumberFormat": {
+                    "qType": "U",
+                    "qnDec": 10,
+                    "qUseThou": 0
+                  },
+                  "qRangeInfo": [],
+                  "qContinuousRangeInfo": []
+                },
+                "qValues": [],
+                "qExcludedValues": []
+              }
+            ]
+          }
+        ],
+        "qUtcModifyTime": 43959.6925,
+        "qVariableItems": [
+          {
+            "qName": "ClimberCustomReporteDuDzm",
+            "qValue": {
+              "qText": "{\"options\":{\"fieldsAndSortbarVisible\":true,\"activeReportId\":\"68141c16-3528-4048-ab62-73a2ad943cbe\",\"cacheId\":1574070709010},\"states\":{\"68141c16-3528-4048-ab62-73a2ad943cbe\":{\"qId\":\"68141c16-3528-4048-ab62-73a2ad943cbe\",\"title\":\"Activity\",\"cIds\":[\"CAmsv\",\"NtmfLUH\",\"mfKym\",\"SPSWK\",\"pwQRnve\",\"TmCJKH\",\"kUjQkbu\",\"NmtCPp\",\"RFpnhV\",\"kNjTbJ\"],\"visualizationType\":\"table\",\"visualizationState\":{\"table\":{\"qInterColumnSortOrder\":[{\"cId\":\"CAmsv\",\"type\":\"dimension\",\"qReverseSort\":true},{\"cId\":\"NtmfLUH\",\"type\":\"dimension\"},{\"cId\":\"mfKym\",\"type\":\"dimension\"},{\"cId\":\"SPSWK\",\"type\":\"dimension\"},{\"cId\":\"pwQRnve\",\"type\":\"dimension\"},{\"cId\":\"TmCJKH\",\"type\":\"dimension\"},{\"cId\":\"kUjQkbu\",\"type\":\"dimension\"},{\"cId\":\"NmtCPp\",\"type\":\"dimension\"},{\"cId\":\"RFpnhV\",\"type\":\"dimension\"},{\"cId\":\"kNjTbJ\",\"type\":\"measure\",\"qSortBy\":{\"qSortByNumeric\":-1,\"qSortByLoadOrder\":1,\"qExpression\":{}}}],\"columnWidths\":[],\"qSuppressZero\":false,\"totals\":[],\"qColumnOrder\":[{\"cId\":\"CAmsv\",\"type\":\"dimension\"},{\"cId\":\"NtmfLUH\",\"type\":\"dimension\"},{\"cId\":\"mfKym\",\"type\":\"dimension\"},{\"cId\":\"SPSWK\",\"type\":\"dimension\"},{\"cId\":\"pwQRnve\",\"type\":\"dimension\"},{\"cId\":\"TmCJKH\",\"type\":\"dimension\"},{\"cId\":\"kUjQkbu\",\"type\":\"dimension\"},{\"cId\":\"NmtCPp\",\"type\":\"dimension\"},{\"cId\":\"RFpnhV\",\"type\":\"dimension\"},{\"cId\":\"kNjTbJ\",\"type\":\"measure\"}]}}}}}",
+              "qNumber": "NaN"
+            }
+          },
+          {
+            "qName": "ClimberCustomReport6f5c3f9e6e44409c81d540e6fd080bb2",
+            "qValue": {
+              "qNumber": "NaN"
+            }
+          },
+          {
+            "qName": "ClimberCustomReportbhPsrrw",
+            "qValue": {
+              "qText": "{\"options\":{\"fieldsAndSortbarVisible\":true,\"activeReportId\":\"c0d2034b-f00e-47c5-aedd-e62474b20675\",\"cacheId\":1574069751417},\"states\":{\"c0d2034b-f00e-47c5-aedd-e62474b20675\":{\"qId\":\"c0d2034b-f00e-47c5-aedd-e62474b20675\",\"title\":\"Leads\",\"cIds\":[\"qrcBK\",\"dBczzEm\",\"DmpHJ\",\"xGgFvLm\",\"FHjtJ\",\"fpqUpU\",\"zFEsy\",\"pXVaFBu\",\"jmbwpv\",\"RXbQUX\",\"mySKLH\",\"jmSza\",\"ZcAsUt\",\"Xxf\",\"qmsPc\",\"cpphpCP\",\"LVWg\",\"QNJjB\"],\"visualizationType\":\"table\",\"visualizationState\":{\"table\":{\"qInterColumnSortOrder\":[{\"cId\":\"qrcBK\",\"type\":\"dimension\"},{\"cId\":\"fpqUpU\",\"type\":\"dimension\"},{\"cId\":\"zFEsy\",\"type\":\"dimension\"},{\"cId\":\"pXVaFBu\",\"type\":\"dimension\"},{\"cId\":\"mySKLH\",\"type\":\"dimension\"},{\"cId\":\"jmSza\",\"type\":\"dimension\"},{\"cId\":\"ZcAsUt\",\"type\":\"dimension\"},{\"cId\":\"Xxf\",\"type\":\"measure\",\"qSortBy\":{\"qSortByNumeric\":-1,\"qSortByLoadOrder\":1,\"qExpression\":{}}},{\"cId\":\"qmsPc\",\"type\":\"measure\",\"qSortBy\":{\"qSortByNumeric\":-1,\"qSortByLoadOrder\":1,\"qExpression\":{}}},{\"cId\":\"cpphpCP\",\"type\":\"measure\",\"qSortBy\":{\"qSortByNumeric\":-1,\"qSortByLoadOrder\":1,\"qExpression\":{}}},{\"cId\":\"LVWg\",\"type\":\"measure\",\"qSortBy\":{\"qSortByNumeric\":-1,\"qSortByLoadOrder\":1,\"qExpression\":{}}},{\"cId\":\"QNJjB\",\"type\":\"measure\",\"qSortBy\":{\"qSortByNumeric\":-1,\"qSortByLoadOrder\":1,\"qExpression\":{}}},{\"cId\":\"jmbwpv\",\"type\":\"dimension\"},{\"cId\":\"RXbQUX\",\"type\":\"dimension\"},{\"cId\":\"DmpHJ\",\"type\":\"dimension\"},{\"cId\":\"dBczzEm\",\"type\":\"dimension\"},{\"cId\":\"FHjtJ\",\"type\":\"dimension\"},{\"cId\":\"xGgFvLm\",\"type\":\"dimension\"}],\"columnWidths\":{\"qrcBK\":-1,\"dBczzEm\":-1,\"DmpHJ\":-1,\"xGgFvLm\":-1,\"FHjtJ\":-1,\"fpqUpU\":-1,\"zFEsy\":-1,\"pXVaFBu\":-1,\"jmbwpv\":-1,\"RXbQUX\":-1,\"mySKLH\":-1,\"jmSza\":-1,\"ZcAsUt\":-1,\"Xxf\":-1,\"qmsPc\":-1,\"cpphpCP\":-1,\"LVWg\":-1,\"QNJjB\":-1},\"qSuppressZero\":false,\"totals\":[],\"qColumnOrder\":[{\"cId\":\"qrcBK\",\"type\":\"dimension\"},{\"cId\":\"dBczzEm\",\"type\":\"dimension\"},{\"cId\":\"DmpHJ\",\"type\":\"dimension\"},{\"cId\":\"xGgFvLm\",\"type\":\"dimension\"},{\"cId\":\"FHjtJ\",\"type\":\"dimension\"},{\"cId\":\"fpqUpU\",\"type\":\"dimension\"},{\"cId\":\"zFEsy\",\"type\":\"dimension\"},{\"cId\":\"pXVaFBu\",\"type\":\"dimension\"},{\"cId\":\"jmbwpv\",\"type\":\"dimension\"},{\"cId\":\"RXbQUX\",\"type\":\"dimension\"},{\"cId\":\"mySKLH\",\"type\":\"dimension\"},{\"cId\":\"jmSza\",\"type\":\"dimension\"},{\"cId\":\"ZcAsUt\",\"type\":\"dimension\"},{\"cId\":\"Xxf\",\"type\":\"measure\"},{\"cId\":\"qmsPc\",\"type\":\"measure\"},{\"cId\":\"cpphpCP\",\"type\":\"measure\"},{\"cId\":\"LVWg\",\"type\":\"measure\"},{\"cId\":\"QNJjB\",\"type\":\"measure\"}]}}}}}",
+              "qNumber": "NaN"
+            }
+          },
+          {
+            "qName": "ClimberCustomReportFcvrjF",
+            "qValue": {
+              "qText": "{\"options\":{\"fieldsAndSortbarVisible\":true,\"activeReportId\":\"0fd6901d-7555-4a1c-9321-d9f5b382ed71\",\"cacheId\":1574070224421},\"states\":{\"0fd6901d-7555-4a1c-9321-d9f5b382ed71\":{\"qId\":\"0fd6901d-7555-4a1c-9321-d9f5b382ed71\",\"title\":\"Prospects\",\"cIds\":[\"CAmsv\",\"Yxqpzm\",\"apDPc\",\"BfGLky\",\"ASdrX\",\"GXZJaTB\",\"rMfGA\",\"sGzvw\",\"kUjQkbu\",\"UsRmwY\",\"BPqBtd\",\"CNAPp\",\"SzSwxa\",\"gRAsry\",\"JReEpx\",\"VbUGAxN\"],\"visualizationType\":\"table\",\"visualizationState\":{\"table\":{\"qInterColumnSortOrder\":[{\"cId\":\"CAmsv\",\"type\":\"dimension\"},{\"cId\":\"GXZJaTB\",\"type\":\"dimension\"},{\"cId\":\"ASdrX\",\"type\":\"dimension\"},{\"cId\":\"BfGLky\",\"type\":\"dimension\"},{\"cId\":\"sGzvw\",\"type\":\"dimension\"},{\"cId\":\"kUjQkbu\",\"type\":\"dimension\"},{\"cId\":\"UsRmwY\",\"type\":\"dimension\"},{\"cId\":\"BPqBtd\",\"type\":\"dimension\"},{\"cId\":\"apDPc\",\"type\":\"dimension\"},{\"cId\":\"Yxqpzm\",\"type\":\"dimension\"},{\"cId\":\"rMfGA\",\"type\":\"dimension\"},{\"cId\":\"CNAPp\",\"type\":\"dimension\"},{\"cId\":\"SzSwxa\",\"type\":\"measure\",\"qSortBy\":{\"qSortByNumeric\":-1,\"qSortByLoadOrder\":1,\"qExpression\":{}}},{\"cId\":\"gRAsry\",\"type\":\"measure\",\"qSortBy\":{\"qSortByNumeric\":-1,\"qSortByLoadOrder\":1,\"qExpression\":{}}},{\"cId\":\"JReEpx\",\"type\":\"measure\",\"qSortBy\":{\"qSortByNumeric\":-1,\"qSortByLoadOrder\":1,\"qExpression\":{}}},{\"cId\":\"VbUGAxN\",\"type\":\"measure\",\"qSortBy\":{\"qSortByNumeric\":-1,\"qSortByLoadOrder\":1,\"qExpression\":{}}}],\"columnWidths\":[],\"qSuppressZero\":true,\"totals\":[],\"qColumnOrder\":[{\"cId\":\"CAmsv\",\"type\":\"dimension\"},{\"cId\":\"Yxqpzm\",\"type\":\"dimension\"},{\"cId\":\"apDPc\",\"type\":\"dimension\"},{\"cId\":\"BfGLky\",\"type\":\"dimension\"},{\"cId\":\"ASdrX\",\"type\":\"dimension\"},{\"cId\":\"GXZJaTB\",\"type\":\"dimension\"},{\"cId\":\"rMfGA\",\"type\":\"dimension\"},{\"cId\":\"sGzvw\",\"type\":\"dimension\"},{\"cId\":\"kUjQkbu\",\"type\":\"dimension\"},{\"cId\":\"UsRmwY\",\"type\":\"dimension\"},{\"cId\":\"BPqBtd\",\"type\":\"dimension\"},{\"cId\":\"CNAPp\",\"type\":\"dimension\"},{\"cId\":\"SzSwxa\",\"type\":\"measure\"},{\"cId\":\"gRAsry\",\"type\":\"measure\"},{\"cId\":\"JReEpx\",\"type\":\"measure\"},{\"cId\":\"VbUGAxN\",\"type\":\"measure\"}]}}}}}",
+              "qNumber": "NaN"
+            }
+          },
+          {
+            "qName": "ClimberCustomReportAsnveh",
+            "qValue": {
+              "qNumber": "NaN"
+            }
+          }
+        ],
+        "qPatches": []
+      }
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "be7f264f-8a3f-4e0d-8666-9c2fd82b9c92",
+      "qType": "bookmark"
+    },
+    "qMetaDef": {
+      "title": "Self Service - Detailed",
+      "description": ""
+    },
+    "creationDate": "2019-12-04T15:30:38.535Z",
+    "sheetId": "9a103053-0a9c-4222-9a36-b4063ca02703",
+    "selectionFields": "Dimensions, Measures",
+    "qData": {
+      "qBookMark": {
+        "qStateData": [
+          {
+            "qStateName": "$",
+            "qFieldItems": [
+              {
+                "qDef": {
+                  "qName": "Dimensions",
+                  "qType": "PRESENT"
+                },
+                "qSelectInfo": {
+                  "qRangeLo": "NaN",
+                  "qRangeHi": "NaN",
+                  "qNumberFormat": {
+                    "qType": "U",
+                    "qnDec": 10,
+                    "qUseThou": 0
+                  },
+                  "qRangeInfo": [],
+                  "qContinuousRangeInfo": []
+                },
+                "qValues": [],
+                "qExcludedValues": []
+              },
+              {
+                "qDef": {
+                  "qName": "Measures",
+                  "qType": "PRESENT"
+                },
+                "qSelectInfo": {
+                  "qRangeLo": "NaN",
+                  "qRangeHi": "NaN",
+                  "qNumberFormat": {
+                    "qType": "U",
+                    "qnDec": 10,
+                    "qUseThou": 0
+                  },
+                  "qRangeInfo": [],
+                  "qContinuousRangeInfo": []
+                },
+                "qValues": [],
+                "qExcludedValues": []
+              }
+            ]
+          }
+        ],
+        "qUtcModifyTime": 43803.72960648148,
+        "qVariableItems": [
+          {
+            "qName": "ClimberCustomReporteDuDzm",
+            "qValue": {
+              "qText": "{\"options\":{\"fieldsAndSortbarVisible\":true,\"activeReportId\":\"68141c16-3528-4048-ab62-73a2ad943cbe\",\"cacheId\":1574070709010},\"states\":{\"68141c16-3528-4048-ab62-73a2ad943cbe\":{\"qId\":\"68141c16-3528-4048-ab62-73a2ad943cbe\",\"title\":\"Activity\",\"cIds\":[\"CAmsv\",\"NtmfLUH\",\"mfKym\",\"SPSWK\",\"pwQRnve\",\"TmCJKH\",\"kUjQkbu\",\"NmtCPp\",\"RFpnhV\",\"kNjTbJ\"],\"visualizationType\":\"table\",\"visualizationState\":{\"table\":{\"qInterColumnSortOrder\":[{\"cId\":\"CAmsv\",\"type\":\"dimension\",\"qReverseSort\":true},{\"cId\":\"NtmfLUH\",\"type\":\"dimension\"},{\"cId\":\"mfKym\",\"type\":\"dimension\"},{\"cId\":\"SPSWK\",\"type\":\"dimension\"},{\"cId\":\"pwQRnve\",\"type\":\"dimension\"},{\"cId\":\"TmCJKH\",\"type\":\"dimension\"},{\"cId\":\"kUjQkbu\",\"type\":\"dimension\"},{\"cId\":\"NmtCPp\",\"type\":\"dimension\"},{\"cId\":\"RFpnhV\",\"type\":\"dimension\"},{\"cId\":\"kNjTbJ\",\"type\":\"measure\",\"qSortBy\":{\"qSortByNumeric\":-1,\"qSortByLoadOrder\":1,\"qExpression\":{}}}],\"columnWidths\":[],\"qSuppressZero\":false,\"totals\":[],\"qColumnOrder\":[{\"cId\":\"CAmsv\",\"type\":\"dimension\"},{\"cId\":\"NtmfLUH\",\"type\":\"dimension\"},{\"cId\":\"mfKym\",\"type\":\"dimension\"},{\"cId\":\"SPSWK\",\"type\":\"dimension\"},{\"cId\":\"pwQRnve\",\"type\":\"dimension\"},{\"cId\":\"TmCJKH\",\"type\":\"dimension\"},{\"cId\":\"kUjQkbu\",\"type\":\"dimension\"},{\"cId\":\"NmtCPp\",\"type\":\"dimension\"},{\"cId\":\"RFpnhV\",\"type\":\"dimension\"},{\"cId\":\"kNjTbJ\",\"type\":\"measure\"}]}}}}}",
+              "qNumber": "NaN"
+            }
+          },
+          {
+            "qName": "ClimberCustomReport6f5c3f9e6e44409c81d540e6fd080bb2",
+            "qValue": {
+              "qNumber": "NaN"
+            }
+          },
+          {
+            "qName": "ClimberCustomReportbhPsrrw",
+            "qValue": {
+              "qText": "{\"options\":{\"fieldsAndSortbarVisible\":true,\"activeReportId\":\"c0d2034b-f00e-47c5-aedd-e62474b20675\",\"cacheId\":1574069751417},\"states\":{\"c0d2034b-f00e-47c5-aedd-e62474b20675\":{\"qId\":\"c0d2034b-f00e-47c5-aedd-e62474b20675\",\"title\":\"Leads\",\"cIds\":[\"qrcBK\",\"dBczzEm\",\"DmpHJ\",\"xGgFvLm\",\"FHjtJ\",\"fpqUpU\",\"zFEsy\",\"pXVaFBu\",\"jmbwpv\",\"RXbQUX\",\"mySKLH\",\"jmSza\",\"ZcAsUt\",\"Xxf\",\"qmsPc\",\"cpphpCP\",\"LVWg\",\"QNJjB\"],\"visualizationType\":\"table\",\"visualizationState\":{\"table\":{\"qInterColumnSortOrder\":[{\"cId\":\"qrcBK\",\"type\":\"dimension\"},{\"cId\":\"fpqUpU\",\"type\":\"dimension\"},{\"cId\":\"zFEsy\",\"type\":\"dimension\"},{\"cId\":\"pXVaFBu\",\"type\":\"dimension\"},{\"cId\":\"mySKLH\",\"type\":\"dimension\"},{\"cId\":\"jmSza\",\"type\":\"dimension\"},{\"cId\":\"ZcAsUt\",\"type\":\"dimension\"},{\"cId\":\"Xxf\",\"type\":\"measure\",\"qSortBy\":{\"qSortByNumeric\":-1,\"qSortByLoadOrder\":1,\"qExpression\":{}}},{\"cId\":\"qmsPc\",\"type\":\"measure\",\"qSortBy\":{\"qSortByNumeric\":-1,\"qSortByLoadOrder\":1,\"qExpression\":{}}},{\"cId\":\"cpphpCP\",\"type\":\"measure\",\"qSortBy\":{\"qSortByNumeric\":-1,\"qSortByLoadOrder\":1,\"qExpression\":{}}},{\"cId\":\"LVWg\",\"type\":\"measure\",\"qSortBy\":{\"qSortByNumeric\":-1,\"qSortByLoadOrder\":1,\"qExpression\":{}}},{\"cId\":\"QNJjB\",\"type\":\"measure\",\"qSortBy\":{\"qSortByNumeric\":-1,\"qSortByLoadOrder\":1,\"qExpression\":{}}},{\"cId\":\"jmbwpv\",\"type\":\"dimension\"},{\"cId\":\"RXbQUX\",\"type\":\"dimension\"},{\"cId\":\"DmpHJ\",\"type\":\"dimension\"},{\"cId\":\"dBczzEm\",\"type\":\"dimension\"},{\"cId\":\"FHjtJ\",\"type\":\"dimension\"},{\"cId\":\"xGgFvLm\",\"type\":\"dimension\"}],\"columnWidths\":{\"qrcBK\":-1,\"dBczzEm\":-1,\"DmpHJ\":-1,\"xGgFvLm\":-1,\"FHjtJ\":-1,\"fpqUpU\":-1,\"zFEsy\":-1,\"pXVaFBu\":-1,\"jmbwpv\":-1,\"RXbQUX\":-1,\"mySKLH\":-1,\"jmSza\":-1,\"ZcAsUt\":-1,\"Xxf\":-1,\"qmsPc\":-1,\"cpphpCP\":-1,\"LVWg\":-1,\"QNJjB\":-1},\"qSuppressZero\":false,\"totals\":[],\"qColumnOrder\":[{\"cId\":\"qrcBK\",\"type\":\"dimension\"},{\"cId\":\"dBczzEm\",\"type\":\"dimension\"},{\"cId\":\"DmpHJ\",\"type\":\"dimension\"},{\"cId\":\"xGgFvLm\",\"type\":\"dimension\"},{\"cId\":\"FHjtJ\",\"type\":\"dimension\"},{\"cId\":\"fpqUpU\",\"type\":\"dimension\"},{\"cId\":\"zFEsy\",\"type\":\"dimension\"},{\"cId\":\"pXVaFBu\",\"type\":\"dimension\"},{\"cId\":\"jmbwpv\",\"type\":\"dimension\"},{\"cId\":\"RXbQUX\",\"type\":\"dimension\"},{\"cId\":\"mySKLH\",\"type\":\"dimension\"},{\"cId\":\"jmSza\",\"type\":\"dimension\"},{\"cId\":\"ZcAsUt\",\"type\":\"dimension\"},{\"cId\":\"Xxf\",\"type\":\"measure\"},{\"cId\":\"qmsPc\",\"type\":\"measure\"},{\"cId\":\"cpphpCP\",\"type\":\"measure\"},{\"cId\":\"LVWg\",\"type\":\"measure\"},{\"cId\":\"QNJjB\",\"type\":\"measure\"}]}}}}}",
+              "qNumber": "NaN"
+            }
+          },
+          {
+            "qName": "ClimberCustomReportFcvrjF",
+            "qValue": {
+              "qText": "{\"options\":{\"fieldsAndSortbarVisible\":true,\"activeReportId\":\"0fd6901d-7555-4a1c-9321-d9f5b382ed71\",\"cacheId\":1574070224421},\"states\":{\"0fd6901d-7555-4a1c-9321-d9f5b382ed71\":{\"qId\":\"0fd6901d-7555-4a1c-9321-d9f5b382ed71\",\"title\":\"Prospects\",\"cIds\":[\"CAmsv\",\"Yxqpzm\",\"apDPc\",\"BfGLky\",\"ASdrX\",\"GXZJaTB\",\"rMfGA\",\"sGzvw\",\"kUjQkbu\",\"UsRmwY\",\"BPqBtd\",\"CNAPp\",\"SzSwxa\",\"gRAsry\",\"JReEpx\",\"VbUGAxN\"],\"visualizationType\":\"table\",\"visualizationState\":{\"table\":{\"qInterColumnSortOrder\":[{\"cId\":\"CAmsv\",\"type\":\"dimension\"},{\"cId\":\"GXZJaTB\",\"type\":\"dimension\"},{\"cId\":\"ASdrX\",\"type\":\"dimension\"},{\"cId\":\"BfGLky\",\"type\":\"dimension\"},{\"cId\":\"sGzvw\",\"type\":\"dimension\"},{\"cId\":\"kUjQkbu\",\"type\":\"dimension\"},{\"cId\":\"UsRmwY\",\"type\":\"dimension\"},{\"cId\":\"BPqBtd\",\"type\":\"dimension\"},{\"cId\":\"apDPc\",\"type\":\"dimension\"},{\"cId\":\"Yxqpzm\",\"type\":\"dimension\"},{\"cId\":\"rMfGA\",\"type\":\"dimension\"},{\"cId\":\"CNAPp\",\"type\":\"dimension\"},{\"cId\":\"SzSwxa\",\"type\":\"measure\",\"qSortBy\":{\"qSortByNumeric\":-1,\"qSortByLoadOrder\":1,\"qExpression\":{}}},{\"cId\":\"gRAsry\",\"type\":\"measure\",\"qSortBy\":{\"qSortByNumeric\":-1,\"qSortByLoadOrder\":1,\"qExpression\":{}}},{\"cId\":\"JReEpx\",\"type\":\"measure\",\"qSortBy\":{\"qSortByNumeric\":-1,\"qSortByLoadOrder\":1,\"qExpression\":{}}},{\"cId\":\"VbUGAxN\",\"type\":\"measure\",\"qSortBy\":{\"qSortByNumeric\":-1,\"qSortByLoadOrder\":1,\"qExpression\":{}}}],\"columnWidths\":[],\"qSuppressZero\":true,\"totals\":[],\"qColumnOrder\":[{\"cId\":\"CAmsv\",\"type\":\"dimension\"},{\"cId\":\"Yxqpzm\",\"type\":\"dimension\"},{\"cId\":\"apDPc\",\"type\":\"dimension\"},{\"cId\":\"BfGLky\",\"type\":\"dimension\"},{\"cId\":\"ASdrX\",\"type\":\"dimension\"},{\"cId\":\"GXZJaTB\",\"type\":\"dimension\"},{\"cId\":\"rMfGA\",\"type\":\"dimension\"},{\"cId\":\"sGzvw\",\"type\":\"dimension\"},{\"cId\":\"kUjQkbu\",\"type\":\"dimension\"},{\"cId\":\"UsRmwY\",\"type\":\"dimension\"},{\"cId\":\"BPqBtd\",\"type\":\"dimension\"},{\"cId\":\"CNAPp\",\"type\":\"dimension\"},{\"cId\":\"SzSwxa\",\"type\":\"measure\"},{\"cId\":\"gRAsry\",\"type\":\"measure\"},{\"cId\":\"JReEpx\",\"type\":\"measure\"},{\"cId\":\"VbUGAxN\",\"type\":\"measure\"}]}}}}}",
+              "qNumber": "NaN"
+            }
+          },
+          {
+            "qName": "ClimberCustomReportAsnveh",
+            "qValue": {
+              "qNumber": "NaN"
+            }
+          }
+        ],
+        "qPatches": []
+      }
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "bf089c8e-ddcd-4926-b8e7-faf085d50e3c",
+      "qType": "bookmark"
+    },
+    "qMetaDef": {
+      "title": "Self Service - Default",
+      "description": ""
+    },
+    "creationDate": "2019-11-12T15:45:21.213Z",
+    "sheetId": "9a103053-0a9c-4222-9a36-b4063ca02703",
+    "selectionFields": "Dimensions, Measures",
+    "qData": {
+      "qBookMark": {
+        "qStateData": [
+          {
+            "qStateName": "$",
+            "qFieldItems": [
+              {
+                "qDef": {
+                  "qName": "Dimensions",
+                  "qType": "PRESENT"
+                },
+                "qSelectInfo": {
+                  "qRangeLo": "NaN",
+                  "qRangeHi": "NaN",
+                  "qNumberFormat": {
+                    "qType": "U",
+                    "qnDec": 10,
+                    "qUseThou": 0
+                  },
+                  "qRangeInfo": [],
+                  "qContinuousRangeInfo": []
+                },
+                "qValues": [],
+                "qExcludedValues": []
+              },
+              {
+                "qDef": {
+                  "qName": "Measures",
+                  "qType": "PRESENT"
+                },
+                "qSelectInfo": {
+                  "qRangeLo": "NaN",
+                  "qRangeHi": "NaN",
+                  "qNumberFormat": {
+                    "qType": "U",
+                    "qnDec": 10,
+                    "qUseThou": 0
+                  },
+                  "qRangeInfo": [],
+                  "qContinuousRangeInfo": []
+                },
+                "qValues": [],
+                "qExcludedValues": []
+              }
+            ]
+          }
+        ],
+        "qUtcModifyTime": 43781.73982638889,
+        "qVariableItems": [
+          {
+            "qName": "ClimberCustomReportAsnveh",
+            "qValue": {
+              "qNumber": "NaN"
+            }
+          },
+          {
+            "qName": "ClimberCustomReport6f5c3f9e6e44409c81d540e6fd080bb2",
+            "qValue": {
+              "qNumber": "NaN"
+            }
+          }
+        ],
+        "qPatches": []
+      }
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "c349359e-1496-4138-8b52-b1e107949e02",
+      "qType": "bookmark"
+    },
+    "qMetaDef": {
+      "title": "aging by B",
+      "description": ""
+    },
+    "creationDate": "2020-08-22T17:31:56.255Z",
+    "sheetId": "9a103053-0a9c-4222-9a36-b4063ca02703",
+    "selectionFields": "Dimensions, Measures, Actual Division, Year, Month",
+    "qData": {
+      "qBookMark": {
+        "qStateData": [
+          {
+            "qStateName": "$",
+            "qFieldItems": [
+              {
+                "qDef": {
+                  "qName": "Dimensions",
+                  "qType": "PRESENT"
+                },
+                "qSelectInfo": {
+                  "qRangeLo": "NaN",
+                  "qRangeHi": "NaN",
+                  "qNumberFormat": {
+                    "qType": "U",
+                    "qnDec": 10,
+                    "qUseThou": 0
+                  },
+                  "qRangeInfo": [],
+                  "qContinuousRangeInfo": []
+                },
+                "qValues": [],
+                "qExcludedValues": []
+              },
+              {
+                "qDef": {
+                  "qName": "Measures",
+                  "qType": "PRESENT"
+                },
+                "qSelectInfo": {
+                  "qRangeLo": "NaN",
+                  "qRangeHi": "NaN",
+                  "qNumberFormat": {
+                    "qType": "U",
+                    "qnDec": 10,
+                    "qUseThou": 0
+                  },
+                  "qRangeInfo": [],
+                  "qContinuousRangeInfo": []
+                },
+                "qValues": [],
+                "qExcludedValues": []
+              },
+              {
+                "qDef": {
+                  "qName": "Actual Division",
+                  "qType": "PRESENT"
+                },
+                "qSelectInfo": {
+                  "qRangeLo": "NaN",
+                  "qRangeHi": "NaN",
+                  "qNumberFormat": {
+                    "qType": "U",
+                    "qnDec": 10,
+                    "qUseThou": 0
+                  },
+                  "qRangeInfo": [],
+                  "qContinuousRangeInfo": []
+                },
+                "qValues": [],
+                "qExcludedValues": []
+              },
+              {
+                "qDef": {
+                  "qName": "Year",
+                  "qType": "PRESENT"
+                },
+                "qSelectInfo": {
+                  "qRangeLo": "NaN",
+                  "qRangeHi": "NaN",
+                  "qNumberFormat": {
+                    "qType": "U",
+                    "qnDec": 10,
+                    "qUseThou": 0
+                  },
+                  "qRangeInfo": [],
+                  "qContinuousRangeInfo": []
+                },
+                "qValues": [],
+                "qExcludedValues": []
+              },
+              {
+                "qDef": {
+                  "qName": "Month",
+                  "qType": "PRESENT"
+                },
+                "qSelectInfo": {
+                  "qRangeLo": "NaN",
+                  "qRangeHi": "NaN",
+                  "qNumberFormat": {
+                    "qType": "U",
+                    "qnDec": 10,
+                    "qUseThou": 0
+                  },
+                  "qRangeInfo": [],
+                  "qContinuousRangeInfo": []
+                },
+                "qValues": [],
+                "qExcludedValues": []
+              }
+            ]
+          }
+        ],
+        "qUtcModifyTime": 44065.85550925926,
+        "qVariableItems": [
+          {
+            "qName": "ClimberCustomReporteDuDzm",
+            "qValue": {
+              "qText": "{\"options\":{\"fieldsAndSortbarVisible\":true,\"activeReportId\":\"68141c16-3528-4048-ab62-73a2ad943cbe\",\"cacheId\":1574070709010},\"states\":{\"68141c16-3528-4048-ab62-73a2ad943cbe\":{\"qId\":\"68141c16-3528-4048-ab62-73a2ad943cbe\",\"title\":\"Activity\",\"cIds\":[\"CAmsv\",\"NtmfLUH\",\"mfKym\",\"SPSWK\",\"pwQRnve\",\"TmCJKH\",\"kUjQkbu\",\"NmtCPp\",\"RFpnhV\",\"kNjTbJ\"],\"visualizationType\":\"table\",\"visualizationState\":{\"table\":{\"qInterColumnSortOrder\":[{\"cId\":\"CAmsv\",\"type\":\"dimension\",\"qReverseSort\":true},{\"cId\":\"NtmfLUH\",\"type\":\"dimension\"},{\"cId\":\"mfKym\",\"type\":\"dimension\"},{\"cId\":\"SPSWK\",\"type\":\"dimension\"},{\"cId\":\"pwQRnve\",\"type\":\"dimension\"},{\"cId\":\"TmCJKH\",\"type\":\"dimension\"},{\"cId\":\"kUjQkbu\",\"type\":\"dimension\"},{\"cId\":\"NmtCPp\",\"type\":\"dimension\"},{\"cId\":\"RFpnhV\",\"type\":\"dimension\"},{\"cId\":\"kNjTbJ\",\"type\":\"measure\",\"qSortBy\":{\"qSortByNumeric\":-1,\"qSortByLoadOrder\":1,\"qExpression\":{}}}],\"columnWidths\":[],\"qSuppressZero\":false,\"totals\":[],\"qColumnOrder\":[{\"cId\":\"CAmsv\",\"type\":\"dimension\"},{\"cId\":\"NtmfLUH\",\"type\":\"dimension\"},{\"cId\":\"mfKym\",\"type\":\"dimension\"},{\"cId\":\"SPSWK\",\"type\":\"dimension\"},{\"cId\":\"pwQRnve\",\"type\":\"dimension\"},{\"cId\":\"TmCJKH\",\"type\":\"dimension\"},{\"cId\":\"kUjQkbu\",\"type\":\"dimension\"},{\"cId\":\"NmtCPp\",\"type\":\"dimension\"},{\"cId\":\"RFpnhV\",\"type\":\"dimension\"},{\"cId\":\"kNjTbJ\",\"type\":\"measure\"}]}}}}}",
+              "qNumber": "NaN"
+            }
+          },
+          {
+            "qName": "ClimberCustomReport6f5c3f9e6e44409c81d540e6fd080bb2",
+            "qValue": {
+              "qNumber": "NaN"
+            }
+          },
+          {
+            "qName": "ClimberCustomReportbhPsrrw",
+            "qValue": {
+              "qText": "{\"options\":{\"fieldsAndSortbarVisible\":true,\"activeReportId\":\"c0d2034b-f00e-47c5-aedd-e62474b20675\",\"cacheId\":1574069751417},\"states\":{\"c0d2034b-f00e-47c5-aedd-e62474b20675\":{\"qId\":\"c0d2034b-f00e-47c5-aedd-e62474b20675\",\"title\":\"Leads\",\"cIds\":[\"qrcBK\",\"dBczzEm\",\"DmpHJ\",\"xGgFvLm\",\"FHjtJ\",\"fpqUpU\",\"zFEsy\",\"pXVaFBu\",\"jmbwpv\",\"RXbQUX\",\"mySKLH\",\"jmSza\",\"ZcAsUt\",\"Xxf\",\"qmsPc\",\"cpphpCP\",\"LVWg\",\"QNJjB\"],\"visualizationType\":\"table\",\"visualizationState\":{\"table\":{\"qInterColumnSortOrder\":[{\"cId\":\"qrcBK\",\"type\":\"dimension\"},{\"cId\":\"fpqUpU\",\"type\":\"dimension\"},{\"cId\":\"zFEsy\",\"type\":\"dimension\"},{\"cId\":\"pXVaFBu\",\"type\":\"dimension\"},{\"cId\":\"mySKLH\",\"type\":\"dimension\"},{\"cId\":\"jmSza\",\"type\":\"dimension\"},{\"cId\":\"ZcAsUt\",\"type\":\"dimension\"},{\"cId\":\"Xxf\",\"type\":\"measure\",\"qSortBy\":{\"qSortByNumeric\":-1,\"qSortByLoadOrder\":1,\"qExpression\":{}}},{\"cId\":\"qmsPc\",\"type\":\"measure\",\"qSortBy\":{\"qSortByNumeric\":-1,\"qSortByLoadOrder\":1,\"qExpression\":{}}},{\"cId\":\"cpphpCP\",\"type\":\"measure\",\"qSortBy\":{\"qSortByNumeric\":-1,\"qSortByLoadOrder\":1,\"qExpression\":{}}},{\"cId\":\"LVWg\",\"type\":\"measure\",\"qSortBy\":{\"qSortByNumeric\":-1,\"qSortByLoadOrder\":1,\"qExpression\":{}}},{\"cId\":\"QNJjB\",\"type\":\"measure\",\"qSortBy\":{\"qSortByNumeric\":-1,\"qSortByLoadOrder\":1,\"qExpression\":{}}},{\"cId\":\"jmbwpv\",\"type\":\"dimension\"},{\"cId\":\"RXbQUX\",\"type\":\"dimension\"},{\"cId\":\"DmpHJ\",\"type\":\"dimension\"},{\"cId\":\"dBczzEm\",\"type\":\"dimension\"},{\"cId\":\"FHjtJ\",\"type\":\"dimension\"},{\"cId\":\"xGgFvLm\",\"type\":\"dimension\"}],\"columnWidths\":{\"qrcBK\":-1,\"dBczzEm\":-1,\"DmpHJ\":-1,\"xGgFvLm\":-1,\"FHjtJ\":-1,\"fpqUpU\":-1,\"zFEsy\":-1,\"pXVaFBu\":-1,\"jmbwpv\":-1,\"RXbQUX\":-1,\"mySKLH\":-1,\"jmSza\":-1,\"ZcAsUt\":-1,\"Xxf\":-1,\"qmsPc\":-1,\"cpphpCP\":-1,\"LVWg\":-1,\"QNJjB\":-1},\"qSuppressZero\":false,\"totals\":[],\"qColumnOrder\":[{\"cId\":\"qrcBK\",\"type\":\"dimension\"},{\"cId\":\"dBczzEm\",\"type\":\"dimension\"},{\"cId\":\"DmpHJ\",\"type\":\"dimension\"},{\"cId\":\"xGgFvLm\",\"type\":\"dimension\"},{\"cId\":\"FHjtJ\",\"type\":\"dimension\"},{\"cId\":\"fpqUpU\",\"type\":\"dimension\"},{\"cId\":\"zFEsy\",\"type\":\"dimension\"},{\"cId\":\"pXVaFBu\",\"type\":\"dimension\"},{\"cId\":\"jmbwpv\",\"type\":\"dimension\"},{\"cId\":\"RXbQUX\",\"type\":\"dimension\"},{\"cId\":\"mySKLH\",\"type\":\"dimension\"},{\"cId\":\"jmSza\",\"type\":\"dimension\"},{\"cId\":\"ZcAsUt\",\"type\":\"dimension\"},{\"cId\":\"Xxf\",\"type\":\"measure\"},{\"cId\":\"qmsPc\",\"type\":\"measure\"},{\"cId\":\"cpphpCP\",\"type\":\"measure\"},{\"cId\":\"LVWg\",\"type\":\"measure\"},{\"cId\":\"QNJjB\",\"type\":\"measure\"}]}}}}}",
+              "qNumber": "NaN"
+            }
+          },
+          {
+            "qName": "ClimberCustomReportFcvrjF",
+            "qValue": {
+              "qText": "{\"options\":{\"fieldsAndSortbarVisible\":true,\"activeReportId\":\"0fd6901d-7555-4a1c-9321-d9f5b382ed71\",\"cacheId\":1574070224421},\"states\":{\"0fd6901d-7555-4a1c-9321-d9f5b382ed71\":{\"qId\":\"0fd6901d-7555-4a1c-9321-d9f5b382ed71\",\"title\":\"Prospects\",\"cIds\":[\"CAmsv\",\"Yxqpzm\",\"apDPc\",\"BfGLky\",\"ASdrX\",\"GXZJaTB\",\"rMfGA\",\"sGzvw\",\"kUjQkbu\",\"UsRmwY\",\"BPqBtd\",\"CNAPp\",\"SzSwxa\",\"gRAsry\",\"JReEpx\",\"VbUGAxN\"],\"visualizationType\":\"table\",\"visualizationState\":{\"table\":{\"qInterColumnSortOrder\":[{\"cId\":\"CAmsv\",\"type\":\"dimension\"},{\"cId\":\"GXZJaTB\",\"type\":\"dimension\"},{\"cId\":\"ASdrX\",\"type\":\"dimension\"},{\"cId\":\"BfGLky\",\"type\":\"dimension\"},{\"cId\":\"sGzvw\",\"type\":\"dimension\"},{\"cId\":\"kUjQkbu\",\"type\":\"dimension\"},{\"cId\":\"UsRmwY\",\"type\":\"dimension\"},{\"cId\":\"BPqBtd\",\"type\":\"dimension\"},{\"cId\":\"apDPc\",\"type\":\"dimension\"},{\"cId\":\"Yxqpzm\",\"type\":\"dimension\"},{\"cId\":\"rMfGA\",\"type\":\"dimension\"},{\"cId\":\"CNAPp\",\"type\":\"dimension\"},{\"cId\":\"SzSwxa\",\"type\":\"measure\",\"qSortBy\":{\"qSortByNumeric\":-1,\"qSortByLoadOrder\":1,\"qExpression\":{}}},{\"cId\":\"gRAsry\",\"type\":\"measure\",\"qSortBy\":{\"qSortByNumeric\":-1,\"qSortByLoadOrder\":1,\"qExpression\":{}}},{\"cId\":\"JReEpx\",\"type\":\"measure\",\"qSortBy\":{\"qSortByNumeric\":-1,\"qSortByLoadOrder\":1,\"qExpression\":{}}},{\"cId\":\"VbUGAxN\",\"type\":\"measure\",\"qSortBy\":{\"qSortByNumeric\":-1,\"qSortByLoadOrder\":1,\"qExpression\":{}}}],\"columnWidths\":[],\"qSuppressZero\":true,\"totals\":[],\"qColumnOrder\":[{\"cId\":\"CAmsv\",\"type\":\"dimension\"},{\"cId\":\"Yxqpzm\",\"type\":\"dimension\"},{\"cId\":\"apDPc\",\"type\":\"dimension\"},{\"cId\":\"BfGLky\",\"type\":\"dimension\"},{\"cId\":\"ASdrX\",\"type\":\"dimension\"},{\"cId\":\"GXZJaTB\",\"type\":\"dimension\"},{\"cId\":\"rMfGA\",\"type\":\"dimension\"},{\"cId\":\"sGzvw\",\"type\":\"dimension\"},{\"cId\":\"kUjQkbu\",\"type\":\"dimension\"},{\"cId\":\"UsRmwY\",\"type\":\"dimension\"},{\"cId\":\"BPqBtd\",\"type\":\"dimension\"},{\"cId\":\"CNAPp\",\"type\":\"dimension\"},{\"cId\":\"SzSwxa\",\"type\":\"measure\"},{\"cId\":\"gRAsry\",\"type\":\"measure\"},{\"cId\":\"JReEpx\",\"type\":\"measure\"},{\"cId\":\"VbUGAxN\",\"type\":\"measure\"}]}}}}}",
+              "qNumber": "NaN"
+            }
+          },
+          {
+            "qName": "ClimberCustomReportAsnveh",
+            "qValue": {
+              "qNumber": "NaN"
+            }
+          }
+        ],
+        "qPatches": []
+      }
+    }
+  },
+  {
+    "qInfo": {
+      "qId": "e62b053e-a37b-42ea-9822-afc4c05bdb50",
+      "qType": "bookmark"
+    },
+    "qMetaDef": {
+      "title": "Lebanese Market",
+      "description": ""
+    },
+    "creationDate": "2020-12-15T07:38:34.622Z",
+    "sheetId": "6806dd3b-c2e8-44bb-b730-771b7cfff94d",
+    "selectionFields": "Customer Country, Actual Division",
+    "qData": {
+      "qBookMark": {
+        "qStateData": [
+          {
+            "qStateName": "$",
+            "qFieldItems": [
+              {
+                "qDef": {
+                  "qName": "Customer Country",
+                  "qType": "PRESENT"
+                },
+                "qSelectInfo": {
+                  "qRangeLo": "NaN",
+                  "qRangeHi": "NaN",
+                  "qNumberFormat": {
+                    "qType": "U",
+                    "qnDec": 10,
+                    "qUseThou": 0
+                  },
+                  "qRangeInfo": [],
+                  "qContinuousRangeInfo": []
+                },
+                "qValues": [],
+                "qExcludedValues": []
+              },
+              {
+                "qDef": {
+                  "qName": "Actual Division",
+                  "qType": "PRESENT"
+                },
+                "qSelectInfo": {
+                  "qRangeLo": "NaN",
+                  "qRangeHi": "NaN",
+                  "qNumberFormat": {
+                    "qType": "U",
+                    "qnDec": 10,
+                    "qUseThou": 0
+                  },
+                  "qRangeInfo": [],
+                  "qContinuousRangeInfo": []
+                },
+                "qValues": [],
+                "qExcludedValues": []
+              }
+            ]
+          }
+        ],
+        "qUtcModifyTime": 44180.40178240741,
+        "qVariableItems": [
+          {
+            "qName": "ClimberCustomReporteDuDzm",
+            "qValue": {
+              "qText": "{\"options\":{\"fieldsAndSortbarVisible\":true,\"activeReportId\":\"68141c16-3528-4048-ab62-73a2ad943cbe\",\"cacheId\":1574070709010},\"states\":{\"68141c16-3528-4048-ab62-73a2ad943cbe\":{\"qId\":\"68141c16-3528-4048-ab62-73a2ad943cbe\",\"title\":\"Activity\",\"cIds\":[\"CAmsv\",\"NtmfLUH\",\"mfKym\",\"SPSWK\",\"pwQRnve\",\"TmCJKH\",\"kUjQkbu\",\"NmtCPp\",\"RFpnhV\",\"kNjTbJ\"],\"visualizationType\":\"table\",\"visualizationState\":{\"table\":{\"qInterColumnSortOrder\":[{\"cId\":\"CAmsv\",\"type\":\"dimension\",\"qReverseSort\":true},{\"cId\":\"NtmfLUH\",\"type\":\"dimension\"},{\"cId\":\"mfKym\",\"type\":\"dimension\"},{\"cId\":\"SPSWK\",\"type\":\"dimension\"},{\"cId\":\"pwQRnve\",\"type\":\"dimension\"},{\"cId\":\"TmCJKH\",\"type\":\"dimension\"},{\"cId\":\"kUjQkbu\",\"type\":\"dimension\"},{\"cId\":\"NmtCPp\",\"type\":\"dimension\"},{\"cId\":\"RFpnhV\",\"type\":\"dimension\"},{\"cId\":\"kNjTbJ\",\"type\":\"measure\",\"qSortBy\":{\"qSortByNumeric\":-1,\"qSortByLoadOrder\":1,\"qExpression\":{}}}],\"columnWidths\":[],\"qSuppressZero\":false,\"totals\":[],\"qColumnOrder\":[{\"cId\":\"CAmsv\",\"type\":\"dimension\"},{\"cId\":\"NtmfLUH\",\"type\":\"dimension\"},{\"cId\":\"mfKym\",\"type\":\"dimension\"},{\"cId\":\"SPSWK\",\"type\":\"dimension\"},{\"cId\":\"pwQRnve\",\"type\":\"dimension\"},{\"cId\":\"TmCJKH\",\"type\":\"dimension\"},{\"cId\":\"kUjQkbu\",\"type\":\"dimension\"},{\"cId\":\"NmtCPp\",\"type\":\"dimension\"},{\"cId\":\"RFpnhV\",\"type\":\"dimension\"},{\"cId\":\"kNjTbJ\",\"type\":\"measure\"}]}}}}}",
+              "qNumber": "NaN"
+            }
+          },
+          {
+            "qName": "ClimberCustomReport6f5c3f9e6e44409c81d540e6fd080bb2",
+            "qValue": {
+              "qNumber": "NaN"
+            }
+          },
+          {
+            "qName": "ClimberCustomReportbhPsrrw",
+            "qValue": {
+              "qText": "{\"options\":{\"fieldsAndSortbarVisible\":true,\"activeReportId\":\"c0d2034b-f00e-47c5-aedd-e62474b20675\",\"cacheId\":1574069751417},\"states\":{\"c0d2034b-f00e-47c5-aedd-e62474b20675\":{\"qId\":\"c0d2034b-f00e-47c5-aedd-e62474b20675\",\"title\":\"Leads\",\"cIds\":[\"qrcBK\",\"dBczzEm\",\"DmpHJ\",\"xGgFvLm\",\"FHjtJ\",\"fpqUpU\",\"zFEsy\",\"pXVaFBu\",\"jmbwpv\",\"RXbQUX\",\"mySKLH\",\"jmSza\",\"ZcAsUt\",\"Xxf\",\"qmsPc\",\"cpphpCP\",\"LVWg\",\"QNJjB\"],\"visualizationType\":\"table\",\"visualizationState\":{\"table\":{\"qInterColumnSortOrder\":[{\"cId\":\"qrcBK\",\"type\":\"dimension\"},{\"cId\":\"fpqUpU\",\"type\":\"dimension\"},{\"cId\":\"zFEsy\",\"type\":\"dimension\"},{\"cId\":\"pXVaFBu\",\"type\":\"dimension\"},{\"cId\":\"mySKLH\",\"type\":\"dimension\"},{\"cId\":\"jmSza\",\"type\":\"dimension\"},{\"cId\":\"ZcAsUt\",\"type\":\"dimension\"},{\"cId\":\"Xxf\",\"type\":\"measure\",\"qSortBy\":{\"qSortByNumeric\":-1,\"qSortByLoadOrder\":1,\"qExpression\":{}}},{\"cId\":\"qmsPc\",\"type\":\"measure\",\"qSortBy\":{\"qSortByNumeric\":-1,\"qSortByLoadOrder\":1,\"qExpression\":{}}},{\"cId\":\"cpphpCP\",\"type\":\"measure\",\"qSortBy\":{\"qSortByNumeric\":-1,\"qSortByLoadOrder\":1,\"qExpression\":{}}},{\"cId\":\"LVWg\",\"type\":\"measure\",\"qSortBy\":{\"qSortByNumeric\":-1,\"qSortByLoadOrder\":1,\"qExpression\":{}}},{\"cId\":\"QNJjB\",\"type\":\"measure\",\"qSortBy\":{\"qSortByNumeric\":-1,\"qSortByLoadOrder\":1,\"qExpression\":{}}},{\"cId\":\"jmbwpv\",\"type\":\"dimension\"},{\"cId\":\"RXbQUX\",\"type\":\"dimension\"},{\"cId\":\"DmpHJ\",\"type\":\"dimension\"},{\"cId\":\"dBczzEm\",\"type\":\"dimension\"},{\"cId\":\"FHjtJ\",\"type\":\"dimension\"},{\"cId\":\"xGgFvLm\",\"type\":\"dimension\"}],\"columnWidths\":{\"qrcBK\":-1,\"dBczzEm\":-1,\"DmpHJ\":-1,\"xGgFvLm\":-1,\"FHjtJ\":-1,\"fpqUpU\":-1,\"zFEsy\":-1,\"pXVaFBu\":-1,\"jmbwpv\":-1,\"RXbQUX\":-1,\"mySKLH\":-1,\"jmSza\":-1,\"ZcAsUt\":-1,\"Xxf\":-1,\"qmsPc\":-1,\"cpphpCP\":-1,\"LVWg\":-1,\"QNJjB\":-1},\"qSuppressZero\":false,\"totals\":[],\"qColumnOrder\":[{\"cId\":\"qrcBK\",\"type\":\"dimension\"},{\"cId\":\"dBczzEm\",\"type\":\"dimension\"},{\"cId\":\"DmpHJ\",\"type\":\"dimension\"},{\"cId\":\"xGgFvLm\",\"type\":\"dimension\"},{\"cId\":\"FHjtJ\",\"type\":\"dimension\"},{\"cId\":\"fpqUpU\",\"type\":\"dimension\"},{\"cId\":\"zFEsy\",\"type\":\"dimension\"},{\"cId\":\"pXVaFBu\",\"type\":\"dimension\"},{\"cId\":\"jmbwpv\",\"type\":\"dimension\"},{\"cId\":\"RXbQUX\",\"type\":\"dimension\"},{\"cId\":\"mySKLH\",\"type\":\"dimension\"},{\"cId\":\"jmSza\",\"type\":\"dimension\"},{\"cId\":\"ZcAsUt\",\"type\":\"dimension\"},{\"cId\":\"Xxf\",\"type\":\"measure\"},{\"cId\":\"qmsPc\",\"type\":\"measure\"},{\"cId\":\"cpphpCP\",\"type\":\"measure\"},{\"cId\":\"LVWg\",\"type\":\"measure\"},{\"cId\":\"QNJjB\",\"type\":\"measure\"}]}}}}}",
+              "qNumber": "NaN"
+            }
+          },
+          {
+            "qName": "ClimberCustomReportFcvrjF",
+            "qValue": {
+              "qText": "{\"options\":{\"fieldsAndSortbarVisible\":true,\"activeReportId\":\"0fd6901d-7555-4a1c-9321-d9f5b382ed71\",\"cacheId\":1574070224421},\"states\":{\"0fd6901d-7555-4a1c-9321-d9f5b382ed71\":{\"qId\":\"0fd6901d-7555-4a1c-9321-d9f5b382ed71\",\"title\":\"Prospects\",\"cIds\":[\"CAmsv\",\"Yxqpzm\",\"apDPc\",\"BfGLky\",\"ASdrX\",\"GXZJaTB\",\"rMfGA\",\"sGzvw\",\"kUjQkbu\",\"UsRmwY\",\"BPqBtd\",\"CNAPp\",\"SzSwxa\",\"gRAsry\",\"JReEpx\",\"VbUGAxN\"],\"visualizationType\":\"table\",\"visualizationState\":{\"table\":{\"qInterColumnSortOrder\":[{\"cId\":\"CAmsv\",\"type\":\"dimension\"},{\"cId\":\"GXZJaTB\",\"type\":\"dimension\"},{\"cId\":\"ASdrX\",\"type\":\"dimension\"},{\"cId\":\"BfGLky\",\"type\":\"dimension\"},{\"cId\":\"sGzvw\",\"type\":\"dimension\"},{\"cId\":\"kUjQkbu\",\"type\":\"dimension\"},{\"cId\":\"UsRmwY\",\"type\":\"dimension\"},{\"cId\":\"BPqBtd\",\"type\":\"dimension\"},{\"cId\":\"apDPc\",\"type\":\"dimension\"},{\"cId\":\"Yxqpzm\",\"type\":\"dimension\"},{\"cId\":\"rMfGA\",\"type\":\"dimension\"},{\"cId\":\"CNAPp\",\"type\":\"dimension\"},{\"cId\":\"SzSwxa\",\"type\":\"measure\",\"qSortBy\":{\"qSortByNumeric\":-1,\"qSortByLoadOrder\":1,\"qExpression\":{}}},{\"cId\":\"gRAsry\",\"type\":\"measure\",\"qSortBy\":{\"qSortByNumeric\":-1,\"qSortByLoadOrder\":1,\"qExpression\":{}}},{\"cId\":\"JReEpx\",\"type\":\"measure\",\"qSortBy\":{\"qSortByNumeric\":-1,\"qSortByLoadOrder\":1,\"qExpression\":{}}},{\"cId\":\"VbUGAxN\",\"type\":\"measure\",\"qSortBy\":{\"qSortByNumeric\":-1,\"qSortByLoadOrder\":1,\"qExpression\":{}}}],\"columnWidths\":[],\"qSuppressZero\":true,\"totals\":[],\"qColumnOrder\":[{\"cId\":\"CAmsv\",\"type\":\"dimension\"},{\"cId\":\"Yxqpzm\",\"type\":\"dimension\"},{\"cId\":\"apDPc\",\"type\":\"dimension\"},{\"cId\":\"BfGLky\",\"type\":\"dimension\"},{\"cId\":\"ASdrX\",\"type\":\"dimension\"},{\"cId\":\"GXZJaTB\",\"type\":\"dimension\"},{\"cId\":\"rMfGA\",\"type\":\"dimension\"},{\"cId\":\"sGzvw\",\"type\":\"dimension\"},{\"cId\":\"kUjQkbu\",\"type\":\"dimension\"},{\"cId\":\"UsRmwY\",\"type\":\"dimension\"},{\"cId\":\"BPqBtd\",\"type\":\"dimension\"},{\"cId\":\"CNAPp\",\"type\":\"dimension\"},{\"cId\":\"SzSwxa\",\"type\":\"measure\"},{\"cId\":\"gRAsry\",\"type\":\"measure\"},{\"cId\":\"JReEpx\",\"type\":\"measure\"},{\"cId\":\"VbUGAxN\",\"type\":\"measure\"}]}}}}}",
+              "qNumber": "NaN"
+            }
+          },
+          {
+            "qName": "ClimberCustomReportAsnveh",
+            "qValue": {
+              "qNumber": "NaN"
+            }
+          }
+        ],
+        "qPatches": [
+          {
+            "qInfo": {
+              "qId": "6806dd3b-c2e8-44bb-b730-771b7cfff94d",
+              "qType": "sheet"
+            },
+            "qPatches": [],
+            "qChildren": [
+              {
+                "qInfo": {
+                  "qId": "RKptp",
+                  "qType": "table"
+                },
+                "qPatches": [
+                  {
+                    "qOp": "remove",
+                    "qPath": "/qHyperCubeDef/columnWidths/0",
+                    "qValue": "133"
+                  },
+                  {
+                    "qOp": "remove",
+                    "qPath": "/qHyperCubeDef/columnWidths/0",
+                    "qValue": "-1"
+                  },
+                  {
+                    "qOp": "remove",
+                    "qPath": "/qHyperCubeDef/columnWidths/0",
+                    "qValue": "-1"
+                  },
+                  {
+                    "qOp": "add",
+                    "qPath": "/qHyperCubeDef/columnWidths/0",
+                    "qValue": "173"
+                  },
+                  {
+                    "qOp": "add",
+                    "qPath": "/qHyperCubeDef/columnWidths/1",
+                    "qValue": "82"
+                  },
+                  {
+                    "qOp": "add",
+                    "qPath": "/qHyperCubeDef/columnWidths/2",
+                    "qValue": "91"
+                  }
+                ],
+                "qChildren": []
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+]

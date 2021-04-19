@@ -1,0 +1,2667 @@
+{
+  "qProperty": {
+    "qInfo": {
+      "qId": "ec60cc28-6862-40cf-8b30-d03de09b533c",
+      "qType": "sheet"
+    },
+    "qMetaDef": {
+      "title": "Customer Migration Mix - Scoring",
+      "description": ""
+    },
+    "rank": 125.1484375,
+    "thumbnail": {
+      "qStaticContentUrlDef": {
+        "qUrl": "/content/Default/GREEN ICON.png"
+      }
+    },
+    "columns": 24,
+    "rows": 12,
+    "cells": [
+      {
+        "name": "umrcG",
+        "type": "variable",
+        "col": 17,
+        "row": 0,
+        "colspan": 7,
+        "rowspan": 1,
+        "bounds": {
+          "y": 0,
+          "x": 70.83333333333334,
+          "width": 29.166666666666668,
+          "height": 8.333333333333332
+        }
+      },
+      {
+        "name": "VygVek",
+        "type": "pivot-table",
+        "col": 0,
+        "row": 2,
+        "colspan": 18,
+        "rowspan": 4,
+        "bounds": {
+          "y": 16.666666666666664,
+          "x": 0,
+          "width": 75,
+          "height": 33.33333333333333
+        }
+      },
+      {
+        "name": "kmtJBrA",
+        "type": "filterpane",
+        "col": 14,
+        "row": 0,
+        "colspan": 1,
+        "rowspan": 1,
+        "bounds": {
+          "y": 0,
+          "x": 58.333333333333336,
+          "width": 4.166666666666666,
+          "height": 8.333333333333332
+        }
+      },
+      {
+        "name": "rSvPD",
+        "type": "pivot-table",
+        "col": 0,
+        "row": 7,
+        "colspan": 18,
+        "rowspan": 5,
+        "bounds": {
+          "y": 58.333333333333336,
+          "x": 0,
+          "width": 75,
+          "height": 41.66666666666667
+        }
+      },
+      {
+        "name": "mkNTr",
+        "type": "qsSimpleKPI",
+        "col": 5,
+        "row": 0,
+        "colspan": 3,
+        "rowspan": 1,
+        "bounds": {
+          "y": 0,
+          "x": 20.833333333333336,
+          "width": 12.5,
+          "height": 8.333333333333332
+        }
+      },
+      {
+        "name": "cgYXrq",
+        "type": "qsSimpleKPI",
+        "col": 8,
+        "row": 0,
+        "colspan": 3,
+        "rowspan": 1,
+        "bounds": {
+          "y": 0,
+          "x": 33.33333333333333,
+          "width": 12.5,
+          "height": 8.333333333333332
+        }
+      },
+      {
+        "name": "VXeRxV",
+        "type": "qsSimpleKPI",
+        "col": 11,
+        "row": 0,
+        "colspan": 3,
+        "rowspan": 1,
+        "bounds": {
+          "y": 0,
+          "x": 45.83333333333333,
+          "width": 12.5,
+          "height": 8.333333333333332
+        }
+      },
+      {
+        "name": "MHbhZT",
+        "type": "qssidemenu",
+        "col": 0,
+        "row": 0,
+        "colspan": 3,
+        "rowspan": 1,
+        "bounds": {
+          "y": 0,
+          "x": 0,
+          "width": 12.5,
+          "height": 8.333333333333332
+        }
+      },
+      {
+        "name": "ypkCaJ",
+        "type": "text-image",
+        "col": 0,
+        "row": 1,
+        "colspan": 18,
+        "rowspan": 1,
+        "bounds": {
+          "y": 8.333333333333332,
+          "x": 0,
+          "width": 75,
+          "height": 8.333333333333332
+        }
+      },
+      {
+        "name": "wznLSXJ",
+        "type": "text-image",
+        "col": 0,
+        "row": 6,
+        "colspan": 18,
+        "rowspan": 1,
+        "bounds": {
+          "y": 50,
+          "x": 0,
+          "width": 75,
+          "height": 8.333333333333332
+        }
+      },
+      {
+        "name": "GbPPDr",
+        "type": "swr-sense-navigation",
+        "col": 3,
+        "row": 0,
+        "colspan": 2,
+        "rowspan": 1,
+        "bounds": {
+          "y": 0,
+          "x": 12.5,
+          "width": 8.333333333333332,
+          "height": 8.333333333333332
+        }
+      },
+      {
+        "name": "XMBYdE",
+        "type": "text-image",
+        "col": 15,
+        "row": 0,
+        "colspan": 2,
+        "rowspan": 1,
+        "bounds": {
+          "y": 0,
+          "x": 62.5,
+          "width": 8.333333333333332,
+          "height": 8.333333333333332
+        }
+      },
+      {
+        "name": "dJpPZkZ",
+        "type": "text-image",
+        "col": 18,
+        "row": 1,
+        "colspan": 6,
+        "rowspan": 11,
+        "bounds": {
+          "y": 8.333333333333332,
+          "x": 75,
+          "width": 25,
+          "height": 91.66666666666666
+        }
+      }
+    ],
+    "qChildListDef": {
+      "qData": {
+        "title": "/title"
+      }
+    },
+    "gridResolution": "small",
+    "layoutOptions": {
+      "mobileLayout": "LIST"
+    }
+  },
+  "qChildren": [
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "rSvPD",
+          "qType": "pivot-table"
+        },
+        "qMetaDef": {},
+        "qHyperCubeDef": {
+          "qDimensions": [
+            {
+              "qDef": {
+                "qGrouping": "N",
+                "qFieldDefs": [
+                  "=[CustomerPyramidTiersRevenue]"
+                ],
+                "qFieldLabels": [
+                  "Customer Pyramid"
+                ],
+                "qSortCriterias": [
+                  {
+                    "qSortByNumeric": 1,
+                    "qSortByAscii": 1,
+                    "qSortByLoadOrder": 1,
+                    "qExpression": {}
+                  }
+                ],
+                "qNumberPresentations": [],
+                "qActiveField": 0,
+                "autoSort": true,
+                "cId": "BbEqH",
+                "othersLabel": "Others"
+              },
+              "qOtherTotalSpec": {
+                "qOtherMode": "OTHER_OFF",
+                "qOtherCounted": {
+                  "qv": "10"
+                },
+                "qOtherLimit": {
+                  "qv": "0"
+                },
+                "qOtherLimitMode": "OTHER_GE_LIMIT",
+                "qForceBadValueKeeping": true,
+                "qApplyEvenWhenPossiblyWrongResult": true,
+                "qOtherSortMode": "OTHER_SORT_DESCENDING",
+                "qTotalMode": "TOTAL_OFF",
+                "qReferencedExpression": {}
+              },
+              "qOtherLabel": {
+                "qv": "Others"
+              },
+              "qTotalLabel": {
+                "qv": "Totals"
+              },
+              "qCalcCond": {},
+              "qAttributeExpressions": [],
+              "qAttributeDimensions": [],
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              }
+            }
+          ],
+          "qMeasures": [
+            {
+              "qDef": {
+                "qTags": [],
+                "qGrouping": "N",
+                "qDef": "=Pick\r\n(\n\t[CustomerPyramidTiersRevenue]\n       \n        ,Pick(     // Platinum\n        $(v_Selected_Measure_Cust_Key_Name)\n        \n\t\t,$(v_Customer_Tier_Platinum_LY_2_Revenue)\n\t\t,$(v_Customer_Key_Tier_Platinum_LY_2_Revenue)\n\t\t,$(v_Customer_Chain_Tier_Platinum_LY_2_Revenue)\n         )\n         \n        ,Pick(\t\t//Gold\n        $(v_Selected_Measure_Cust_Key_Name)\n        \n\t\t,$(v_Customer_Tier_Gold_LY_2_Revenue)\n\t\t,$(v_Customer_Key_Tier_Gold_LY_2_Revenue)\n\t\t,$(v_Customer_Chain_Tier_Gold_LY_2_Revenue)\n         )\n         \n        ,Pick(\t\t//Silver\n        $(v_Selected_Measure_Cust_Key_Name)\n        \n\t\t,$(v_Customer_Tier_Silver_LY_2_Revenue)\n\t\t,$(v_Customer_Key_Tier_Silver_LY_2_Revenue)\n\t\t,$(v_Customer_Chain_Tier_Silver_LY_2_Revenue)\n         )\n        \n        ,Pick(\t\t//Bronze\n        $(v_Selected_Measure_Cust_Key_Name)\n        \n\t\t,$(v_Customer_Tier_Bronze_LY_2_Revenue)\n\t\t,$(v_Customer_Key_Tier_Bronze_LY_2_Revenue)\n\t\t,$(v_Customer_Chain_Tier_Bronze_LY_2_Revenue)\n         )\n        \n        ,0\n\t\t\n\t\t,Pick(     // Total\n        $(v_Selected_Measure_Cust_Key_Name)\n        \n\t\t,$(v_Customer_Tier_Platinum_LY_2_Revenue) + $(v_Customer_Tier_Gold_LY_2_Revenue) + $(v_Customer_Tier_Silver_LY_2_Revenue) + $(v_Customer_Tier_Bronze_LY_2_Revenue)\n\t\t,$(v_Customer_Key_Tier_Platinum_LY_2_Revenue) + $(v_Customer_Key_Tier_Gold_LY_2_Revenue) + $(v_Customer_Key_Tier_Silver_LY_2_Revenue) + $(v_Customer_Key_Tier_Bronze_LY_2_Revenue)\n\t\t,$(v_Customer_Chain_Tier_Platinum_LY_2_Revenue) + $(v_Customer_Chain_Tier_Gold_LY_2_Revenue) + $(v_Customer_Chain_Tier_Silver_LY_2_Revenue) + $(v_Customer_Chain_Tier_Bronze_LY_2_Revenue)\n         )\n\t\t\n\t\t\n\t\t,0\n\t\t,0\n        \n)",
+                "qNumFormat": {
+                  "qType": "F",
+                  "qnDec": 2,
+                  "qUseThou": 0,
+                  "qFmt": "#,##0",
+                  "qDec": ".",
+                  "qThou": ","
+                },
+                "qAccumulate": 0,
+                "qActiveExpression": 0,
+                "qExpressions": [],
+                "qLabelExpression": "= $(v_Max_Year_LY_2)",
+                "autoSort": true,
+                "cId": "wbZLgp",
+                "numFormatFromTemplate": true,
+                "isCustomFormatted": false
+              },
+              "qSortBy": {
+                "qSortByNumeric": -1,
+                "qSortByLoadOrder": 1,
+                "qExpression": {}
+              },
+              "qAttributeExpressions": [
+                {
+                  "qExpression": "=Pick\r\n(\n\t[CustomerPyramidTiersRevenue]\n       \n,rgb(125,125,125),\nrgb(125,125,125),\nrgb(125,125,125),\nrgb(125,125,125),\nrgb(125,125,125),\nrgb(70,130,180),\nrgb(70,130,180),\nrgb(70,130,180),\n)\n",
+                  "qAttribute": true
+                },
+                {
+                  "qExpression": "White()",
+                  "qAttribute": true
+                }
+              ],
+              "qAttributeDimensions": [],
+              "qCalcCond": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qTrendLines": [],
+              "qMiniChartDef": {
+                "qSortBy": {
+                  "qExpression": {}
+                },
+                "qOtherTotalSpec": {
+                  "qOtherMode": "OTHER_OFF",
+                  "qOtherCounted": {},
+                  "qOtherLimit": {},
+                  "qOtherLimitMode": "OTHER_GT_LIMIT",
+                  "qForceBadValueKeeping": true,
+                  "qApplyEvenWhenPossiblyWrongResult": true,
+                  "qOtherSortMode": "OTHER_SORT_DESCENDING",
+                  "qTotalMode": "TOTAL_OFF",
+                  "qReferencedExpression": {}
+                },
+                "qMaxNumberPoints": -1,
+                "qAttributeExpressions": []
+              }
+            },
+            {
+              "qDef": {
+                "qTags": [],
+                "qGrouping": "N",
+                "qDef": "=Pick\r\n(\n\t[CustomerPyramidTiersRevenue]\n       \n        ,Pick(     // Platinum to Platinum\n        $(v_Selected_Measure_Cust_Key_Name)\n        \n\t\t,Num($(v_Customer_Tier_Platinum_To_Platinum_LY_2_Revenue) ,Text('#,##0.'))\n\t\t,Num($(v_Customer_Key_Tier_Platinum_To_Platinum_LY_2_Revenue) ,Text('#,##0.'))\n\t\t,Num($(v_Customer_Chain_Tier_Platinum_To_Platinum_LY_2_Revenue) ,Text('#,##0.'))\n         )\n         \n        ,Pick(\t\t//Gold to Platinum\n        $(v_Selected_Measure_Cust_Key_Name)\n        \n\t\t,Num($(v_Customer_Tier_Gold_To_Platinum_LY_2_Revenue) ,Text('#,##0.'))\n\t\t,Num($(v_Customer_Key_Tier_Gold_To_Platinum_LY_Revenue) ,Text('#,##0.'))\n\t\t,Num($(v_Customer_Chain_Tier_Gold_To_Platinum_LY_2_Revenue) ,Text('#,##0.'))\n         )\n         \n        ,Pick(\t\t//Silver to Platinum\n        $(v_Selected_Measure_Cust_Key_Name)\n        \n\t\t,Num($(v_Customer_Tier_Silver_To_Platinum_LY_2_Revenue) ,Text('#,##0.'))\n\t\t,Num($(v_Customer_Key_Tier_Silver_To_Platinum_LY_2_Revenue) ,Text('#,##0.'))\n\t\t,Num($(v_Customer_Chain_Tier_Silver_To_Platinum_LY_2_Revenue) ,Text('#,##0.'))\n         )\n        \n        ,Pick(\t\t//Bronze to Platinum\n        $(v_Selected_Measure_Cust_Key_Name)\n        \n\t\t,Num($(v_Customer_Tier_Bronze_To_Platinum_LY_2_Revenue) ,Text('#,##0.'))\n\t\t,Num($(v_Customer_Key_Tier_Bronze_To_Platinum_LY_2_Revenue) ,Text('#,##0.'))\n\t\t,Num($(v_Customer_Chain_Tier_Bronze_To_Platinum_LY_2_Revenue) ,Text('#,##0.'))\n         )\n        \n        ,0\n\t\t\n\t\t,Pick(     // Total to Platinum\n        $(v_Selected_Measure_Cust_Key_Name)\n        \n\t\t,Num($(v_Customer_Tier_Platinum_To_Platinum_LY_2_Revenue) + $(v_Customer_Tier_Gold_To_Platinum_LY_2_Revenue) + $(v_Customer_Tier_Silver_To_Platinum_LY_2_Revenue) + $(v_Customer_Tier_Bronze_To_Platinum_LY_2_Revenue) ,Text('#,##0.'))\n\t\t,Num($(v_Customer_Key_Tier_Platinum_To_Platinum_LY_2_Revenue) + $(v_Customer_Key_Tier_Gold_To_Platinum_LY_Revenue) + $(v_Customer_Key_Tier_Silver_To_Platinum_LY_2_Revenue) + $(v_Customer_Key_Tier_Bronze_To_Platinum_LY_2_Revenue) ,Text('#,##0.'))\n\t\t,Num($(v_Customer_Chain_Tier_Platinum_To_Platinum_LY_2_Revenue) + $(v_Customer_Chain_Tier_Gold_To_Platinum_LY_2_Revenue) + $(v_Customer_Chain_Tier_Silver_To_Platinum_LY_2_Revenue) + $(v_Customer_Chain_Tier_Bronze_To_Platinum_LY_2_Revenue) ,Text('#,##0.'))\n         )\n\t\t\n\t\t\n\t\t,Pick(     // Variance to Platinum\n        $(v_Selected_Measure_Cust_Key_Name)\n        \n\t\t,Num(($(v_Customer_Tier_Platinum_To_Platinum_LY_2_Revenue) + $(v_Customer_Tier_Gold_To_Platinum_LY_2_Revenue) + $(v_Customer_Tier_Silver_To_Platinum_LY_2_Revenue) + $(v_Customer_Tier_Bronze_To_Platinum_LY_2_Revenue)) - ($(v_Customer_Tier_Platinum_LY_2_Revenue)) ,Text('#,##0.'))\n\t\t,Num(($(v_Customer_Key_Tier_Platinum_To_Platinum_LY_2_Revenue) + $(v_Customer_Key_Tier_Gold_To_Platinum_LY_Revenue) + $(v_Customer_Key_Tier_Silver_To_Platinum_LY_2_Revenue) + $(v_Customer_Key_Tier_Bronze_To_Platinum_LY_2_Revenue))  - ($(v_Customer_Key_Tier_Platinum_LY_2_Revenue)),Text('#,##0.'))\n\t\t,Num(($(v_Customer_Chain_Tier_Platinum_To_Platinum_LY_2_Revenue) + $(v_Customer_Chain_Tier_Gold_To_Platinum_LY_2_Revenue) + $(v_Customer_Chain_Tier_Silver_To_Platinum_LY_2_Revenue) + $(v_Customer_Chain_Tier_Bronze_To_Platinum_LY_2_Revenue)) - ($(v_Customer_Chain_Tier_Platinum_LY_2_Revenue)) ,Text('#,##0.'))\n         )\n\t\t,Pick(     // Variance %\n        $(v_Selected_Measure_Cust_Key_Name)\n        \n\t\t,Num((($(v_Customer_Tier_Platinum_To_Platinum_LY_2_Revenue) + $(v_Customer_Tier_Gold_To_Platinum_LY_2_Revenue) + $(v_Customer_Tier_Silver_To_Platinum_LY_2_Revenue) + $(v_Customer_Tier_Bronze_To_Platinum_LY_2_Revenue)) - ($(v_Customer_Tier_Platinum_LY_2_Revenue))) / ($(v_Customer_Tier_Platinum_LY_2_Revenue)),Text('#,##0.0' & '%'))\n\t\t,Num((($(v_Customer_Key_Tier_Platinum_To_Platinum_LY_2_Revenue) + $(v_Customer_Key_Tier_Gold_To_Platinum_LY_Revenue) + $(v_Customer_Key_Tier_Silver_To_Platinum_LY_2_Revenue) + $(v_Customer_Key_Tier_Bronze_To_Platinum_LY_2_Revenue))  - ($(v_Customer_Key_Tier_Platinum_LY_2_Revenue))) / ($(v_Customer_Key_Tier_Platinum_LY_2_Revenue)),Text('#,##0.0' & '%'))\n\t\t,Num((($(v_Customer_Chain_Tier_Platinum_To_Platinum_LY_2_Revenue) + $(v_Customer_Chain_Tier_Gold_To_Platinum_LY_2_Revenue) + $(v_Customer_Chain_Tier_Silver_To_Platinum_LY_2_Revenue) + $(v_Customer_Chain_Tier_Bronze_To_Platinum_LY_2_Revenue)) - ($(v_Customer_Chain_Tier_Platinum_LY_2_Revenue))) / ($(v_Customer_Chain_Tier_Platinum_LY_2_Revenue)) ,Text('#,##0.0' & '%'))\n         )\n        \n)",
+                "qNumFormat": {
+                  "qType": "U",
+                  "qnDec": 2,
+                  "qUseThou": 0,
+                  "qDec": ".",
+                  "qThou": ","
+                },
+                "qAccumulate": 0,
+                "qActiveExpression": 0,
+                "qExpressions": [],
+                "qLabelExpression": "='Platinum '&'$(v_Max_Year_LY)'",
+                "autoSort": true,
+                "cId": "aanjRJ",
+                "numFormatFromTemplate": true,
+                "isCustomFormatted": true
+              },
+              "qSortBy": {
+                "qSortByNumeric": -1,
+                "qSortByLoadOrder": 1,
+                "qExpression": {}
+              },
+              "qAttributeExpressions": [
+                {
+                  "qExpression": "=Pick\r\n(\n\t[CustomerPyramidTiersRevenue]\n       \n        ,white()\n        ,green()\n        ,green()\n        ,green()\n        ,Green()\n        ,rgb(70,130,180)\n        ,rgb(70,130,180)\n        ,rgb(70,130,180)\n\n)\n",
+                  "qAttribute": true
+                },
+                {
+                  "qAttribute": true
+                }
+              ],
+              "qAttributeDimensions": [],
+              "qCalcCond": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qTrendLines": [],
+              "qMiniChartDef": {
+                "qSortBy": {
+                  "qExpression": {}
+                },
+                "qOtherTotalSpec": {
+                  "qOtherMode": "OTHER_OFF",
+                  "qOtherCounted": {},
+                  "qOtherLimit": {},
+                  "qOtherLimitMode": "OTHER_GT_LIMIT",
+                  "qForceBadValueKeeping": true,
+                  "qApplyEvenWhenPossiblyWrongResult": true,
+                  "qOtherSortMode": "OTHER_SORT_DESCENDING",
+                  "qTotalMode": "TOTAL_OFF",
+                  "qReferencedExpression": {}
+                },
+                "qMaxNumberPoints": -1,
+                "qAttributeExpressions": []
+              }
+            },
+            {
+              "qDef": {
+                "qTags": [],
+                "qGrouping": "N",
+                "qDef": "=Pick\r\n(\n\t[CustomerPyramidTiersRevenue]\n       \n        ,Pick(     // Platinum to Gold\n        $(v_Selected_Measure_Cust_Key_Name)\n        \n\t\t,Num($(v_Customer_Tier_Platinum_To_Gold_LY_2_Revenue) ,Text('#,##0.'))\n\t\t,Num($(v_Customer_Key_Tier_Platinum_To_Gold_LY_2_Revenue) ,Text('#,##0.'))\n\t\t,Num($(v_Customer_Chain_Tier_Platinum_To_Gold_LY_2_Revenue) ,Text('#,##0.'))\n         )\n         \n        ,Pick(\t\t//Gold to Gold\n        $(v_Selected_Measure_Cust_Key_Name)\n        \n\t\t,Num($(v_Customer_Tier_Gold_To_Gold_LY_2_Revenue) ,Text('#,##0.'))\n\t\t,Num($(v_Customer_Key_Tier_Gold_To_Gold_LY_Revenue) ,Text('#,##0.'))\n\t\t,Num($(v_Customer_Chain_Tier_Gold_To_Gold_LY_2_Revenue) ,Text('#,##0.'))\n         )\n         \n        ,Pick(\t\t//Silver to Gold\n        $(v_Selected_Measure_Cust_Key_Name)\n        \n\t\t,Num($(v_Customer_Tier_Silver_To_Gold_LY_2_Revenue) ,Text('#,##0.'))\n\t\t,Num($(v_Customer_Key_Tier_Silver_To_Gold_LY_2_Revenue) ,Text('#,##0.'))\n\t\t,Num($(v_Customer_Chain_Tier_Silver_To_Gold_LY_2_Revenue) ,Text('#,##0.'))\n         )\n        \n        ,Pick(\t\t//Bronze to Gold\n        $(v_Selected_Measure_Cust_Key_Name)\n        \n\t\t,Num($(v_Customer_Tier_Bronze_To_Gold_LY_2_Revenue) ,Text('#,##0.'))\n\t\t,Num($(v_Customer_Key_Tier_Bronze_To_Gold_LY_2_Revenue) ,Text('#,##0.'))\n\t\t,Num($(v_Customer_Chain_Tier_Bronze_To_Gold_LY_2_Revenue) ,Text('#,##0.'))\n         )\n        \n        ,0\n\t\t\n\t\t,Pick(     // Total to Gold\n        $(v_Selected_Measure_Cust_Key_Name)\n        \n\t\t,Num($(v_Customer_Tier_Platinum_To_Gold_LY_2_Revenue) + $(v_Customer_Tier_Gold_To_Gold_LY_2_Revenue) + $(v_Customer_Tier_Silver_To_Gold_LY_2_Revenue) + $(v_Customer_Tier_Bronze_To_Gold_LY_2_Revenue) ,Text('#,##0.'))\n\t\t,Num($(v_Customer_Key_Tier_Platinum_To_Gold_LY_2_Revenue) + $(v_Customer_Key_Tier_Gold_To_Gold_LY_Revenue) + $(v_Customer_Key_Tier_Silver_To_Gold_LY_2_Revenue) + $(v_Customer_Key_Tier_Bronze_To_Gold_LY_2_Revenue) ,Text('#,##0.'))\n\t\t,Num($(v_Customer_Chain_Tier_Platinum_To_Gold_LY_2_Revenue) + $(v_Customer_Chain_Tier_Gold_To_Gold_LY_2_Revenue) + $(v_Customer_Chain_Tier_Silver_To_Gold_LY_2_Revenue) + $(v_Customer_Chain_Tier_Bronze_To_Gold_LY_2_Revenue) ,Text('#,##0.'))\n         )\n\t\t\n\t\t\n\t\t,Pick(     // Variance to Gold\n        $(v_Selected_Measure_Cust_Key_Name)\n        \n\t\t,Num(($(v_Customer_Tier_Platinum_To_Gold_LY_2_Revenue) + $(v_Customer_Tier_Gold_To_Gold_LY_2_Revenue) + $(v_Customer_Tier_Silver_To_Gold_LY_2_Revenue) + $(v_Customer_Tier_Bronze_To_Gold_LY_2_Revenue)) - ($(v_Customer_Tier_Gold_LY_2_Revenue)) ,Text('#,##0.'))\n\t\t,Num(($(v_Customer_Key_Tier_Platinum_To_Gold_LY_2_Revenue) + $(v_Customer_Key_Tier_Gold_To_Gold_LY_Revenue) + $(v_Customer_Key_Tier_Silver_To_Gold_LY_2_Revenue) + $(v_Customer_Key_Tier_Bronze_To_Gold_LY_2_Revenue))  - ($(v_Customer_Key_Tier_Gold_LY_2_Revenue)),Text('#,##0.'))\n\t\t,Num(($(v_Customer_Chain_Tier_Platinum_To_Gold_LY_2_Revenue) + $(v_Customer_Chain_Tier_Gold_To_Gold_LY_2_Revenue) + $(v_Customer_Chain_Tier_Silver_To_Gold_LY_2_Revenue) + $(v_Customer_Chain_Tier_Bronze_To_Gold_LY_2_Revenue)) - ($(v_Customer_Chain_Tier_Gold_LY_2_Revenue)) ,Text('#,##0.'))\n         )\n\t\t,Pick(     // Variance %\n        $(v_Selected_Measure_Cust_Key_Name)\n        \n\t\t,Num((($(v_Customer_Tier_Platinum_To_Gold_LY_2_Revenue) + $(v_Customer_Tier_Gold_To_Gold_LY_2_Revenue) + $(v_Customer_Tier_Silver_To_Gold_LY_2_Revenue) + $(v_Customer_Tier_Bronze_To_Gold_LY_2_Revenue)) - ($(v_Customer_Tier_Gold_LY_2_Revenue))) / ($(v_Customer_Tier_Gold_LY_2_Revenue)),Text('#,##0.0' & '%'))\n\t\t,Num((($(v_Customer_Key_Tier_Platinum_To_Gold_LY_2_Revenue) + $(v_Customer_Key_Tier_Gold_To_Gold_LY_Revenue) + $(v_Customer_Key_Tier_Silver_To_Gold_LY_2_Revenue) + $(v_Customer_Key_Tier_Bronze_To_Gold_LY_2_Revenue))  - ($(v_Customer_Key_Tier_Gold_LY_2_Revenue))) / ($(v_Customer_Key_Tier_Gold_LY_2_Revenue)),Text('#,##0.0' & '%'))\n\t\t,Num((($(v_Customer_Chain_Tier_Platinum_To_Gold_LY_2_Revenue) + $(v_Customer_Chain_Tier_Gold_To_Gold_LY_2_Revenue) + $(v_Customer_Chain_Tier_Silver_To_Gold_LY_2_Revenue) + $(v_Customer_Chain_Tier_Bronze_To_Gold_LY_2_Revenue)) - ($(v_Customer_Chain_Tier_Gold_LY_2_Revenue))) / ($(v_Customer_Chain_Tier_Gold_LY_2_Revenue)) ,Text('#,##0.0' & '%'))\n         )\n        \n)",
+                "qNumFormat": {
+                  "qType": "U",
+                  "qnDec": 2,
+                  "qUseThou": 0,
+                  "qDec": ".",
+                  "qThou": ","
+                },
+                "qAccumulate": 0,
+                "qActiveExpression": 0,
+                "qExpressions": [],
+                "qLabelExpression": "='Gold '&'$(v_Max_Year_LY)'",
+                "autoSort": true,
+                "cId": "SpSXPR",
+                "numFormatFromTemplate": true,
+                "isCustomFormatted": true
+              },
+              "qSortBy": {
+                "qSortByNumeric": -1,
+                "qSortByLoadOrder": 1,
+                "qExpression": {}
+              },
+              "qAttributeExpressions": [
+                {
+                  "qExpression": "=Pick\r\n(\n\t[CustomerPyramidTiersRevenue]\n       \n        ,lightRed()\n        ,white()\n        ,green()\n        ,green()\n        ,Green()\n        ,rgb(70,130,180)\n        ,rgb(70,130,180)\n        ,rgb(70,130,180)\n\n)\n",
+                  "qAttribute": true
+                },
+                {
+                  "qAttribute": true
+                }
+              ],
+              "qAttributeDimensions": [],
+              "qCalcCond": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qTrendLines": [],
+              "qMiniChartDef": {
+                "qSortBy": {
+                  "qExpression": {}
+                },
+                "qOtherTotalSpec": {
+                  "qOtherMode": "OTHER_OFF",
+                  "qOtherCounted": {},
+                  "qOtherLimit": {},
+                  "qOtherLimitMode": "OTHER_GT_LIMIT",
+                  "qForceBadValueKeeping": true,
+                  "qApplyEvenWhenPossiblyWrongResult": true,
+                  "qOtherSortMode": "OTHER_SORT_DESCENDING",
+                  "qTotalMode": "TOTAL_OFF",
+                  "qReferencedExpression": {}
+                },
+                "qMaxNumberPoints": -1,
+                "qAttributeExpressions": []
+              }
+            },
+            {
+              "qDef": {
+                "qTags": [],
+                "qGrouping": "N",
+                "qDef": "=Pick\r\n(\n\t[CustomerPyramidTiersRevenue]\n       \n        ,Pick(     // Platinum to Silver\n        $(v_Selected_Measure_Cust_Key_Name)\n        \n\t\t,Num($(v_Customer_Tier_Platinum_To_Silver_LY_2_Revenue) ,Text('#,##0.'))\n\t\t,Num($(v_Customer_Key_Tier_Platinum_To_Silver_LY_2_Revenue) ,Text('#,##0.'))\n\t\t,Num($(v_Customer_Chain_Tier_Platinum_To_Silver_LY_2_Revenue) ,Text('#,##0.'))\n         )\n         \n        ,Pick(\t\t//Gold to Silver\n        $(v_Selected_Measure_Cust_Key_Name)\n        \n\t\t,Num($(v_Customer_Tier_Gold_To_Silver_LY_2_Revenue) ,Text('#,##0.'))\n\t\t,Num($(v_Customer_Key_Tier_Gold_To_Silver_LY_Revenue) ,Text('#,##0.'))\n\t\t,Num($(v_Customer_Chain_Tier_Gold_To_Silver_LY_2_Revenue) ,Text('#,##0.'))\n         )\n         \n        ,Pick(\t\t//Silver to Silver\n        $(v_Selected_Measure_Cust_Key_Name)\n        \n\t\t,Num($(v_Customer_Tier_Silver_To_Silver_LY_2_Revenue) ,Text('#,##0.'))\n\t\t,Num($(v_Customer_Key_Tier_Silver_To_Silver_LY_2_Revenue) ,Text('#,##0.'))\n\t\t,Num($(v_Customer_Chain_Tier_Silver_To_Silver_LY_2_Revenue) ,Text('#,##0.'))\n         )\n        \n        ,Pick(\t\t//Bronze to Silver\n        $(v_Selected_Measure_Cust_Key_Name)\n        \n\t\t,Num($(v_Customer_Tier_Bronze_To_Silver_LY_2_Revenue) ,Text('#,##0.'))\n\t\t,Num($(v_Customer_Key_Tier_Bronze_To_Silver_LY_2_Revenue) ,Text('#,##0.'))\n\t\t,Num($(v_Customer_Chain_Tier_Bronze_To_Silver_LY_2_Revenue) ,Text('#,##0.'))\n         )\n        \n        ,0\n\t\t\n\t\t,Pick(     // Total to Silver\n        $(v_Selected_Measure_Cust_Key_Name)\n        \n\t\t,Num($(v_Customer_Tier_Platinum_To_Silver_LY_2_Revenue) + $(v_Customer_Tier_Gold_To_Silver_LY_2_Revenue) + $(v_Customer_Tier_Silver_To_Silver_LY_2_Revenue) + $(v_Customer_Tier_Bronze_To_Silver_LY_2_Revenue) ,Text('#,##0.'))\n\t\t,Num($(v_Customer_Key_Tier_Platinum_To_Silver_LY_2_Revenue) + $(v_Customer_Key_Tier_Gold_To_Silver_LY_Revenue) + $(v_Customer_Key_Tier_Silver_To_Silver_LY_2_Revenue) + $(v_Customer_Key_Tier_Bronze_To_Silver_LY_2_Revenue) ,Text('#,##0.'))\n\t\t,Num($(v_Customer_Chain_Tier_Platinum_To_Silver_LY_2_Revenue) + $(v_Customer_Chain_Tier_Gold_To_Silver_LY_2_Revenue) + $(v_Customer_Chain_Tier_Silver_To_Silver_LY_2_Revenue) + $(v_Customer_Chain_Tier_Bronze_To_Silver_LY_2_Revenue) ,Text('#,##0.'))\n         )\n\t\t\n\t\t\n\t\t,Pick(     // Variance to Silver\n        $(v_Selected_Measure_Cust_Key_Name)\n        \n\t\t,Num(($(v_Customer_Tier_Platinum_To_Silver_LY_2_Revenue) + $(v_Customer_Tier_Gold_To_Silver_LY_2_Revenue) + $(v_Customer_Tier_Silver_To_Silver_LY_2_Revenue) + $(v_Customer_Tier_Bronze_To_Silver_LY_2_Revenue)) - ($(v_Customer_Tier_Silver_LY_2_Revenue)) ,Text('#,##0.'))\n\t\t,Num(($(v_Customer_Key_Tier_Platinum_To_Silver_LY_2_Revenue) + $(v_Customer_Key_Tier_Gold_To_Silver_LY_Revenue) + $(v_Customer_Key_Tier_Silver_To_Silver_LY_2_Revenue) + $(v_Customer_Key_Tier_Bronze_To_Silver_LY_2_Revenue))  - ($(v_Customer_Key_Tier_Silver_LY_2_Revenue)),Text('#,##0.'))\n\t\t,Num(($(v_Customer_Chain_Tier_Platinum_To_Silver_LY_2_Revenue) + $(v_Customer_Chain_Tier_Gold_To_Silver_LY_2_Revenue) + $(v_Customer_Chain_Tier_Silver_To_Silver_LY_2_Revenue) + $(v_Customer_Chain_Tier_Bronze_To_Silver_LY_2_Revenue)) - ($(v_Customer_Chain_Tier_Silver_LY_2_Revenue)) ,Text('#,##0.'))\n         )\n\t\t,Pick(     // Variance %\n        $(v_Selected_Measure_Cust_Key_Name)\n        \n\t\t,Num((($(v_Customer_Tier_Platinum_To_Silver_LY_2_Revenue) + $(v_Customer_Tier_Gold_To_Silver_LY_2_Revenue) + $(v_Customer_Tier_Silver_To_Silver_LY_2_Revenue) + $(v_Customer_Tier_Bronze_To_Silver_LY_2_Revenue)) - ($(v_Customer_Tier_Silver_LY_2_Revenue))) / ($(v_Customer_Tier_Silver_LY_2_Revenue)),Text('#,##0.0' & '%'))\n\t\t,Num((($(v_Customer_Key_Tier_Platinum_To_Silver_LY_2_Revenue) + $(v_Customer_Key_Tier_Gold_To_Silver_LY_Revenue) + $(v_Customer_Key_Tier_Silver_To_Silver_LY_2_Revenue) + $(v_Customer_Key_Tier_Bronze_To_Silver_LY_2_Revenue))  - ($(v_Customer_Key_Tier_Silver_LY_2_Revenue))) / ($(v_Customer_Key_Tier_Silver_LY_2_Revenue)),Text('#,##0.0' & '%'))\n\t\t,Num((($(v_Customer_Chain_Tier_Platinum_To_Silver_LY_2_Revenue) + $(v_Customer_Chain_Tier_Gold_To_Silver_LY_2_Revenue) + $(v_Customer_Chain_Tier_Silver_To_Silver_LY_2_Revenue) + $(v_Customer_Chain_Tier_Bronze_To_Silver_LY_2_Revenue)) - ($(v_Customer_Chain_Tier_Silver_LY_2_Revenue))) / ($(v_Customer_Chain_Tier_Silver_LY_2_Revenue)) ,Text('#,##0.0' & '%'))\n         )\n        \n)",
+                "qNumFormat": {
+                  "qType": "U",
+                  "qnDec": 2,
+                  "qUseThou": 0,
+                  "qDec": ".",
+                  "qThou": ","
+                },
+                "qAccumulate": 0,
+                "qActiveExpression": 0,
+                "qExpressions": [],
+                "qLabelExpression": "='Silver '&'$(v_Max_Year_LY)'",
+                "autoSort": true,
+                "cId": "CwpgN",
+                "numFormatFromTemplate": true,
+                "isCustomFormatted": true
+              },
+              "qSortBy": {
+                "qSortByNumeric": -1,
+                "qSortByLoadOrder": 1,
+                "qExpression": {}
+              },
+              "qAttributeExpressions": [
+                {
+                  "qExpression": "=Pick\r\n(\n\t[CustomerPyramidTiersRevenue]\n       \n        ,lightRed()\n        ,lightRed()\n        ,white()\n        ,green()\n        ,Green()\n        ,rgb(70,130,180)\n        ,rgb(70,130,180)\n        ,rgb(70,130,180)          \n\n\n)\n",
+                  "qAttribute": true
+                },
+                {
+                  "qAttribute": true
+                }
+              ],
+              "qAttributeDimensions": [],
+              "qCalcCond": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qTrendLines": [],
+              "qMiniChartDef": {
+                "qSortBy": {
+                  "qExpression": {}
+                },
+                "qOtherTotalSpec": {
+                  "qOtherMode": "OTHER_OFF",
+                  "qOtherCounted": {},
+                  "qOtherLimit": {},
+                  "qOtherLimitMode": "OTHER_GT_LIMIT",
+                  "qForceBadValueKeeping": true,
+                  "qApplyEvenWhenPossiblyWrongResult": true,
+                  "qOtherSortMode": "OTHER_SORT_DESCENDING",
+                  "qTotalMode": "TOTAL_OFF",
+                  "qReferencedExpression": {}
+                },
+                "qMaxNumberPoints": -1,
+                "qAttributeExpressions": []
+              }
+            },
+            {
+              "qDef": {
+                "qTags": [],
+                "qGrouping": "N",
+                "qDef": "=Pick\r\n(\n\t[CustomerPyramidTiersRevenue]\n       \n        ,Pick(     // Platinum to Bronze\n        $(v_Selected_Measure_Cust_Key_Name)\n        \n\t\t,Num($(v_Customer_Tier_Platinum_To_Bronze_LY_2_Revenue) ,Text('#,##0.'))\n\t\t,Num($(v_Customer_Key_Tier_Platinum_To_Bronze_LY_2_Revenue) ,Text('#,##0.'))\n\t\t,Num($(v_Customer_Chain_Tier_Platinum_To_Bronze_LY_2_Revenue) ,Text('#,##0.'))\n         )\n         \n        ,Pick(\t\t//Gold to Bronze\n        $(v_Selected_Measure_Cust_Key_Name)\n        \n\t\t,Num($(v_Customer_Tier_Gold_To_Bronze_LY_2_Revenue) ,Text('#,##0.'))\n\t\t,Num($(v_Customer_Key_Tier_Gold_To_Bronze_LY_Revenue) ,Text('#,##0.'))\n\t\t,Num($(v_Customer_Chain_Tier_Gold_To_Bronze_LY_2_Revenue) ,Text('#,##0.'))\n         )\n         \n        ,Pick(\t\t//Silver to Bronze\n        $(v_Selected_Measure_Cust_Key_Name)\n        \n\t\t,Num($(v_Customer_Tier_Silver_To_Bronze_LY_2_Revenue) ,Text('#,##0.'))\n\t\t,Num($(v_Customer_Key_Tier_Silver_To_Bronze_LY_2_Revenue) ,Text('#,##0.'))\n\t\t,Num($(v_Customer_Chain_Tier_Silver_To_Bronze_LY_2_Revenue) ,Text('#,##0.'))\n         )\n        \n        ,Pick(\t\t//Bronze to Bronze\n        $(v_Selected_Measure_Cust_Key_Name)\n        \n\t\t,Num($(v_Customer_Tier_Bronze_To_Bronze_LY_2_Revenue) ,Text('#,##0.'))\n\t\t,Num($(v_Customer_Key_Tier_Bronze_To_Bronze_LY_2_Revenue) ,Text('#,##0.'))\n\t\t,Num($(v_Customer_Chain_Tier_Bronze_To_Bronze_LY_2_Revenue) ,Text('#,##0.'))\n         )\n        \n        ,0\n\t\t\n\t\t,Pick(     // Total to Bronze\n        $(v_Selected_Measure_Cust_Key_Name)\n        \n\t\t,Num($(v_Customer_Tier_Platinum_To_Bronze_LY_2_Revenue) + $(v_Customer_Tier_Gold_To_Bronze_LY_2_Revenue) + $(v_Customer_Tier_Silver_To_Bronze_LY_2_Revenue) + $(v_Customer_Tier_Bronze_To_Bronze_LY_2_Revenue) ,Text('#,##0.'))\n\t\t,Num($(v_Customer_Key_Tier_Platinum_To_Bronze_LY_2_Revenue) + $(v_Customer_Key_Tier_Gold_To_Bronze_LY_Revenue) + $(v_Customer_Key_Tier_Silver_To_Bronze_LY_2_Revenue) + $(v_Customer_Key_Tier_Bronze_To_Bronze_LY_2_Revenue) ,Text('#,##0.'))\n\t\t,Num($(v_Customer_Chain_Tier_Platinum_To_Bronze_LY_2_Revenue) + $(v_Customer_Chain_Tier_Gold_To_Bronze_LY_2_Revenue) + $(v_Customer_Chain_Tier_Silver_To_Bronze_LY_2_Revenue) + $(v_Customer_Chain_Tier_Bronze_To_Bronze_LY_2_Revenue) ,Text('#,##0.'))\n         )\n\t\t\n\t\t\n\t\t,Pick(     // Variance to Bronze\n        $(v_Selected_Measure_Cust_Key_Name)\n        \n\t\t,Num(($(v_Customer_Tier_Platinum_To_Bronze_LY_2_Revenue) + $(v_Customer_Tier_Gold_To_Bronze_LY_2_Revenue) + $(v_Customer_Tier_Silver_To_Bronze_LY_2_Revenue) + $(v_Customer_Tier_Bronze_To_Bronze_LY_2_Revenue)) - ($(v_Customer_Tier_Bronze_LY_2_Revenue)) ,Text('#,##0.'))\n\t\t,Num(($(v_Customer_Key_Tier_Platinum_To_Bronze_LY_2_Revenue) + $(v_Customer_Key_Tier_Gold_To_Bronze_LY_Revenue) + $(v_Customer_Key_Tier_Silver_To_Bronze_LY_2_Revenue) + $(v_Customer_Key_Tier_Bronze_To_Bronze_LY_2_Revenue))  - ($(v_Customer_Key_Tier_Bronze_LY_2_Revenue)),Text('#,##0.'))\n\t\t,Num(($(v_Customer_Chain_Tier_Platinum_To_Bronze_LY_2_Revenue) + $(v_Customer_Chain_Tier_Gold_To_Bronze_LY_2_Revenue) + $(v_Customer_Chain_Tier_Silver_To_Bronze_LY_2_Revenue) + $(v_Customer_Chain_Tier_Bronze_To_Bronze_LY_2_Revenue)) - ($(v_Customer_Chain_Tier_Bronze_LY_2_Revenue)) ,Text('#,##0.'))\n         )\n\t\t,Pick(     // Variance %\n        $(v_Selected_Measure_Cust_Key_Name)\n        \n\t\t,Num((($(v_Customer_Tier_Platinum_To_Bronze_LY_2_Revenue) + $(v_Customer_Tier_Gold_To_Bronze_LY_2_Revenue) + $(v_Customer_Tier_Silver_To_Bronze_LY_2_Revenue) + $(v_Customer_Tier_Bronze_To_Bronze_LY_2_Revenue)) - ($(v_Customer_Tier_Bronze_LY_2_Revenue))) / ($(v_Customer_Tier_Bronze_LY_2_Revenue)),Text('#,##0.0' & '%'))\n\t\t,Num((($(v_Customer_Key_Tier_Platinum_To_Bronze_LY_2_Revenue) + $(v_Customer_Key_Tier_Gold_To_Bronze_LY_Revenue) + $(v_Customer_Key_Tier_Silver_To_Bronze_LY_2_Revenue) + $(v_Customer_Key_Tier_Bronze_To_Bronze_LY_2_Revenue))  - ($(v_Customer_Key_Tier_Bronze_LY_2_Revenue))) / ($(v_Customer_Key_Tier_Bronze_LY_2_Revenue)),Text('#,##0.0' & '%'))\n\t\t,Num((($(v_Customer_Chain_Tier_Platinum_To_Bronze_LY_2_Revenue) + $(v_Customer_Chain_Tier_Gold_To_Bronze_LY_2_Revenue) + $(v_Customer_Chain_Tier_Silver_To_Bronze_LY_2_Revenue) + $(v_Customer_Chain_Tier_Bronze_To_Bronze_LY_2_Revenue)) - ($(v_Customer_Chain_Tier_Bronze_LY_2_Revenue))) / ($(v_Customer_Chain_Tier_Bronze_LY_2_Revenue)) ,Text('#,##0.0' & '%'))\n         )\n        \n)",
+                "qNumFormat": {
+                  "qType": "U",
+                  "qnDec": 2,
+                  "qUseThou": 0,
+                  "qDec": ".",
+                  "qThou": ","
+                },
+                "qAccumulate": 0,
+                "qActiveExpression": 0,
+                "qExpressions": [],
+                "qLabelExpression": "='Bronze '&'$(v_Max_Year_LY)'",
+                "autoSort": true,
+                "cId": "zKXja",
+                "numFormatFromTemplate": true,
+                "isCustomFormatted": true
+              },
+              "qSortBy": {
+                "qSortByNumeric": -1,
+                "qSortByLoadOrder": 1,
+                "qExpression": {}
+              },
+              "qAttributeExpressions": [
+                {
+                  "qExpression": "=Pick\r\n(\n\t[CustomerPyramidTiersRevenue]\n       \n        ,lightRed()\n        ,lightRed()\n        ,lightRed()\n        ,white()\n        ,Green()\n        ,rgb(70,130,180)\n        ,rgb(70,130,180)\n        ,rgb(70,130,180)\n\n)\n",
+                  "qAttribute": true
+                },
+                {
+                  "qAttribute": true
+                }
+              ],
+              "qAttributeDimensions": [],
+              "qCalcCond": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qTrendLines": [],
+              "qMiniChartDef": {
+                "qSortBy": {
+                  "qExpression": {}
+                },
+                "qOtherTotalSpec": {
+                  "qOtherMode": "OTHER_OFF",
+                  "qOtherCounted": {},
+                  "qOtherLimit": {},
+                  "qOtherLimitMode": "OTHER_GT_LIMIT",
+                  "qForceBadValueKeeping": true,
+                  "qApplyEvenWhenPossiblyWrongResult": true,
+                  "qOtherSortMode": "OTHER_SORT_DESCENDING",
+                  "qTotalMode": "TOTAL_OFF",
+                  "qReferencedExpression": {}
+                },
+                "qMaxNumberPoints": -1,
+                "qAttributeExpressions": []
+              }
+            },
+            {
+              "qDef": {
+                "qTags": [],
+                "qGrouping": "N",
+                "qDef": "=Pick\r\n(\n\t[CustomerPyramidTiersRevenue]\n       \n        ,0\n        ,0\n        ,0\n        ,0\n        ,0\n        ,0\n        ,0\n        ,0\n        \n)\n",
+                "qNumFormat": {
+                  "qType": "F",
+                  "qnDec": 2,
+                  "qUseThou": 0,
+                  "qFmt": "#,##0",
+                  "qDec": ".",
+                  "qThou": ","
+                },
+                "qAccumulate": 0,
+                "qActiveExpression": 0,
+                "qExpressions": [],
+                "qLabelExpression": "='Inactive '&'$(v_Max_Year_LY)'",
+                "autoSort": true,
+                "cId": "qNkbT",
+                "numFormatFromTemplate": true,
+                "isCustomFormatted": false
+              },
+              "qSortBy": {
+                "qSortByNumeric": -1,
+                "qSortByLoadOrder": 1,
+                "qExpression": {}
+              },
+              "qAttributeExpressions": [
+                {
+                  "qExpression": "=Pick\r\n(\n\t[CustomerPyramidTiersRevenue]\n       \n        ,lightRed()\n        ,lightRed()\n        ,lightRed()\n        ,lightRed()\n        ,white()\n        ,rgb(70,130,180)\n        ,rgb(70,130,180)\n        ,rgb(70,130,180)\n\n\n)\n",
+                  "qAttribute": true
+                },
+                {
+                  "qAttribute": true
+                }
+              ],
+              "qAttributeDimensions": [],
+              "qCalcCond": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qTrendLines": [],
+              "qMiniChartDef": {
+                "qSortBy": {
+                  "qExpression": {}
+                },
+                "qOtherTotalSpec": {
+                  "qOtherMode": "OTHER_OFF",
+                  "qOtherCounted": {},
+                  "qOtherLimit": {},
+                  "qOtherLimitMode": "OTHER_GT_LIMIT",
+                  "qForceBadValueKeeping": true,
+                  "qApplyEvenWhenPossiblyWrongResult": true,
+                  "qOtherSortMode": "OTHER_SORT_DESCENDING",
+                  "qTotalMode": "TOTAL_OFF",
+                  "qReferencedExpression": {}
+                },
+                "qMaxNumberPoints": -1,
+                "qAttributeExpressions": []
+              }
+            },
+            {
+              "qDef": {
+                "qTags": [],
+                "qGrouping": "N",
+                "qDef": "\r\n=Pick\n(\n\t[CustomerPyramidTiersRevenue]\n       \n        ,(Column(2) + Column(3) + Column(4) + Column(5) + Column(6))\n        ,(Column(2) + Column(3) + Column(4) + Column(5) + Column(6))\n        ,(Column(2) + Column(3) + Column(4) + Column(5) + Column(6))\n        ,(Column(2) + Column(3) + Column(4) + Column(5) + Column(6))\n        ,(Column(2) + Column(3) + Column(4) + Column(5) + Column(6))\n        ,(Column(2) + Column(3) + Column(4) + Column(5) + Column(6))\n        ,0\n        ,0\n)\n",
+                "qNumFormat": {
+                  "qType": "F",
+                  "qnDec": 2,
+                  "qUseThou": 0,
+                  "qFmt": "#,##0",
+                  "qDec": ".",
+                  "qThou": ","
+                },
+                "qAccumulate": 0,
+                "qActiveExpression": 0,
+                "qExpressions": [],
+                "qLabelExpression": "= 'Total ' & $(v_Max_Year_LY)",
+                "autoSort": true,
+                "cId": "VfbJxW",
+                "numFormatFromTemplate": true,
+                "isCustomFormatted": false
+              },
+              "qSortBy": {
+                "qSortByNumeric": -1,
+                "qSortByLoadOrder": 1,
+                "qExpression": {}
+              },
+              "qAttributeExpressions": [
+                {
+                  "qExpression": "rgb(70,130,180)",
+                  "qAttribute": true
+                },
+                {
+                  "qAttribute": true
+                }
+              ],
+              "qAttributeDimensions": [],
+              "qCalcCond": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qTrendLines": [],
+              "qMiniChartDef": {
+                "qSortBy": {
+                  "qExpression": {}
+                },
+                "qOtherTotalSpec": {
+                  "qOtherMode": "OTHER_OFF",
+                  "qOtherCounted": {},
+                  "qOtherLimit": {},
+                  "qOtherLimitMode": "OTHER_GT_LIMIT",
+                  "qForceBadValueKeeping": true,
+                  "qApplyEvenWhenPossiblyWrongResult": true,
+                  "qOtherSortMode": "OTHER_SORT_DESCENDING",
+                  "qTotalMode": "TOTAL_OFF",
+                  "qReferencedExpression": {}
+                },
+                "qMaxNumberPoints": -1,
+                "qAttributeExpressions": []
+              }
+            },
+            {
+              "qDef": {
+                "qLabel": "Variance",
+                "qTags": [],
+                "qGrouping": "N",
+                "qDef": "=Pick\r\n(\n\t[CustomerPyramidTiersRevenue]\n       \n        ,(Column(7) - Column(1))\n\t\t,(Column(7) - Column(1))\n        ,(Column(7) - Column(1))\n        ,(Column(7) - Column(1))\n        ,(Column(7) - Column(1))\n        ,(Column(7) - Column(1))\n        ,0\n        ,0\n)\n",
+                "qNumFormat": {
+                  "qType": "F",
+                  "qnDec": 2,
+                  "qUseThou": 0,
+                  "qFmt": "#,##0",
+                  "qDec": ".",
+                  "qThou": ","
+                },
+                "qAccumulate": 0,
+                "qActiveExpression": 0,
+                "qExpressions": [],
+                "autoSort": true,
+                "cId": "aTuEHAm",
+                "numFormatFromTemplate": true,
+                "isCustomFormatted": false
+              },
+              "qSortBy": {
+                "qSortByNumeric": -1,
+                "qSortByLoadOrder": 1,
+                "qExpression": {}
+              },
+              "qAttributeExpressions": [
+                {
+                  "qExpression": "rgb(70,130,180)",
+                  "qAttribute": true
+                },
+                {
+                  "qAttribute": true
+                }
+              ],
+              "qAttributeDimensions": [],
+              "qCalcCond": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qTrendLines": [],
+              "qMiniChartDef": {
+                "qSortBy": {
+                  "qExpression": {}
+                },
+                "qOtherTotalSpec": {
+                  "qOtherMode": "OTHER_OFF",
+                  "qOtherCounted": {},
+                  "qOtherLimit": {},
+                  "qOtherLimitMode": "OTHER_GT_LIMIT",
+                  "qForceBadValueKeeping": true,
+                  "qApplyEvenWhenPossiblyWrongResult": true,
+                  "qOtherSortMode": "OTHER_SORT_DESCENDING",
+                  "qTotalMode": "TOTAL_OFF",
+                  "qReferencedExpression": {}
+                },
+                "qMaxNumberPoints": -1,
+                "qAttributeExpressions": []
+              }
+            },
+            {
+              "qDef": {
+                "qLabel": "Var %",
+                "qTags": [],
+                "qGrouping": "N",
+                "qDef": "=Pick\r\n(\n\t[CustomerPyramidTiersRevenue]\n       \n        ,(Column(8)/Column(1))\n\t\t,(Column(8)/Column(1))\n        ,(Column(8)/Column(1))\n        ,(Column(8)/Column(1))\n        ,0\n        ,(Column(8)/Column(1))\n        ,0\n        ,0\n)\n",
+                "qNumFormat": {
+                  "qType": "F",
+                  "qnDec": 2,
+                  "qUseThou": 0,
+                  "qFmt": "0.0%",
+                  "qDec": ".",
+                  "qThou": ","
+                },
+                "qAccumulate": 0,
+                "qActiveExpression": 0,
+                "qExpressions": [],
+                "autoSort": true,
+                "cId": "bvJqZ",
+                "numFormatFromTemplate": true,
+                "isCustomFormatted": false
+              },
+              "qSortBy": {
+                "qSortByNumeric": -1,
+                "qSortByLoadOrder": 1,
+                "qExpression": {}
+              },
+              "qAttributeExpressions": [
+                {
+                  "qExpression": " rgb(70,130,180)",
+                  "qAttribute": true
+                },
+                {
+                  "qAttribute": true
+                }
+              ],
+              "qAttributeDimensions": [],
+              "qCalcCond": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qTrendLines": [],
+              "qMiniChartDef": {
+                "qSortBy": {
+                  "qExpression": {}
+                },
+                "qOtherTotalSpec": {
+                  "qOtherMode": "OTHER_OFF",
+                  "qOtherCounted": {},
+                  "qOtherLimit": {},
+                  "qOtherLimitMode": "OTHER_GT_LIMIT",
+                  "qForceBadValueKeeping": true,
+                  "qApplyEvenWhenPossiblyWrongResult": true,
+                  "qOtherSortMode": "OTHER_SORT_DESCENDING",
+                  "qTotalMode": "TOTAL_OFF",
+                  "qReferencedExpression": {}
+                },
+                "qMaxNumberPoints": -1,
+                "qAttributeExpressions": []
+              }
+            }
+          ],
+          "qInterColumnSortOrder": [
+            0,
+            -1
+          ],
+          "qSuppressMissing": true,
+          "qInitialDataFetch": [
+            {
+              "qLeft": 0,
+              "qTop": 0,
+              "qWidth": 50,
+              "qHeight": 50
+            }
+          ],
+          "qReductionMode": "N",
+          "qMode": "P",
+          "qPseudoDimPos": -1,
+          "qNoOfLeftDims": 1,
+          "qMaxStackedCells": 5000,
+          "qShowTotalsAbove": true,
+          "qIndentMode": true,
+          "qCalcCond": {},
+          "qTitle": {},
+          "qCalcCondition": {
+            "qCond": {},
+            "qMsg": {}
+          },
+          "qColumnOrder": [],
+          "qExpansionState": [],
+          "columnWidths": [
+            [
+              272
+            ],
+            [
+              null
+            ]
+          ],
+          "qLayoutExclude": {
+            "qHyperCubeDef": {
+              "qDimensions": [],
+              "qMeasures": [],
+              "qInterColumnSortOrder": [],
+              "qInitialDataFetch": [],
+              "qReductionMode": "N",
+              "qMode": "S",
+              "qPseudoDimPos": -1,
+              "qNoOfLeftDims": -1,
+              "qMaxStackedCells": 5000,
+              "qCalcCond": {},
+              "qTitle": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qColumnOrder": [],
+              "qExpansionState": []
+            }
+          }
+        },
+        "showTitles": true,
+        "title": "",
+        "subtitle": "",
+        "footnote": "",
+        "showDetails": false,
+        "visualization": "pivot-table"
+      },
+      "qChildren": []
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "VygVek",
+          "qType": "pivot-table"
+        },
+        "qMetaDef": {},
+        "qHyperCubeDef": {
+          "qDimensions": [
+            {
+              "qDef": {
+                "qGrouping": "N",
+                "qFieldDefs": [
+                  "=[CustomerPyramidTiers]"
+                ],
+                "qFieldLabels": [
+                  "Customer Pyramid"
+                ],
+                "qSortCriterias": [
+                  {
+                    "qSortByNumeric": 1,
+                    "qSortByAscii": 1,
+                    "qSortByLoadOrder": 1,
+                    "qExpression": {}
+                  }
+                ],
+                "qNumberPresentations": [],
+                "qActiveField": 0,
+                "autoSort": true,
+                "cId": "BbEqH",
+                "othersLabel": "Others"
+              },
+              "qOtherTotalSpec": {
+                "qOtherMode": "OTHER_OFF",
+                "qOtherCounted": {
+                  "qv": "10"
+                },
+                "qOtherLimit": {
+                  "qv": "0"
+                },
+                "qOtherLimitMode": "OTHER_GE_LIMIT",
+                "qForceBadValueKeeping": true,
+                "qApplyEvenWhenPossiblyWrongResult": true,
+                "qOtherSortMode": "OTHER_SORT_DESCENDING",
+                "qTotalMode": "TOTAL_OFF",
+                "qReferencedExpression": {}
+              },
+              "qOtherLabel": {
+                "qv": "Others"
+              },
+              "qTotalLabel": {
+                "qv": "Totals"
+              },
+              "qCalcCond": {},
+              "qAttributeExpressions": [],
+              "qAttributeDimensions": [],
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              }
+            }
+          ],
+          "qMeasures": [
+            {
+              "qDef": {
+                "qTags": [],
+                "qGrouping": "N",
+                "qDef": "=Pick\r\n(\n\t[CustomerPyramidTiers]\n       \n        ,Pick(     // Platinum\n        $(v_Selected_Measure_Cust_Key_Name)\n        \n\t\t,$(v_Customer_Tier_Platinum_LY_2)\n\t\t,$(v_Customer_Key_Tier_Platinum_LY_2)\n\t\t,$(v_Customer_Chain_Tier_Platinum_LY_2)\n         )\n         \n        ,Pick(\t\t//Gold\n        $(v_Selected_Measure_Cust_Key_Name)\n        \n\t\t,$(v_Customer_Tier_Gold_LY_2)\n\t\t,$(v_Customer_Key_Tier_Gold_LY_2)\n\t\t,$(v_Customer_Chain_Tier_Gold_LY_2)\n         )\n         \n        ,Pick(\t\t//Silver\n        $(v_Selected_Measure_Cust_Key_Name)\n        \n\t\t,$(v_Customer_Tier_Silver_LY_2)\n\t\t,$(v_Customer_Key_Tier_Silver_LY_2)\n\t\t,$(v_Customer_Chain_Tier_Silver_LY_2)\n         )\n        \n        ,Pick(\t\t//Bronze\n        $(v_Selected_Measure_Cust_Key_Name)\n        \n\t\t,$(v_Customer_Tier_Bronze_LY_2)\n\t\t,$(v_Customer_Key_Tier_Bronze_LY_2)\n\t\t,$(v_Customer_Chain_Tier_Bronze_LY_2)\n         )\n        \n        ,0\n        \n)\n",
+                "qNumFormat": {
+                  "qType": "F",
+                  "qnDec": 2,
+                  "qUseThou": 0,
+                  "qFmt": "#,##0",
+                  "qDec": ".",
+                  "qThou": ","
+                },
+                "qAccumulate": 0,
+                "qActiveExpression": 0,
+                "qExpressions": [],
+                "qLabelExpression": "= $(v_Max_Year_LY_2)",
+                "autoSort": true,
+                "cId": "wbZLgp",
+                "numFormatFromTemplate": true,
+                "isCustomFormatted": false
+              },
+              "qSortBy": {
+                "qSortByNumeric": -1,
+                "qSortByLoadOrder": 1,
+                "qExpression": {}
+              },
+              "qAttributeExpressions": [
+                {
+                  "qExpression": "=Pick\r\n(\n\t[CustomerPyramidTiers]\n       \n,rgb(125,125,125),\nrgb(125,125,125),\nrgb(125,125,125),\nrgb(125,125,125),\nrgb(125,125,125)\n\n)\n",
+                  "qAttribute": true
+                },
+                {
+                  "qExpression": "White()",
+                  "qAttribute": true
+                }
+              ],
+              "qAttributeDimensions": [],
+              "qCalcCond": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qTrendLines": [],
+              "qMiniChartDef": {
+                "qSortBy": {
+                  "qExpression": {}
+                },
+                "qOtherTotalSpec": {
+                  "qOtherMode": "OTHER_OFF",
+                  "qOtherCounted": {},
+                  "qOtherLimit": {},
+                  "qOtherLimitMode": "OTHER_GT_LIMIT",
+                  "qForceBadValueKeeping": true,
+                  "qApplyEvenWhenPossiblyWrongResult": true,
+                  "qOtherSortMode": "OTHER_SORT_DESCENDING",
+                  "qTotalMode": "TOTAL_OFF",
+                  "qReferencedExpression": {}
+                },
+                "qMaxNumberPoints": -1,
+                "qAttributeExpressions": []
+              }
+            },
+            {
+              "qDef": {
+                "qTags": [],
+                "qGrouping": "N",
+                "qDef": "=Pick\r\n(\n\t[CustomerPyramidTiers]\n       \n        ,Pick(\t\t//Platinum to Platinum\n        $(v_Selected_Measure_Cust_Key_Name)\n\t\t,$(v_Customer_Tier_Platinum_To_Platinum_LY)\n        ,$(v_Customer_Key_Tier_Platinum_To_Platinum_LY)\n        ,$(v_Customer_Chain_Tier_Platinum_To_Platinum_LY)\n        )\n        ,Pick(\t\t//Gold to Platinum\n        $(v_Selected_Measure_Cust_Key_Name)\n\t\t,$(v_Customer_Tier_Gold_To_Platinum_LY)\n        ,$(v_Customer_Key_Tier_Gold_To_Platinum_LY)\n        ,$(v_Customer_Chain_Tier_Gold_To_Platinum_LY)\n        )\n        ,Pick(\t\t//Silver to Platinum\n        $(v_Selected_Measure_Cust_Key_Name)\n\t\t,$(v_Customer_Tier_Silver_To_Platinum_LY)\n        ,$(v_Customer_Key_Tier_Silver_To_Platinum_LY)\n        ,$(v_Customer_Chain_Tier_Silver_To_Platinum_LY)\n        )\n        ,Pick(\t\t//Bronze to Platinum\n        $(v_Selected_Measure_Cust_Key_Name)\n\t\t,$(v_Customer_Tier_Bronze_To_Platinum_LY)\n        ,$(v_Customer_Key_Tier_Bronze_To_Platinum_LY)\n        ,$(v_Customer_Chain_Tier_Bronze_To_Platinum_LY)\n        )\n        ,0\n        \n)\n",
+                "qNumFormat": {
+                  "qType": "F",
+                  "qnDec": 2,
+                  "qUseThou": 0,
+                  "qFmt": "#,##0",
+                  "qDec": ".",
+                  "qThou": ","
+                },
+                "qAccumulate": 0,
+                "qActiveExpression": 0,
+                "qExpressions": [],
+                "qLabelExpression": "='Platinum '&'$(v_Max_Year_LY)'",
+                "autoSort": true,
+                "cId": "aanjRJ",
+                "numFormatFromTemplate": true,
+                "isCustomFormatted": false
+              },
+              "qSortBy": {
+                "qSortByNumeric": -1,
+                "qSortByLoadOrder": 1,
+                "qExpression": {}
+              },
+              "qAttributeExpressions": [
+                {
+                  "qExpression": "=Pick\r\n(\n\t[CustomerPyramidTiers]\n       \n        ,white()\n        ,green()\n        ,green()\n        ,green()\n        ,green()\n\n)\n",
+                  "qAttribute": true
+                },
+                {
+                  "qAttribute": true
+                }
+              ],
+              "qAttributeDimensions": [],
+              "qCalcCond": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qTrendLines": [],
+              "qMiniChartDef": {
+                "qSortBy": {
+                  "qExpression": {}
+                },
+                "qOtherTotalSpec": {
+                  "qOtherMode": "OTHER_OFF",
+                  "qOtherCounted": {},
+                  "qOtherLimit": {},
+                  "qOtherLimitMode": "OTHER_GT_LIMIT",
+                  "qForceBadValueKeeping": true,
+                  "qApplyEvenWhenPossiblyWrongResult": true,
+                  "qOtherSortMode": "OTHER_SORT_DESCENDING",
+                  "qTotalMode": "TOTAL_OFF",
+                  "qReferencedExpression": {}
+                },
+                "qMaxNumberPoints": -1,
+                "qAttributeExpressions": []
+              }
+            },
+            {
+              "qDef": {
+                "qTags": [],
+                "qGrouping": "N",
+                "qDef": "=Pick\r\n(\n\t[CustomerPyramidTiers]\n       \n        ,Pick(\t\t//Platinum to Gold\n        $(v_Selected_Measure_Cust_Key_Name)\n\t\t,$(v_Customer_Tier_Platinum_To_Gold_LY)\n        ,$(v_Customer_Key_Tier_Platinum_To_Gold_LY)\n        ,$(v_Customer_Chain_Tier_Platinum_To_Gold_LY)\n        )\n        ,Pick(\t\t//Gold to Gold\n        $(v_Selected_Measure_Cust_Key_Name)\n\t\t,$(v_Customer_Tier_Gold_To_Gold_LY)\n        ,$(v_Customer_Key_Tier_Gold_To_Gold_LY)\n        ,$(v_Customer_Chain_Tier_Gold_To_Gold_LY)\n        )\n        ,Pick(\t\t//Silver to Gold\n        $(v_Selected_Measure_Cust_Key_Name)\n\t\t,$(v_Customer_Tier_Silver_To_Gold_LY)\n        ,$(v_Customer_Key_Tier_Silver_To_Gold_LY)\n        ,$(v_Customer_Chain_Tier_Silver_To_Gold_LY)\n        )\n        ,Pick(\t\t//Bronze to Gold\n        $(v_Selected_Measure_Cust_Key_Name)\n\t\t,$(v_Customer_Tier_Bronze_To_Gold_LY)\n        ,$(v_Customer_Key_Tier_Bronze_To_Gold_LY)\n        ,$(v_Customer_Chain_Tier_Bronze_To_Gold_LY)\n        )\n        ,0\n        \n)\n",
+                "qNumFormat": {
+                  "qType": "F",
+                  "qnDec": 2,
+                  "qUseThou": 0,
+                  "qFmt": "#,##0",
+                  "qDec": ".",
+                  "qThou": ","
+                },
+                "qAccumulate": 0,
+                "qActiveExpression": 0,
+                "qExpressions": [],
+                "qLabelExpression": "='Gold '&'$(v_Max_Year_LY)'",
+                "autoSort": true,
+                "cId": "SpSXPR",
+                "numFormatFromTemplate": true,
+                "isCustomFormatted": false
+              },
+              "qSortBy": {
+                "qSortByNumeric": -1,
+                "qSortByLoadOrder": 1,
+                "qExpression": {}
+              },
+              "qAttributeExpressions": [
+                {
+                  "qExpression": "=Pick\r\n(\n\t[CustomerPyramidTiers]\n       \n        ,lightRed()\n        ,white()\n        ,green()\n        ,green()\n        ,Green()\n\n)\n",
+                  "qAttribute": true
+                },
+                {
+                  "qAttribute": true
+                }
+              ],
+              "qAttributeDimensions": [],
+              "qCalcCond": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qTrendLines": [],
+              "qMiniChartDef": {
+                "qSortBy": {
+                  "qExpression": {}
+                },
+                "qOtherTotalSpec": {
+                  "qOtherMode": "OTHER_OFF",
+                  "qOtherCounted": {},
+                  "qOtherLimit": {},
+                  "qOtherLimitMode": "OTHER_GT_LIMIT",
+                  "qForceBadValueKeeping": true,
+                  "qApplyEvenWhenPossiblyWrongResult": true,
+                  "qOtherSortMode": "OTHER_SORT_DESCENDING",
+                  "qTotalMode": "TOTAL_OFF",
+                  "qReferencedExpression": {}
+                },
+                "qMaxNumberPoints": -1,
+                "qAttributeExpressions": []
+              }
+            },
+            {
+              "qDef": {
+                "qTags": [],
+                "qGrouping": "N",
+                "qDef": "=Pick\r\n(\n\t[CustomerPyramidTiers]\n       \n        ,Pick(\t\t//Platinum to Silver\n        $(v_Selected_Measure_Cust_Key_Name)\n\t\t,$(v_Customer_Tier_Platinum_To_Silver_LY)\n        ,$(v_Customer_Key_Tier_Platinum_To_Silver_LY)\n        ,$(v_Customer_Chain_Tier_Platinum_To_Silver_LY)\n        )\n        ,Pick(\t\t//Gold to Silver\n        $(v_Selected_Measure_Cust_Key_Name)\n\t\t,$(v_Customer_Tier_Gold_To_Silver_LY)\n        ,$(v_Customer_Key_Tier_Gold_To_Silver_LY)\n        ,$(v_Customer_Chain_Tier_Gold_To_Silver_LY)\n        )\n        ,Pick(\t\t//Silver to Silver\n        $(v_Selected_Measure_Cust_Key_Name)\n\t\t,$(v_Customer_Tier_Silver_To_Silver_LY)\n        ,$(v_Customer_Key_Tier_Silver_To_Silver_LY)\n        ,$(v_Customer_Chain_Tier_Silver_To_Silver_LY)\n        )\n        ,Pick(\t\t//Bronze to Silver\n        $(v_Selected_Measure_Cust_Key_Name)\n\t\t,$(v_Customer_Tier_Bronze_To_Silver_LY)\n        ,$(v_Customer_Key_Tier_Bronze_To_Silver_LY)\n        ,$(v_Customer_Chain_Tier_Bronze_To_Silver_LY)\n        )\n        ,0\n        \n)\n",
+                "qNumFormat": {
+                  "qType": "F",
+                  "qnDec": 2,
+                  "qUseThou": 0,
+                  "qFmt": "#,##0",
+                  "qDec": ".",
+                  "qThou": ","
+                },
+                "qAccumulate": 0,
+                "qActiveExpression": 0,
+                "qExpressions": [],
+                "qLabelExpression": "='Silver '&'$(v_Max_Year_LY)'",
+                "autoSort": true,
+                "cId": "CwpgN",
+                "numFormatFromTemplate": true,
+                "isCustomFormatted": false
+              },
+              "qSortBy": {
+                "qSortByNumeric": -1,
+                "qSortByLoadOrder": 1,
+                "qExpression": {}
+              },
+              "qAttributeExpressions": [
+                {
+                  "qExpression": "=Pick\r\n(\n\t[CustomerPyramidTiers]\n       \n        ,lightRed()\n        ,lightRed()\n        ,white()\n        ,green()\n        ,Green()\n\n)\n",
+                  "qAttribute": true
+                },
+                {
+                  "qAttribute": true
+                }
+              ],
+              "qAttributeDimensions": [],
+              "qCalcCond": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qTrendLines": [],
+              "qMiniChartDef": {
+                "qSortBy": {
+                  "qExpression": {}
+                },
+                "qOtherTotalSpec": {
+                  "qOtherMode": "OTHER_OFF",
+                  "qOtherCounted": {},
+                  "qOtherLimit": {},
+                  "qOtherLimitMode": "OTHER_GT_LIMIT",
+                  "qForceBadValueKeeping": true,
+                  "qApplyEvenWhenPossiblyWrongResult": true,
+                  "qOtherSortMode": "OTHER_SORT_DESCENDING",
+                  "qTotalMode": "TOTAL_OFF",
+                  "qReferencedExpression": {}
+                },
+                "qMaxNumberPoints": -1,
+                "qAttributeExpressions": []
+              }
+            },
+            {
+              "qDef": {
+                "qTags": [],
+                "qGrouping": "N",
+                "qDef": "=Pick\r\n(\n\t[CustomerPyramidTiers]\n       \n        ,Pick(\t\t//Platinum to Bronze\n        $(v_Selected_Measure_Cust_Key_Name)\n\t\t,$(v_Customer_Tier_Platinum_To_Bronze_LY)\n        ,$(v_Customer_Key_Tier_Platinum_To_Bronze_LY)\n        ,$(v_Customer_Chain_Tier_Platinum_To_Bronze_LY)\n        )\n        ,Pick(\t\t//Gold to Bronze\n        $(v_Selected_Measure_Cust_Key_Name)\n\t\t,$(v_Customer_Tier_Gold_To_Bronze_LY)\n        ,$(v_Customer_Key_Tier_Gold_To_Bronze_LY)\n        ,$(v_Customer_Chain_Tier_Gold_To_Bronze_LY)\n        )\n        ,Pick(\t\t//Silver to Bronze\n        $(v_Selected_Measure_Cust_Key_Name)\n\t\t,$(v_Customer_Tier_Silver_To_Bronze_LY)\n        ,$(v_Customer_Key_Tier_Silver_To_Bronze_LY)\n        ,$(v_Customer_Chain_Tier_Silver_To_Bronze_LY)\n        )\n        ,Pick(\t\t//Bronze to Bronze\n        $(v_Selected_Measure_Cust_Key_Name)\n\t\t,$(v_Customer_Tier_Bronze_To_Bronze_LY)\n        ,$(v_Customer_Key_Tier_Bronze_To_Bronze_LY)\n        ,$(v_Customer_Chain_Tier_Bronze_To_Bronze_LY)\n        )\n        ,0\n        \n)\n",
+                "qNumFormat": {
+                  "qType": "F",
+                  "qnDec": 2,
+                  "qUseThou": 0,
+                  "qFmt": "#,##0",
+                  "qDec": ".",
+                  "qThou": ","
+                },
+                "qAccumulate": 0,
+                "qActiveExpression": 0,
+                "qExpressions": [],
+                "qLabelExpression": "='Bronze '&'$(v_Max_Year_LY)'",
+                "autoSort": true,
+                "cId": "zKXja",
+                "numFormatFromTemplate": true,
+                "isCustomFormatted": false
+              },
+              "qSortBy": {
+                "qSortByNumeric": -1,
+                "qSortByLoadOrder": 1,
+                "qExpression": {}
+              },
+              "qAttributeExpressions": [
+                {
+                  "qExpression": "=Pick\r\n(\n\t[CustomerPyramidTiers]\n       \n        ,lightRed()\n        ,lightRed()\n        ,lightRed()\n        ,white()\n        ,Green()\n\n)\n",
+                  "qAttribute": true
+                },
+                {
+                  "qAttribute": true
+                }
+              ],
+              "qAttributeDimensions": [],
+              "qCalcCond": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qTrendLines": [],
+              "qMiniChartDef": {
+                "qSortBy": {
+                  "qExpression": {}
+                },
+                "qOtherTotalSpec": {
+                  "qOtherMode": "OTHER_OFF",
+                  "qOtherCounted": {},
+                  "qOtherLimit": {},
+                  "qOtherLimitMode": "OTHER_GT_LIMIT",
+                  "qForceBadValueKeeping": true,
+                  "qApplyEvenWhenPossiblyWrongResult": true,
+                  "qOtherSortMode": "OTHER_SORT_DESCENDING",
+                  "qTotalMode": "TOTAL_OFF",
+                  "qReferencedExpression": {}
+                },
+                "qMaxNumberPoints": -1,
+                "qAttributeExpressions": []
+              }
+            },
+            {
+              "qDef": {
+                "qTags": [],
+                "qGrouping": "N",
+                "qDef": "=Pick\r\n(\n\t[CustomerPyramidTiers]\n       \n        ,Pick(\t\t//Platinum to Inactive\n        $(v_Selected_Measure_Cust_Key_Name)\n\t\t,$(v_Customer_Tier_Platinum_To_Inactive_LY)\n        ,$(v_Customer_Key_Tier_Platinum_To_Inactive_LY)\n        ,$(v_Customer_Chain_Tier_Platinum_To_Inactive_LY)\n        )\n        ,Pick(\t\t//Gold to Inactive\n        $(v_Selected_Measure_Cust_Key_Name)\n\t\t,$(v_Customer_Tier_Gold_To_Inactive_LY)\n        ,$(v_Customer_Key_Tier_Gold_To_Inactive_LY)\n        ,$(v_Customer_Chain_Tier_Gold_To_Inactive_LY)\n        )\n        ,Pick(\t\t//Silver to Inactive\n        $(v_Selected_Measure_Cust_Key_Name)\n\t\t,$(v_Customer_Tier_Silver_To_Inactive_LY)\n        ,$(v_Customer_Key_Tier_Silver_To_Inactive_LY)\n        ,$(v_Customer_Chain_Tier_Silver_To_Inactive_LY)\n        )\n        ,Pick(\t\t//Bronze to Inactive\n        $(v_Selected_Measure_Cust_Key_Name)\n\t\t,$(v_Customer_Tier_Bronze_To_Inactive_LY)\n        ,$(v_Customer_Key_Tier_Bronze_To_Inactive_LY)\n        ,$(v_Customer_Chain_Tier_Bronze_To_Inactive_LY)\n        )\n        ,0\n        \n)\n",
+                "qNumFormat": {
+                  "qType": "F",
+                  "qnDec": 2,
+                  "qUseThou": 0,
+                  "qFmt": "#,##0",
+                  "qDec": ".",
+                  "qThou": ","
+                },
+                "qAccumulate": 0,
+                "qActiveExpression": 0,
+                "qExpressions": [],
+                "qLabelExpression": "='Inactive '&'$(v_Max_Year_LY)'",
+                "autoSort": true,
+                "cId": "qNkbT",
+                "numFormatFromTemplate": true,
+                "isCustomFormatted": false
+              },
+              "qSortBy": {
+                "qSortByNumeric": -1,
+                "qSortByLoadOrder": 1,
+                "qExpression": {}
+              },
+              "qAttributeExpressions": [
+                {
+                  "qExpression": "=Pick\r\n(\n\t[CustomerPyramidTiers]\n       \n        ,LightRed()\n        ,LightRed()\n        ,LightRed()\n        ,LightRed()\n        ,white()\n\n)\n",
+                  "qAttribute": true
+                },
+                {
+                  "qAttribute": true
+                }
+              ],
+              "qAttributeDimensions": [],
+              "qCalcCond": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qTrendLines": [],
+              "qMiniChartDef": {
+                "qSortBy": {
+                  "qExpression": {}
+                },
+                "qOtherTotalSpec": {
+                  "qOtherMode": "OTHER_OFF",
+                  "qOtherCounted": {},
+                  "qOtherLimit": {},
+                  "qOtherLimitMode": "OTHER_GT_LIMIT",
+                  "qForceBadValueKeeping": true,
+                  "qApplyEvenWhenPossiblyWrongResult": true,
+                  "qOtherSortMode": "OTHER_SORT_DESCENDING",
+                  "qTotalMode": "TOTAL_OFF",
+                  "qReferencedExpression": {}
+                },
+                "qMaxNumberPoints": -1,
+                "qAttributeExpressions": []
+              }
+            }
+          ],
+          "qInterColumnSortOrder": [
+            0,
+            -1
+          ],
+          "qSuppressMissing": true,
+          "qInitialDataFetch": [
+            {
+              "qLeft": 0,
+              "qTop": 0,
+              "qWidth": 50,
+              "qHeight": 50
+            }
+          ],
+          "qReductionMode": "N",
+          "qMode": "P",
+          "qPseudoDimPos": -1,
+          "qNoOfLeftDims": 1,
+          "qMaxStackedCells": 5000,
+          "qShowTotalsAbove": true,
+          "qIndentMode": true,
+          "qCalcCond": {},
+          "qTitle": {},
+          "qCalcCondition": {
+            "qCond": {},
+            "qMsg": {}
+          },
+          "qColumnOrder": [],
+          "qExpansionState": [],
+          "columnWidths": [
+            [
+              280
+            ],
+            [
+              null
+            ]
+          ],
+          "qLayoutExclude": {
+            "qHyperCubeDef": {
+              "qDimensions": [],
+              "qMeasures": [],
+              "qInterColumnSortOrder": [],
+              "qInitialDataFetch": [],
+              "qReductionMode": "N",
+              "qMode": "S",
+              "qPseudoDimPos": -1,
+              "qNoOfLeftDims": -1,
+              "qMaxStackedCells": 5000,
+              "qCalcCond": {},
+              "qTitle": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qColumnOrder": [],
+              "qExpansionState": []
+            }
+          }
+        },
+        "showTitles": true,
+        "title": "Count",
+        "subtitle": "",
+        "footnote": "",
+        "showDetails": false,
+        "visualization": "pivot-table"
+      },
+      "qChildren": []
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "kmtJBrA",
+          "qType": "filterpane"
+        },
+        "qMetaDef": {},
+        "qChildListDef": {
+          "qData": {
+            "info": "/qInfo"
+          }
+        },
+        "showTitles": false,
+        "title": "",
+        "subtitle": "",
+        "footnote": "",
+        "showDetails": false,
+        "visualization": "filterpane"
+      },
+      "qChildren": [
+        {
+          "qProperty": {
+            "qInfo": {
+              "qId": "4785831e-9afa-4520-b3f9-94c918149369",
+              "qType": "listbox"
+            },
+            "qMetaDef": {},
+            "qListObjectDef": {
+              "qDef": {
+                "qGrouping": "N",
+                "qFieldDefs": [
+                  "Year"
+                ],
+                "qFieldLabels": [
+                  ""
+                ],
+                "qSortCriterias": [
+                  {
+                    "qSortByState": 1,
+                    "qSortByNumeric": 1,
+                    "qSortByAscii": 1,
+                    "qSortByLoadOrder": 1,
+                    "qExpression": {}
+                  }
+                ],
+                "qNumberPresentations": [],
+                "qActiveField": 0,
+                "autoSort": true,
+                "cId": "nJy"
+              },
+              "qFrequencyMode": "N",
+              "qShowAlternatives": true,
+              "qInitialDataFetch": [],
+              "qExpressions": [],
+              "qOtherTotalSpec": {}
+            },
+            "showTitles": true,
+            "title": "Year",
+            "subtitle": "",
+            "footnote": "",
+            "showDetails": false,
+            "visualization": "listbox"
+          },
+          "qChildren": []
+        }
+      ]
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "umrcG",
+          "qType": "variable"
+        },
+        "qMetaDef": {},
+        "showTitles": false,
+        "title": "Business Units Dimensions",
+        "subtitle": "",
+        "footnote": "",
+        "showDetails": false,
+        "variableName": "v_Selected_Measure_Cust_Key_Name",
+        "style": "bootstrap",
+        "width": "fill",
+        "customwidth": "10",
+        "render": "b",
+        "alternatives": [
+          {
+            "value": "1",
+            "label": "By Consolidated Customer",
+            "cId": "bwuEgp"
+          },
+          {
+            "value": "2",
+            "label": "By Business Unit Customer",
+            "cId": "WJkr"
+          },
+          {
+            "value": "3",
+            "label": "By Parent Company",
+            "cId": "KpatwZ"
+          }
+        ],
+        "min": 0,
+        "max": 100,
+        "step": 1,
+        "rangelabel": false,
+        "visualization": "variable",
+        "variableValue": {
+          "qStringExpression": {
+            "qExpr": "=v_Selected_Measure_Cust_Key_Name"
+          }
+        },
+        "version": "2.2.0",
+        "extensionMeta": {
+          "translationKey": "",
+          "icon": "puzzle",
+          "iconChar": "puzzle",
+          "isLibraryItem": true,
+          "visible": true,
+          "name": "Variable",
+          "description": "Variable extension",
+          "template": "variable",
+          "iconPath": "M14.5,9 L13,9 L13,3.3 C13,3.1 12.9,3 12.7,3 L8,3 L8,1.5 C8,0.7 7.3,0 6.5,0 C5.7,0 5,0.7 5,1.5 L5,3 L0.3,3 C0.1,3 0,3.1 0,3.3 L0,9 L1.5,9 C2.3,9 3,9.7 3,10.5 C3,11.3 2.3,12 1.5,12 L0,12 L0,15.7 C0,15.9 0.1,16 0.3,16 L5,16 L5,14.5 C5,13.7 5.7,13 6.5,13 C7.3,13 8,13.7 8,14.5 L8,16 L12.7,16 C12.9,16 13,15.9 13,15.7 L13,12 L14.5,12 C15.3,12 16,11.3 16,10.5 C16,9.7 15.3,9 14.5,9 Z",
+          "isThirdParty": true,
+          "version": "2.3.1",
+          "type": "visualization",
+          "author": "Erik Wetterberg"
+        }
+      },
+      "qChildren": []
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "mkNTr",
+          "qType": "qsSimpleKPI"
+        },
+        "qMetaDef": {},
+        "qLibraryId": "",
+        "qDef": {
+          "autoSort": true,
+          "cId": "",
+          "othersLabel": "Others"
+        },
+        "qNullSuppression": false,
+        "qOtherTotalSpec": {
+          "qOtherMode": "OTHER_OFF",
+          "qOtherSortMode": "OTHER_SORT_DESCENDING",
+          "qOtherCounted": {
+            "qv": "10"
+          },
+          "qOtherLimitMode": "OTHER_GE_LIMIT",
+          "qOtherLimit": {
+            "qv": "0"
+          },
+          "qSuppressOther": false
+        },
+        "qOtherLabel": "Others",
+        "qHyperCubeDef": {
+          "qDimensions": [],
+          "qMeasures": [
+            {
+              "qDef": {
+                "qLabel": "Tier Up",
+                "qTags": [],
+                "qGrouping": "N",
+                "qDef": "Pick(\t\t\r\n        $(v_Selected_Measure_Cust_Key_Name)\n\t\t, $(v_Customer_Tier_Gold_To_Platinum_LY)\n        + $(v_Customer_Tier_Silver_To_Platinum_LY)\n        + $(v_Customer_Tier_Silver_To_Gold_LY)\n        + $(v_Customer_Tier_Bronze_To_Platinum_LY)\n        + $(v_Customer_Tier_Bronze_To_Gold_LY)\n        + $(v_Customer_Tier_Bronze_To_Silver_LY) \n        \n        \n        \n        , $(v_Customer_Key_Tier_Gold_To_Platinum_LY)\n        + $(v_Customer_Key_Tier_Silver_To_Platinum_LY)\n        + $(v_Customer_Key_Tier_Silver_To_Gold_LY)\n        + $(v_Customer_Key_Tier_Bronze_To_Platinum_LY)\n        + $(v_Customer_Key_Tier_Bronze_To_Gold_LY)\n        + $(v_Customer_Key_Tier_Bronze_To_Silver_LY) \n        \n        ,$(v_Customer_Chain_Tier_Gold_To_Platinum_LY)\n        + $(v_Customer_Chain_Tier_Silver_To_Platinum_LY)\n        + $(v_Customer_Chain_Tier_Silver_To_Gold_LY)\n        + $(v_Customer_Chain_Tier_Bronze_To_Platinum_LY)\n        + $(v_Customer_Chain_Tier_Bronze_To_Gold_LY)\n        + $(v_Customer_Chain_Tier_Bronze_To_Silver_LY) \n        )",
+                "qNumFormat": {
+                  "qType": "F",
+                  "qnDec": 2,
+                  "qUseThou": 0,
+                  "qFmt": "#,##0",
+                  "qDec": ".",
+                  "qThou": ","
+                },
+                "qAccumulate": 0,
+                "qActiveExpression": 0,
+                "qExpressions": [],
+                "autoSort": true,
+                "cId": "PuPwDA",
+                "numFormatFromTemplate": true,
+                "autoFormatTemplate": "0A",
+                "labelColor": "#FFFFFF",
+                "valueColor": "#FFFFFF",
+                "useLink": false,
+                "kpiLink": "7f92d88f-5261-4926-bc19-9663e03e369e",
+                "hideLabel": false,
+                "hideValue": false,
+                "groupByDimension": false,
+                "groupByDimensionValue": "",
+                "ovParams": false,
+                "size": " ",
+                "labelOrientation": "",
+                "labelOrder": "first",
+                "fontStyles": "bold",
+                "textAlignment": "center",
+                "valueIcon": "",
+                "iconPosition": "label",
+                "iconOrder": "first",
+                "iconSize": "",
+                "infographic": false,
+                "embeddedItem": ""
+              },
+              "qSortBy": {
+                "qSortByNumeric": -1,
+                "qSortByLoadOrder": 1,
+                "qExpression": {}
+              },
+              "qAttributeExpressions": [
+                {
+                  "qAttribute": true
+                }
+              ],
+              "qAttributeDimensions": [],
+              "qCalcCond": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qTrendLines": [],
+              "qMiniChartDef": {
+                "qSortBy": {
+                  "qExpression": {}
+                },
+                "qOtherTotalSpec": {
+                  "qOtherMode": "OTHER_OFF",
+                  "qOtherCounted": {},
+                  "qOtherLimit": {},
+                  "qOtherLimitMode": "OTHER_GT_LIMIT",
+                  "qForceBadValueKeeping": true,
+                  "qApplyEvenWhenPossiblyWrongResult": true,
+                  "qOtherSortMode": "OTHER_SORT_DESCENDING",
+                  "qTotalMode": "TOTAL_OFF",
+                  "qReferencedExpression": {}
+                },
+                "qMaxNumberPoints": -1,
+                "qAttributeExpressions": []
+              },
+              "sheetLink": "7f92d88f-5261-4926-bc19-9663e03e369e"
+            }
+          ],
+          "qInterColumnSortOrder": [
+            0
+          ],
+          "qSuppressMissing": true,
+          "qInitialDataFetch": [
+            {
+              "qLeft": 0,
+              "qTop": 0,
+              "qWidth": 100,
+              "qHeight": 100
+            }
+          ],
+          "qReductionMode": "N",
+          "qMode": "S",
+          "qPseudoDimPos": -1,
+          "qNoOfLeftDims": -1,
+          "qMaxStackedCells": 5000,
+          "qCalcCond": {},
+          "qTitle": {},
+          "qCalcCondition": {
+            "qCond": {},
+            "qMsg": {}
+          },
+          "qColumnOrder": [],
+          "qExpansionState": [],
+          "customErrorMessage": {
+            "calcCond": ""
+          },
+          "qLayoutExclude": {
+            "qHyperCubeDef": {
+              "qDimensions": [],
+              "qMeasures": [],
+              "qInterColumnSortOrder": [
+                0
+              ],
+              "qInitialDataFetch": [],
+              "qReductionMode": "N",
+              "qMode": "S",
+              "qPseudoDimPos": -1,
+              "qNoOfLeftDims": -1,
+              "qMaxStackedCells": 5000,
+              "qCalcCond": {},
+              "qTitle": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qColumnOrder": [],
+              "qExpansionState": []
+            }
+          }
+        },
+        "showTitles": false,
+        "title": "Waste MT",
+        "subtitle": "",
+        "footnote": "",
+        "showDetails": false,
+        "options": {
+          "dimShowAs": "segment",
+          "dimDivideBy": "auto",
+          "dimensionsOrientation": "horizontal",
+          "dimLabelOrientation": "top attached",
+          "dimLabelSize": "huge",
+          "dimHideLabels": false,
+          "dimCenteredLabels": false,
+          "dimHideBorders": false,
+          "dimHideInternalBorders": false,
+          "labelOrientation": "",
+          "labelOrder": "first",
+          "size": "small",
+          "autoSize": true,
+          "divideBy": "auto",
+          "backgroundColor": {
+            "qStringExpression": {
+              "qExpr": "=Green()"
+            }
+          },
+          "verticalAlign": "stretched-items",
+          "styles": ""
+        },
+        "visualization": "qsSimpleKPI",
+        "version": 1.1,
+        "extensionMeta": {
+          "translationKey": "",
+          "icon": "kpi",
+          "iconChar": "puzzle",
+          "isLibraryItem": true,
+          "visible": true,
+          "name": "Simple KPI",
+          "description": "Simple KPI",
+          "template": "qsSimpleKPI",
+          "iconPath": "M14.5,9 L13,9 L13,3.3 C13,3.1 12.9,3 12.7,3 L8,3 L8,1.5 C8,0.7 7.3,0 6.5,0 C5.7,0 5,0.7 5,1.5 L5,3 L0.3,3 C0.1,3 0,3.1 0,3.3 L0,9 L1.5,9 C2.3,9 3,9.7 3,10.5 C3,11.3 2.3,12 1.5,12 L0,12 L0,15.7 C0,15.9 0.1,16 0.3,16 L5,16 L5,14.5 C5,13.7 5.7,13 6.5,13 C7.3,13 8,13.7 8,14.5 L8,16 L12.7,16 C12.9,16 13,15.9 13,15.7 L13,12 L14.5,12 C15.3,12 16,11.3 16,10.5 C16,9.7 15.3,9 14.5,9 Z",
+          "isThirdParty": true,
+          "preview": "preview.png",
+          "type": "visualization",
+          "version": "1.1.3",
+          "author": "Alexander Nerush",
+          "previewIconURL": "http://indevcobi.indevcogroup.com/extensions/qsSimpleKPI/preview.png"
+        },
+        "qLayoutExclude": {
+          "disabled": {
+            "showMeasureTitle": true,
+            "textAlign": "center",
+            "fontSize": "M",
+            "useLink": false,
+            "sheetLink": "",
+            "openUrlInNewTab": true,
+            "color": {
+              "useBaseColors": "measure"
+            }
+          },
+          "quarantine": {}
+        }
+      },
+      "qChildren": []
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "cgYXrq",
+          "qType": "qsSimpleKPI"
+        },
+        "qMetaDef": {},
+        "qLibraryId": "",
+        "qDef": {
+          "autoSort": true,
+          "cId": "",
+          "othersLabel": "Others"
+        },
+        "qNullSuppression": false,
+        "qOtherTotalSpec": {
+          "qOtherMode": "OTHER_OFF",
+          "qOtherSortMode": "OTHER_SORT_DESCENDING",
+          "qOtherCounted": {
+            "qv": "10"
+          },
+          "qOtherLimitMode": "OTHER_GE_LIMIT",
+          "qOtherLimit": {
+            "qv": "0"
+          },
+          "qSuppressOther": false
+        },
+        "qOtherLabel": "Others",
+        "qHyperCubeDef": {
+          "qDimensions": [],
+          "qMeasures": [
+            {
+              "qDef": {
+                "qLabel": "Tier Down",
+                "qTags": [],
+                "qGrouping": "N",
+                "qDef": "Pick(\t\t\r\n        $(v_Selected_Measure_Cust_Key_Name)\n\t\t,     $(v_Customer_Tier_Platinum_To_Gold_LY)\n           +  $(v_Customer_Tier_Platinum_To_Silver_LY)\n           +  $(v_Customer_Tier_Platinum_To_Bronze_LY)\n           +  $(v_Customer_Tier_Platinum_To_Inactive_LY)\n           +  $(v_Customer_Tier_Gold_To_Silver_LY)\n           +  $(v_Customer_Tier_Gold_To_Bronze_LY)\n           +  $(v_Customer_Tier_Gold_To_Inactive_LY)\n           +  $(v_Customer_Tier_Silver_To_Bronze_LY)\n           +  $(v_Customer_Tier_Silver_To_Inactive_LY)\n           +  $(v_Customer_Tier_Bronze_To_Inactive_LY)\n        \n        \n        ,     $(v_Customer_Key_Tier_Platinum_To_Gold_LY)\n           +  $(v_Customer_Key_Tier_Platinum_To_Silver_LY)\n           +  $(v_Customer_Key_Tier_Platinum_To_Bronze_LY)\n           +  $(v_Customer_Key_Tier_Platinum_To_Inactive_LY)\n           +  $(v_Customer_Key_Tier_Gold_To_Silver_LY)\n           +  $(v_Customer_Key_Tier_Gold_To_Bronze_LY)\n           +  $(v_Customer_Key_Tier_Gold_To_Inactive_LY)\n           +  $(v_Customer_Key_Tier_Silver_To_Bronze_LY)\n           +  $(v_Customer_Key_Tier_Silver_To_Inactive_LY)\n           +  $(v_Customer_Key_Tier_Bronze_To_Inactive_LY)\n        \n        ,     $(v_Customer_Chain_Tier_Platinum_To_Gold_LY)\n           +  $(v_Customer_Chain_Tier_Platinum_To_Silver_LY)\n           +  $(v_Customer_Chain_Tier_Platinum_To_Bronze_LY)\n           +  $(v_Customer_Chain_Tier_Platinum_To_Inactive_LY)\n           +  $(v_Customer_Chain_Tier_Gold_To_Silver_LY)\n           +  $(v_Customer_Chain_Tier_Gold_To_Bronze_LY)\n           +  $(v_Customer_Chain_Tier_Gold_To_Inactive_LY)\n           +  $(v_Customer_Chain_Tier_Silver_To_Bronze_LY)\n           +  $(v_Customer_Chain_Tier_Silver_To_Inactive_LY)\n           +  $(v_Customer_Chain_Tier_Bronze_To_Inactive_LY)\n           \n        )",
+                "qNumFormat": {
+                  "qType": "F",
+                  "qnDec": 2,
+                  "qUseThou": 0,
+                  "qFmt": "#,##0",
+                  "qDec": ".",
+                  "qThou": ","
+                },
+                "qAccumulate": 0,
+                "qActiveExpression": 0,
+                "qExpressions": [],
+                "autoSort": true,
+                "cId": "PuPwDA",
+                "numFormatFromTemplate": true,
+                "autoFormatTemplate": "0A",
+                "labelColor": {
+                  "qStringExpression": {
+                    "qExpr": "rgb(255,255,255)"
+                  }
+                },
+                "valueColor": {
+                  "qStringExpression": {
+                    "qExpr": "=rgb(255,255,255)"
+                  }
+                },
+                "useLink": false,
+                "kpiLink": "7f92d88f-5261-4926-bc19-9663e03e369e",
+                "hideLabel": false,
+                "hideValue": false,
+                "groupByDimension": false,
+                "groupByDimensionValue": "",
+                "ovParams": false,
+                "size": " ",
+                "labelOrientation": "",
+                "labelOrder": "first",
+                "fontStyles": "bold",
+                "textAlignment": "center",
+                "valueIcon": "",
+                "iconPosition": "label",
+                "iconOrder": "first",
+                "iconSize": "",
+                "infographic": false,
+                "embeddedItem": ""
+              },
+              "qSortBy": {
+                "qSortByNumeric": -1,
+                "qSortByLoadOrder": 1,
+                "qExpression": {}
+              },
+              "qAttributeExpressions": [
+                {
+                  "qAttribute": true
+                }
+              ],
+              "qAttributeDimensions": [],
+              "qCalcCond": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qTrendLines": [],
+              "qMiniChartDef": {
+                "qSortBy": {
+                  "qExpression": {}
+                },
+                "qOtherTotalSpec": {
+                  "qOtherMode": "OTHER_OFF",
+                  "qOtherCounted": {},
+                  "qOtherLimit": {},
+                  "qOtherLimitMode": "OTHER_GT_LIMIT",
+                  "qForceBadValueKeeping": true,
+                  "qApplyEvenWhenPossiblyWrongResult": true,
+                  "qOtherSortMode": "OTHER_SORT_DESCENDING",
+                  "qTotalMode": "TOTAL_OFF",
+                  "qReferencedExpression": {}
+                },
+                "qMaxNumberPoints": -1,
+                "qAttributeExpressions": []
+              },
+              "sheetLink": "7f92d88f-5261-4926-bc19-9663e03e369e"
+            }
+          ],
+          "qInterColumnSortOrder": [
+            0
+          ],
+          "qSuppressMissing": true,
+          "qInitialDataFetch": [
+            {
+              "qLeft": 0,
+              "qTop": 0,
+              "qWidth": 100,
+              "qHeight": 100
+            }
+          ],
+          "qReductionMode": "N",
+          "qMode": "S",
+          "qPseudoDimPos": -1,
+          "qNoOfLeftDims": -1,
+          "qMaxStackedCells": 5000,
+          "qCalcCond": {},
+          "qTitle": {},
+          "qCalcCondition": {
+            "qCond": {},
+            "qMsg": {}
+          },
+          "qColumnOrder": [],
+          "qExpansionState": [],
+          "customErrorMessage": {
+            "calcCond": ""
+          },
+          "qLayoutExclude": {
+            "qHyperCubeDef": {
+              "qDimensions": [],
+              "qMeasures": [],
+              "qInterColumnSortOrder": [
+                0
+              ],
+              "qInitialDataFetch": [],
+              "qReductionMode": "N",
+              "qMode": "S",
+              "qPseudoDimPos": -1,
+              "qNoOfLeftDims": -1,
+              "qMaxStackedCells": 5000,
+              "qCalcCond": {},
+              "qTitle": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qColumnOrder": [],
+              "qExpansionState": []
+            }
+          }
+        },
+        "showTitles": false,
+        "title": "Waste MT",
+        "subtitle": "",
+        "footnote": "",
+        "showDetails": false,
+        "options": {
+          "dimShowAs": "segment",
+          "dimDivideBy": "auto",
+          "dimensionsOrientation": "horizontal",
+          "dimLabelOrientation": "top attached",
+          "dimLabelSize": "huge",
+          "dimHideLabels": false,
+          "dimCenteredLabels": false,
+          "dimHideBorders": false,
+          "dimHideInternalBorders": false,
+          "labelOrientation": "",
+          "labelOrder": "first",
+          "size": "small",
+          "autoSize": true,
+          "divideBy": "auto",
+          "backgroundColor": {
+            "qStringExpression": {
+              "qExpr": "=rgb(255,0,0)"
+            }
+          },
+          "verticalAlign": "stretched-items",
+          "styles": ""
+        },
+        "visualization": "qsSimpleKPI",
+        "version": 1.1,
+        "extensionMeta": {
+          "translationKey": "",
+          "icon": "kpi",
+          "iconChar": "puzzle",
+          "isLibraryItem": true,
+          "visible": true,
+          "name": "Simple KPI",
+          "description": "Simple KPI",
+          "template": "qsSimpleKPI",
+          "iconPath": "M14.5,9 L13,9 L13,3.3 C13,3.1 12.9,3 12.7,3 L8,3 L8,1.5 C8,0.7 7.3,0 6.5,0 C5.7,0 5,0.7 5,1.5 L5,3 L0.3,3 C0.1,3 0,3.1 0,3.3 L0,9 L1.5,9 C2.3,9 3,9.7 3,10.5 C3,11.3 2.3,12 1.5,12 L0,12 L0,15.7 C0,15.9 0.1,16 0.3,16 L5,16 L5,14.5 C5,13.7 5.7,13 6.5,13 C7.3,13 8,13.7 8,14.5 L8,16 L12.7,16 C12.9,16 13,15.9 13,15.7 L13,12 L14.5,12 C15.3,12 16,11.3 16,10.5 C16,9.7 15.3,9 14.5,9 Z",
+          "isThirdParty": true,
+          "preview": "preview.png",
+          "type": "visualization",
+          "version": "1.1.3",
+          "author": "Alexander Nerush",
+          "previewIconURL": "http://indevcobi.indevcogroup.com/extensions/qsSimpleKPI/preview.png"
+        },
+        "qLayoutExclude": {
+          "disabled": {
+            "showMeasureTitle": true,
+            "textAlign": "center",
+            "fontSize": "M",
+            "useLink": false,
+            "sheetLink": "",
+            "openUrlInNewTab": true,
+            "color": {
+              "useBaseColors": "measure"
+            }
+          },
+          "quarantine": {}
+        }
+      },
+      "qChildren": []
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "VXeRxV",
+          "qType": "qsSimpleKPI"
+        },
+        "qMetaDef": {},
+        "qLibraryId": "",
+        "qDef": {
+          "autoSort": true,
+          "cId": "",
+          "othersLabel": "Others"
+        },
+        "qNullSuppression": false,
+        "qOtherTotalSpec": {
+          "qOtherMode": "OTHER_OFF",
+          "qOtherSortMode": "OTHER_SORT_DESCENDING",
+          "qOtherCounted": {
+            "qv": "10"
+          },
+          "qOtherLimitMode": "OTHER_GE_LIMIT",
+          "qOtherLimit": {
+            "qv": "0"
+          },
+          "qSuppressOther": false
+        },
+        "qOtherLabel": "Others",
+        "qHyperCubeDef": {
+          "qDimensions": [],
+          "qMeasures": [
+            {
+              "qDef": {
+                "qLabel": "Same Tier",
+                "qTags": [],
+                "qGrouping": "N",
+                "qDef": "Pick(\t\t\r\n        $(v_Selected_Measure_Cust_Key_Name)\n\t\t,   $(v_Customer_Tier_Platinum_To_Platinum_LY)\n          + $(v_Customer_Tier_Gold_To_Gold_LY)\n          + $(v_Customer_Tier_Silver_To_Silver_LY)\n          + $(v_Customer_Tier_Bronze_To_Bronze_LY)\n        \n        ,  $(v_Customer_Key_Tier_Platinum_To_Platinum_LY)\n          + $(v_Customer_Key_Tier_Gold_To_Gold_LY)\n          + $(v_Customer_Key_Tier_Silver_To_Silver_LY)\n          + $(v_Customer_Key_Tier_Bronze_To_Bronze_LY)\n        \n        ,  $(v_Customer_Chain_Tier_Platinum_To_Platinum_LY)\n          + $(v_Customer_Chain_Tier_Gold_To_Gold_LY)\n          + $(v_Customer_Chain_Tier_Silver_To_Silver_LY)\n          + $(v_Customer_Chain_Tier_Bronze_To_Bronze_LY)\n        )",
+                "qNumFormat": {
+                  "qType": "F",
+                  "qnDec": 2,
+                  "qUseThou": 0,
+                  "qFmt": "#,##0",
+                  "qDec": ".",
+                  "qThou": ","
+                },
+                "qAccumulate": 0,
+                "qActiveExpression": 0,
+                "qExpressions": [],
+                "autoSort": true,
+                "cId": "PuPwDA",
+                "numFormatFromTemplate": true,
+                "autoFormatTemplate": "0A",
+                "labelColor": "#1b1c1d",
+                "valueColor": "#1b1c1d",
+                "useLink": false,
+                "kpiLink": "7f92d88f-5261-4926-bc19-9663e03e369e",
+                "hideLabel": false,
+                "hideValue": false,
+                "groupByDimension": false,
+                "groupByDimensionValue": "",
+                "ovParams": false,
+                "size": " ",
+                "labelOrientation": "",
+                "labelOrder": "first",
+                "fontStyles": "bold",
+                "textAlignment": "center",
+                "valueIcon": "",
+                "iconPosition": "label",
+                "iconOrder": "first",
+                "iconSize": "",
+                "infographic": false,
+                "embeddedItem": ""
+              },
+              "qSortBy": {
+                "qSortByNumeric": -1,
+                "qSortByLoadOrder": 1,
+                "qExpression": {}
+              },
+              "qAttributeExpressions": [
+                {
+                  "qAttribute": true
+                }
+              ],
+              "qAttributeDimensions": [],
+              "qCalcCond": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qTrendLines": [],
+              "qMiniChartDef": {
+                "qSortBy": {
+                  "qExpression": {}
+                },
+                "qOtherTotalSpec": {
+                  "qOtherMode": "OTHER_OFF",
+                  "qOtherCounted": {},
+                  "qOtherLimit": {},
+                  "qOtherLimitMode": "OTHER_GT_LIMIT",
+                  "qForceBadValueKeeping": true,
+                  "qApplyEvenWhenPossiblyWrongResult": true,
+                  "qOtherSortMode": "OTHER_SORT_DESCENDING",
+                  "qTotalMode": "TOTAL_OFF",
+                  "qReferencedExpression": {}
+                },
+                "qMaxNumberPoints": -1,
+                "qAttributeExpressions": []
+              },
+              "sheetLink": "7f92d88f-5261-4926-bc19-9663e03e369e"
+            }
+          ],
+          "qInterColumnSortOrder": [
+            0
+          ],
+          "qSuppressMissing": true,
+          "qInitialDataFetch": [
+            {
+              "qLeft": 0,
+              "qTop": 0,
+              "qWidth": 100,
+              "qHeight": 100
+            }
+          ],
+          "qReductionMode": "N",
+          "qMode": "S",
+          "qPseudoDimPos": -1,
+          "qNoOfLeftDims": -1,
+          "qMaxStackedCells": 5000,
+          "qCalcCond": {},
+          "qTitle": {},
+          "qCalcCondition": {
+            "qCond": {},
+            "qMsg": {}
+          },
+          "qColumnOrder": [],
+          "qExpansionState": [],
+          "customErrorMessage": {
+            "calcCond": ""
+          },
+          "qLayoutExclude": {
+            "qHyperCubeDef": {
+              "qDimensions": [],
+              "qMeasures": [],
+              "qInterColumnSortOrder": [
+                0
+              ],
+              "qInitialDataFetch": [],
+              "qReductionMode": "N",
+              "qMode": "S",
+              "qPseudoDimPos": -1,
+              "qNoOfLeftDims": -1,
+              "qMaxStackedCells": 5000,
+              "qCalcCond": {},
+              "qTitle": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qColumnOrder": [],
+              "qExpansionState": []
+            }
+          }
+        },
+        "showTitles": false,
+        "title": "Waste MT",
+        "subtitle": "",
+        "footnote": "",
+        "showDetails": false,
+        "options": {
+          "dimShowAs": "segment",
+          "dimDivideBy": "auto",
+          "dimensionsOrientation": "horizontal",
+          "dimLabelOrientation": "top attached",
+          "dimLabelSize": "huge",
+          "dimHideLabels": false,
+          "dimCenteredLabels": false,
+          "dimHideBorders": false,
+          "dimHideInternalBorders": false,
+          "labelOrientation": "",
+          "labelOrder": "first",
+          "size": "small",
+          "autoSize": true,
+          "divideBy": "auto",
+          "backgroundColor": "rgb(220,220,220)",
+          "verticalAlign": "stretched-items",
+          "styles": ""
+        },
+        "visualization": "qsSimpleKPI",
+        "version": 1.1,
+        "extensionMeta": {
+          "translationKey": "",
+          "icon": "kpi",
+          "iconChar": "puzzle",
+          "isLibraryItem": true,
+          "visible": true,
+          "name": "Simple KPI",
+          "description": "Simple KPI",
+          "template": "qsSimpleKPI",
+          "iconPath": "M14.5,9 L13,9 L13,3.3 C13,3.1 12.9,3 12.7,3 L8,3 L8,1.5 C8,0.7 7.3,0 6.5,0 C5.7,0 5,0.7 5,1.5 L5,3 L0.3,3 C0.1,3 0,3.1 0,3.3 L0,9 L1.5,9 C2.3,9 3,9.7 3,10.5 C3,11.3 2.3,12 1.5,12 L0,12 L0,15.7 C0,15.9 0.1,16 0.3,16 L5,16 L5,14.5 C5,13.7 5.7,13 6.5,13 C7.3,13 8,13.7 8,14.5 L8,16 L12.7,16 C12.9,16 13,15.9 13,15.7 L13,12 L14.5,12 C15.3,12 16,11.3 16,10.5 C16,9.7 15.3,9 14.5,9 Z",
+          "isThirdParty": true,
+          "preview": "preview.png",
+          "type": "visualization",
+          "version": "1.1.3",
+          "author": "Alexander Nerush",
+          "previewIconURL": "http://indevcobi.indevcogroup.com/extensions/qsSimpleKPI/preview.png"
+        },
+        "qLayoutExclude": {
+          "disabled": {
+            "showMeasureTitle": true,
+            "textAlign": "center",
+            "fontSize": "M",
+            "useLink": false,
+            "sheetLink": "",
+            "openUrlInNewTab": true,
+            "color": {
+              "useBaseColors": "measure"
+            }
+          },
+          "quarantine": {}
+        }
+      },
+      "qChildren": []
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "MHbhZT",
+          "qType": "qssidemenu"
+        },
+        "qExtendsId": "3354b4ab-db63-40bc-af18-66084d787913",
+        "qMetaDef": {}
+      },
+      "qChildren": []
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "ypkCaJ",
+          "qType": "text-image"
+        },
+        "qMetaDef": {},
+        "qHyperCubeDef": {
+          "qDimensions": [],
+          "qMeasures": [],
+          "qInterColumnSortOrder": [],
+          "qInitialDataFetch": [],
+          "qReductionMode": "N",
+          "qMode": "S",
+          "qPseudoDimPos": -1,
+          "qNoOfLeftDims": -1,
+          "qMaxStackedCells": 5000,
+          "qCalcCond": {},
+          "qTitle": {},
+          "qCalcCondition": {
+            "qCond": {},
+            "qMsg": {}
+          },
+          "qColumnOrder": [],
+          "qExpansionState": [],
+          "qLayoutExclude": {
+            "qHyperCubeDef": {
+              "qDimensions": [],
+              "qMeasures": [],
+              "qInterColumnSortOrder": [],
+              "qInitialDataFetch": [],
+              "qReductionMode": "N",
+              "qMode": "S",
+              "qPseudoDimPos": -1,
+              "qNoOfLeftDims": -1,
+              "qMaxStackedCells": 5000,
+              "qCalcCond": {},
+              "qTitle": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qColumnOrder": [],
+              "qExpansionState": []
+            }
+          }
+        },
+        "showTitles": false,
+        "title": "",
+        "subtitle": "",
+        "footnote": "",
+        "showDetails": false,
+        "responsive": "all",
+        "markdown": "^[%[**#[Customer Migration Mix Count](10)**](5)](center)",
+        "images": [],
+        "background": {
+          "isUsed": true,
+          "size": "fill",
+          "position": "topLeft",
+          "url": {
+            "qStaticContentUrlDef": {
+              "qUrl": "/content/Default/BLUE ICON.png"
+            }
+          }
+        },
+        "visualization": "text-image"
+      },
+      "qChildren": []
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "wznLSXJ",
+          "qType": "text-image"
+        },
+        "qMetaDef": {},
+        "qHyperCubeDef": {
+          "qDimensions": [],
+          "qMeasures": [],
+          "qInterColumnSortOrder": [],
+          "qInitialDataFetch": [],
+          "qReductionMode": "N",
+          "qMode": "S",
+          "qPseudoDimPos": -1,
+          "qNoOfLeftDims": -1,
+          "qMaxStackedCells": 5000,
+          "qCalcCond": {},
+          "qTitle": {},
+          "qCalcCondition": {
+            "qCond": {},
+            "qMsg": {}
+          },
+          "qColumnOrder": [],
+          "qExpansionState": [],
+          "qLayoutExclude": {
+            "qHyperCubeDef": {
+              "qDimensions": [],
+              "qMeasures": [],
+              "qInterColumnSortOrder": [],
+              "qInitialDataFetch": [],
+              "qReductionMode": "N",
+              "qMode": "S",
+              "qPseudoDimPos": -1,
+              "qNoOfLeftDims": -1,
+              "qMaxStackedCells": 5000,
+              "qCalcCond": {},
+              "qTitle": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qColumnOrder": [],
+              "qExpansionState": []
+            }
+          }
+        },
+        "showTitles": false,
+        "title": "",
+        "subtitle": "",
+        "footnote": "",
+        "showDetails": false,
+        "responsive": "all",
+        "markdown": "^[**%[#[Customer Migration Mix Revenues](10)](5)**](center)",
+        "images": [],
+        "background": {
+          "isUsed": true,
+          "size": "fill",
+          "position": "topLeft",
+          "url": {
+            "qStaticContentUrlDef": {
+              "qUrl": "/content/Default/BLUE ICON.png"
+            }
+          }
+        },
+        "visualization": "text-image"
+      },
+      "qChildren": []
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "GbPPDr",
+          "qType": "swr-sense-navigation"
+        },
+        "qMetaDef": {},
+        "showTitles": false,
+        "title": "",
+        "subtitle": "",
+        "footnote": "",
+        "showDetails": false,
+        "props": {
+          "buttonLabel": "Main Menu",
+          "buttonStyle": "danger",
+          "fullWidth": true,
+          "buttonAlign": "center",
+          "isButtonMultiLine": true,
+          "buttonIcon": "renren",
+          "action": "gotoSheet",
+          "sheetId": "",
+          "selectedSheet": "1f56234b-4be2-40d1-98f4-fb9bc2e7032d",
+          "selectedStory": "",
+          "websiteUrl": "",
+          "isActionsBefore": false,
+          "actionBefore1": "none",
+          "field1": "",
+          "variable1": "",
+          "value1": "",
+          "value1Desc": null,
+          "bookmark1": "",
+          "softlock1": false,
+          "actionBefore2": "none",
+          "field2": "",
+          "variable2": "",
+          "value2": "",
+          "value2Desc": "",
+          "bookmark2": "",
+          "softlock2": false
+        },
+        "visualization": "swr-sense-navigation",
+        "version": "0.8.1",
+        "extensionMeta": {
+          "translationKey": "",
+          "icon": "puzzle",
+          "iconChar": "puzzle",
+          "isLibraryItem": true,
+          "visible": true,
+          "name": "Sheet Navigation & Actions",
+          "description": "Sense Sheet Navigation + Actions visualization extension for Qlik Sense.",
+          "template": "swr-sense-navigation",
+          "iconPath": "M14.5,9 L13,9 L13,3.3 C13,3.1 12.9,3 12.7,3 L8,3 L8,1.5 C8,0.7 7.3,0 6.5,0 C5.7,0 5,0.7 5,1.5 L5,3 L0.3,3 C0.1,3 0,3.1 0,3.3 L0,9 L1.5,9 C2.3,9 3,9.7 3,10.5 C3,11.3 2.3,12 1.5,12 L0,12 L0,15.7 C0,15.9 0.1,16 0.3,16 L5,16 L5,14.5 C5,13.7 5.7,13 6.5,13 C7.3,13 8,13.7 8,14.5 L8,16 L12.7,16 C12.9,16 13,15.9 13,15.7 L13,12 L14.5,12 C15.3,12 16,11.3 16,10.5 C16,9.7 15.3,9 14.5,9 Z",
+          "isThirdParty": true,
+          "type": "visualization",
+          "version": "0.8.1",
+          "preview": "swr-sense-navigation.png",
+          "author": "Stefan Walther",
+          "license": "MIT",
+          "homepage": "http://github.com/stefanwalther/sense-navigation",
+          "keywords": "qlik-sense, visualization",
+          "repository": "https://github.com/stefanwalther/sense-navigation",
+          "dependencies": {
+            "qlik-sense": ">=2.1.1"
+          },
+          "previewIconURL": "http://indevcobi.indevcogroup.com/extensions/swr-sense-navigation/swr-sense-navigation.png"
+        }
+      },
+      "qChildren": []
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "XMBYdE",
+          "qType": "text-image"
+        },
+        "qMetaDef": {},
+        "qHyperCubeDef": {
+          "qDimensions": [],
+          "qMeasures": [
+            {
+              "qDef": {
+                "qTags": [],
+                "qGrouping": "N",
+                "qDef": "$(v_Max_Year_LY_2)",
+                "qNumFormat": {
+                  "qType": "U",
+                  "qnDec": 10,
+                  "qUseThou": 0
+                },
+                "qAccumulate": 0,
+                "qActiveExpression": 0,
+                "qExpressions": [],
+                "autoSort": true,
+                "cId": "fPUSm",
+                "numFormatFromTemplate": true
+              },
+              "qSortBy": {
+                "qSortByNumeric": -1,
+                "qSortByLoadOrder": 1,
+                "qExpression": {}
+              },
+              "qAttributeExpressions": [],
+              "qAttributeDimensions": [],
+              "qCalcCond": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qTrendLines": [],
+              "qMiniChartDef": {
+                "qSortBy": {
+                  "qExpression": {}
+                },
+                "qOtherTotalSpec": {
+                  "qOtherMode": "OTHER_OFF",
+                  "qOtherCounted": {},
+                  "qOtherLimit": {},
+                  "qOtherLimitMode": "OTHER_GT_LIMIT",
+                  "qForceBadValueKeeping": true,
+                  "qApplyEvenWhenPossiblyWrongResult": true,
+                  "qOtherSortMode": "OTHER_SORT_DESCENDING",
+                  "qTotalMode": "TOTAL_OFF",
+                  "qReferencedExpression": {}
+                },
+                "qMaxNumberPoints": -1,
+                "qAttributeExpressions": []
+              }
+            },
+            {
+              "qDef": {
+                "qTags": [],
+                "qGrouping": "N",
+                "qDef": "$(v_Max_Year_LY)",
+                "qNumFormat": {
+                  "qType": "U",
+                  "qnDec": 10,
+                  "qUseThou": 0
+                },
+                "qAccumulate": 0,
+                "qActiveExpression": 0,
+                "qExpressions": [],
+                "autoSort": true,
+                "cId": "PNcmyTu",
+                "numFormatFromTemplate": true
+              },
+              "qSortBy": {
+                "qSortByNumeric": -1,
+                "qSortByLoadOrder": 1,
+                "qExpression": {}
+              },
+              "qAttributeExpressions": [],
+              "qAttributeDimensions": [],
+              "qCalcCond": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qTrendLines": [],
+              "qMiniChartDef": {
+                "qSortBy": {
+                  "qExpression": {}
+                },
+                "qOtherTotalSpec": {
+                  "qOtherMode": "OTHER_OFF",
+                  "qOtherCounted": {},
+                  "qOtherLimit": {},
+                  "qOtherLimitMode": "OTHER_GT_LIMIT",
+                  "qForceBadValueKeeping": true,
+                  "qApplyEvenWhenPossiblyWrongResult": true,
+                  "qOtherSortMode": "OTHER_SORT_DESCENDING",
+                  "qTotalMode": "TOTAL_OFF",
+                  "qReferencedExpression": {}
+                },
+                "qMaxNumberPoints": -1,
+                "qAttributeExpressions": []
+              }
+            }
+          ],
+          "qInterColumnSortOrder": [
+            0,
+            1
+          ],
+          "qInitialDataFetch": [],
+          "qReductionMode": "N",
+          "qMode": "S",
+          "qPseudoDimPos": -1,
+          "qNoOfLeftDims": -1,
+          "qMaxStackedCells": 5000,
+          "qCalcCond": {},
+          "qTitle": {},
+          "qCalcCondition": {
+            "qCond": {},
+            "qMsg": {}
+          },
+          "qColumnOrder": [],
+          "qExpansionState": [],
+          "qLayoutExclude": {
+            "qHyperCubeDef": {
+              "qDimensions": [],
+              "qMeasures": [],
+              "qInterColumnSortOrder": [],
+              "qInitialDataFetch": [],
+              "qReductionMode": "N",
+              "qMode": "S",
+              "qPseudoDimPos": -1,
+              "qNoOfLeftDims": -1,
+              "qMaxStackedCells": 5000,
+              "qCalcCond": {},
+              "qTitle": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qColumnOrder": [],
+              "qExpansionState": []
+            }
+          }
+        },
+        "showTitles": false,
+        "title": "",
+        "subtitle": "",
+        "footnote": "",
+        "showDetails": false,
+        "responsive": "all",
+        "markdown": "^[%[**=[](fPUSm)     **](4)#[%[**TO    **](4)](7)%[**=[](PNcmyTu)**](4)](center)",
+        "images": [],
+        "background": {
+          "isUsed": false,
+          "size": "auto",
+          "position": "topLeft",
+          "url": {}
+        },
+        "visualization": "text-image"
+      },
+      "qChildren": []
+    },
+    {
+      "qProperty": {
+        "qInfo": {
+          "qId": "dJpPZkZ",
+          "qType": "text-image"
+        },
+        "qMetaDef": {},
+        "qHyperCubeDef": {
+          "qDimensions": [],
+          "qMeasures": [],
+          "qInterColumnSortOrder": [],
+          "qInitialDataFetch": [],
+          "qReductionMode": "N",
+          "qMode": "S",
+          "qPseudoDimPos": -1,
+          "qNoOfLeftDims": -1,
+          "qMaxStackedCells": 5000,
+          "qCalcCond": {},
+          "qTitle": {},
+          "qCalcCondition": {
+            "qCond": {},
+            "qMsg": {}
+          },
+          "qColumnOrder": [],
+          "qExpansionState": [],
+          "qLayoutExclude": {
+            "qHyperCubeDef": {
+              "qDimensions": [],
+              "qMeasures": [],
+              "qInterColumnSortOrder": [],
+              "qInitialDataFetch": [],
+              "qReductionMode": "N",
+              "qMode": "S",
+              "qPseudoDimPos": -1,
+              "qNoOfLeftDims": -1,
+              "qMaxStackedCells": 5000,
+              "qCalcCond": {},
+              "qTitle": {},
+              "qCalcCondition": {
+                "qCond": {},
+                "qMsg": {}
+              },
+              "qColumnOrder": [],
+              "qExpansionState": []
+            }
+          }
+        },
+        "showTitles": false,
+        "title": "",
+        "subtitle": "",
+        "footnote": "",
+        "showDetails": false,
+        "responsive": "all",
+        "markdown": "^[**%[Customer Migration Mix](5)**\n](center)^[**\n**](center)^[\n](center)^[**%[~By Scoring Points~](4)**](center)^[\n](left)^[**#[Customers are allocated to Tiers based on Scoring Brackets](7)**](center)^[**#[\n](11)**](left)^[**1. Platinum  :  &gt;= 76 Points**](center)^[**2. Gold****:  &gt;= 51 AND &lt; 76 Point**](center)^[**3. Silver : &gt;= 26 AND &lt; 51 Points**](center)^[**4. Bronze:  &lt; 26 Points**](center)^[**\n**](center)^[^[\n](inherit)^[**\n**](inherit)](center)^[**#[\n](7)**](left)^[\n](left)^[\n](left)^[\n](center)",
+        "images": [],
+        "background": {
+          "isUsed": false,
+          "size": "auto",
+          "position": "topLeft",
+          "url": {}
+        },
+        "visualization": "text-image"
+      },
+      "qChildren": []
+    }
+  ]
+}
